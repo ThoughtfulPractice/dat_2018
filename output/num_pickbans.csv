@@ -1,89 +1,116 @@
-,hero_id,num_bans,num_picks,hero_name,sum_pickban
-0,91,33.0,10.0,Io,43.0
-1,58,32.0,13.0,Enchantress,45.0
-2,63,31.0,11.0,Weaver,42.0
-3,61,24.0,4.0,Broodmother,28.0
-4,75,22.0,17.0,Silencer,39.0
-5,6,22.0,9.0,Drow Ranger,31.0
-6,19,22.0,18.0,Tiny,40.0
-7,45,20.0,6.0,Pugna,26.0
-8,66,20.0,9.0,Chen,29.0
-9,36,19.0,15.0,Necrophos,34.0
-10,67,18.0,8.0,Spectre,26.0
-11,53,17.0,7.0,Nature's Prophet,24.0
-12,12,16.0,13.0,Phantom Lancer,29.0
-13,42,16.0,11.0,Wraith King,27.0
-14,70,16.0,12.0,Ursa,28.0
-15,9,15.0,13.0,Mirana,28.0
-16,17,14.0,10.0,Storm Spirit,24.0
-17,20,14.0,20.0,Vengeful Spirit,34.0
-18,56,13.0,11.0,Clinkz,24.0
-19,73,13.0,10.0,Alchemist,23.0
-20,59,11.0,3.0,Huskar,14.0
-21,113,10.0,3.0,Arc Warden,13.0
-22,74,10.0,7.0,Invoker,17.0
-23,4,9.0,7.0,Bloodseeker,16.0
-24,119,8.0,12.0,Dark Willow,20.0
-25,85,7.0,9.0,Undying,16.0
-26,10,7.0,3.0,Morphling,10.0
-27,65,6.0,6.0,Batrider,12.0
-28,5,6.0,4.0,Crystal Maiden,10.0
-29,88,6.0,1.0,Nyx Assassin,7.0
-30,46,6.0,3.0,Templar Assassin,9.0
-31,23,6.0,5.0,Kunkka,11.0
-32,77,5.0,2.0,Lycan,7.0
-33,40,5.0,6.0,Venomancer,11.0
-34,114,4.0,2.0,Monkey King,6.0
-35,7,4.0,16.0,Earthshaker,20.0
-36,49,4.0,5.0,Dragon Knight,9.0
-37,25,4.0,11.0,Lina,15.0
-38,112,4.0,10.0,Winter Wyvern,14.0
-39,82,3.0,1.0,Meepo,4.0
-40,100,3.0,4.0,Tusk,7.0
-41,3,3.0,14.0,Bane,17.0
-42,103,3.0,5.0,Elder Titan,8.0
-43,109,3.0,8.0,Terrorblade,11.0
-44,110,3.0,9.0,Phoenix,12.0
-45,33,3.0,4.0,Enigma,7.0
-46,22,2.0,5.0,Zeus,7.0
-47,1,2.0,0.0,Anti-Mage,2.0
-48,31,2.0,7.0,Lich,9.0
-49,72,2.0,11.0,Gyrocopter,13.0
-50,92,2.0,2.0,Visage,4.0
-51,96,2.0,2.0,Centaur Warrunner,4.0
-52,101,2.0,0.0,Skywrath Mage,2.0
-53,32,1.0,0.0,Riki,1.0
-54,34,1.0,1.0,Tinker,2.0
-55,39,1.0,0.0,Queen of Pain,1.0
-56,41,1.0,0.0,Faceless Void,1.0
-57,51,1.0,2.0,Clockwerk,3.0
-58,52,1.0,1.0,Leshrac,2.0
-59,57,1.0,0.0,Omniknight,1.0
-60,8,1.0,0.0,Juggernaut,1.0
-61,84,1.0,5.0,Ogre Magi,6.0
-62,54,1.0,0.0,Lifestealer,1.0
-63,107,0.0,6.0,Earth Spirit,6.0
-64,78,0.0,5.0,Brewmaster,5.0
-65,64,0.0,3.0,Jakiro,3.0
-66,106,0.0,3.0,Ember Spirit,3.0
-67,95,0.0,3.0,Troll Warlord,3.0
-68,97,0.0,3.0,Magnus,3.0
-69,86,0.0,3.0,Rubick,3.0
-70,111,0.0,2.0,Oracle,2.0
-71,108,0.0,2.0,Underlord,2.0
-72,83,0.0,2.0,Treant Protector,2.0
-73,102,0.0,1.0,Abaddon,1.0
-74,11,0.0,1.0,Shadow Fiend,1.0
-75,98,0.0,1.0,Timbersaw,1.0
-76,94,0.0,1.0,Medusa,1.0
-77,87,0.0,1.0,Disruptor,1.0
-78,21,0.0,1.0,Windranger,1.0
-79,90,0.0,1.0,Keeper of the Light,1.0
-80,26,0.0,1.0,Lion,1.0
-81,30,0.0,1.0,Witch Doctor,1.0
-82,37,0.0,1.0,Warlock,1.0
-83,81,0.0,1.0,Chaos Knight,1.0
-84,71,0.0,1.0,Spirit Breaker,1.0
-85,47,0.0,1.0,Viper,1.0
-86,48,0.0,1.0,Luna,1.0
-87,2,0.0,1.0,Axe,1.0
+hero_id,num_bans,num_picks,hero_name,sum_pickban
+91,549,77.0,Io,626.0
+12,316,134.0,Phantom Lancer,450.0
+77,281,96.0,Lycan,377.0
+66,276,70.0,Chen,346.0
+60,276,105.0,Night Stalker,381.0
+89,258,141.0,Naga Siren,399.0
+43,196,146.0,Death Prophet,342.0
+53,179,86.0,Nature's Prophet,265.0
+4,177,88.0,Bloodseeker,265.0
+38,170,155.0,Beastmaster,325.0
+57,167,68.0,Omniknight,235.0
+61,166,33.0,Broodmother,199.0
+51,166,133.0,Clockwerk,299.0
+19,160,128.0,Tiny,288.0
+58,155,40.0,Enchantress,195.0
+49,146,161.0,Dragon Knight,307.0
+3,145,173.0,Bane,318.0
+10,142,82.0,Morphling,224.0
+92,141,53.0,Visage,194.0
+16,139,190.0,Sand King,329.0
+54,139,88.0,Lifestealer,227.0
+72,131,169.0,Gyrocopter,300.0
+52,129,179.0,Leshrac,308.0
+9,126,154.0,Mirana,280.0
+106,123,112.0,Ember Spirit,235.0
+23,122,96.0,Kunkka,218.0
+63,122,71.0,Weaver,193.0
+93,121,63.0,Slark,184.0
+62,121,39.0,Bounty Hunter,160.0
+25,119,148.0,Lina,267.0
+15,115,61.0,Razor,176.0
+75,115,73.0,Silencer,188.0
+36,114,60.0,Necrophos,174.0
+37,112,141.0,Warlock,253.0
+41,110,75.0,Faceless Void,185.0
+109,109,57.0,Terrorblade,166.0
+100,109,142.0,Tusk,251.0
+45,109,65.0,Pugna,174.0
+88,108,70.0,Nyx Assassin,178.0
+69,106,114.0,Doom,220.0
+80,99,38.0,Lone Druid,137.0
+76,96,58.0,Outworld Devourer,154.0
+48,95,88.0,Luna,183.0
+46,95,75.0,Templar Assassin,170.0
+6,94,51.0,Drow Ranger,145.0
+59,90,30.0,Huskar,120.0
+119,88,100.0,Dark Willow,188.0
+2,83,71.0,Axe,154.0
+108,81,74.0,Underlord,155.0
+85,79,89.0,Undying,168.0
+120,76,69.0,Pangolier,145.0
+17,76,84.0,Storm Spirit,160.0
+65,75,59.0,Batrider,134.0
+21,69,136.0,Windranger,205.0
+67,67,66.0,Spectre,133.0
+42,67,74.0,Wraith King,141.0
+56,61,59.0,Clinkz,120.0
+78,61,78.0,Brewmaster,139.0
+47,59,39.0,Viper,98.0
+87,59,148.0,Disruptor,207.0
+101,57,119.0,Skywrath Mage,176.0
+103,55,95.0,Elder Titan,150.0
+33,51,33.0,Enigma,84.0
+70,50,52.0,Ursa,102.0
+112,50,78.0,Winter Wyvern,128.0
+40,50,53.0,Venomancer,103.0
+20,47,118.0,Vengeful Spirit,165.0
+64,45,114.0,Jakiro,159.0
+11,43,37.0,Shadow Fiend,80.0
+95,42,54.0,Troll Warlord,96.0
+74,41,41.0,Invoker,82.0
+30,41,141.0,Witch Doctor,182.0
+68,40,55.0,Ancient Apparition,95.0
+5,40,60.0,Crystal Maiden,100.0
+34,40,28.0,Tinker,68.0
+94,39,38.0,Medusa,77.0
+13,38,43.0,Puck,81.0
+97,38,48.0,Magnus,86.0
+73,34,28.0,Alchemist,62.0
+102,34,34.0,Abaddon,68.0
+114,33,43.0,Monkey King,76.0
+55,32,43.0,Dark Seer,75.0
+86,32,112.0,Rubick,144.0
+29,32,39.0,Tidehunter,71.0
+110,28,53.0,Phoenix,81.0
+22,25,43.0,Zeus,68.0
+82,25,8.0,Meepo,33.0
+7,24,72.0,Earthshaker,96.0
+113,24,18.0,Arc Warden,42.0
+98,23,23.0,Timbersaw,46.0
+39,22,44.0,Queen of Pain,66.0
+104,19,30.0,Legion Commander,49.0
+8,19,32.0,Juggernaut,51.0
+99,17,14.0,Bristleback,31.0
+111,15,40.0,Oracle,55.0
+81,14,21.0,Chaos Knight,35.0
+90,14,20.0,Keeper of the Light,34.0
+27,13,29.0,Shadow Shaman,42.0
+14,12,9.0,Pudge,21.0
+83,11,25.0,Treant Protector,36.0
+28,11,35.0,Slardar,46.0
+107,11,49.0,Earth Spirit,60.0
+26,10,58.0,Lion,68.0
+84,10,33.0,Ogre Magi,43.0
+79,10,46.0,Shadow Demon,56.0
+1,8,13.0,Anti-Mage,21.0
+105,8,0.0,Techies,8.0
+31,8,23.0,Lich,31.0
+44,7,18.0,Phantom Assassin,25.0
+71,7,14.0,Spirit Breaker,21.0
+96,7,22.0,Centaur Warrunner,29.0
+18,5,10.0,Sven,15.0
+35,2,9.0,Sniper,11.0
+50,2,15.0,Dazzle,17.0
+32,2,6.0,Riki,8.0
