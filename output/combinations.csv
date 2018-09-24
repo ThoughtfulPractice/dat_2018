@@ -1,0 +1,659 @@
+,combination,count,hero1,hero2
+379,"['Abaddon', 'Dragon Knight']",1,Abaddon,Dragon Knight
+380,"['Abaddon', 'Io']",1,Abaddon,Io
+382,"['Abaddon', 'Tiny']",1,Abaddon,Tiny
+383,"['Abaddon', 'Weaver']",1,Abaddon,Weaver
+391,"['Alchemist', 'Bane']",1,Alchemist,Bane
+392,"['Alchemist', 'Batrider']",1,Alchemist,Batrider
+394,"['Alchemist', 'Brewmaster']",1,Alchemist,Brewmaster
+426,"['Alchemist', 'Chen']",1,Alchemist,Chen
+428,"['Alchemist', 'Clinkz']",1,Alchemist,Clinkz
+455,"['Alchemist', 'Dark Willow']",1,Alchemist,Dark Willow
+457,"['Alchemist', 'Drow Ranger']",1,Alchemist,Drow Ranger
+458,"['Alchemist', 'Earthshaker']",1,Alchemist,Earthshaker
+486,"['Alchemist', 'Gyrocopter']",2,Alchemist,Gyrocopter
+485,"['Alchemist', 'Io']",2,Alchemist,Io
+466,"['Alchemist', 'Jakiro']",1,Alchemist,Jakiro
+467,"['Alchemist', 'Kunkka']",1,Alchemist,Kunkka
+484,"['Alchemist', 'Lich']",2,Alchemist,Lich
+483,"['Alchemist', 'Mirana']",2,Alchemist,Mirana
+447,"['Alchemist', 'Necrophos']",1,Alchemist,Necrophos
+429,"['Alchemist', 'Nyx Assassin']",1,Alchemist,Nyx Assassin
+619,"['Alchemist', 'Phoenix']",3,Alchemist,Phoenix
+430,"['Alchemist', 'Storm Spirit']",1,Alchemist,Storm Spirit
+481,"['Alchemist', 'Undying']",2,Alchemist,Undying
+636,"['Alchemist', 'Ursa']",3,Alchemist,Ursa
+649,"['Alchemist', 'Vengeful Spirit']",5,Alchemist,Vengeful Spirit
+487,"['Alchemist', 'Venomancer']",2,Alchemist,Venomancer
+496,"['Alchemist', 'Weaver']",2,Alchemist,Weaver
+497,"['Alchemist', 'Wraith King']",2,Alchemist,Wraith King
+513,"['Arc Warden', 'Earthshaker']",2,Arc Warden,Earthshaker
+444,"['Arc Warden', 'Lina']",1,Arc Warden,Lina
+446,"['Arc Warden', 'Lycan']",1,Arc Warden,Lycan
+440,"['Arc Warden', ""Nature's Prophet""]",1,Arc Warden,Nature's Prophet
+377,"['Arc Warden', 'Pugna']",1,Arc Warden,Pugna
+638,"['Arc Warden', 'Silencer']",3,Arc Warden,Silencer
+326,"['Arc Warden', 'Spectre']",1,Arc Warden,Spectre
+306,"['Arc Warden', 'Tusk']",1,Arc Warden,Tusk
+308,"['Arc Warden', 'Ursa']",1,Arc Warden,Ursa
+310,"['Axe', 'Chen']",1,Axe,Chen
+314,"['Axe', 'Invoker']",1,Axe,Invoker
+316,"['Axe', 'Io']",1,Axe,Io
+318,"['Axe', 'Phantom Lancer']",1,Axe,Phantom Lancer
+319,"['Bane', 'Bloodseeker']",1,Bane,Bloodseeker
+301,"['Bane', 'Broodmother']",1,Bane,Broodmother
+289,"['Bane', 'Centaur Warrunner']",1,Bane,Centaur Warrunner
+510,"['Bane', 'Clinkz']",2,Bane,Clinkz
+287,"['Bane', 'Clockwerk']",1,Bane,Clockwerk
+509,"['Bane', 'Dark Willow']",2,Bane,Dark Willow
+288,"['Bane', 'Dragon Knight']",1,Bane,Dragon Knight
+300,"['Bane', 'Drow Ranger']",1,Bane,Drow Ranger
+508,"['Bane', 'Earthshaker']",2,Bane,Earthshaker
+294,"['Bane', 'Elder Titan']",1,Bane,Elder Titan
+620,"['Bane', 'Enchantress']",3,Bane,Enchantress
+296,"['Bane', 'Enigma']",1,Bane,Enigma
+507,"['Bane', 'Gyrocopter']",2,Bane,Gyrocopter
+299,"['Bane', 'Huskar']",1,Bane,Huskar
+505,"['Bane', 'Io']",2,Bane,Io
+624,"['Bane', 'Kunkka']",3,Bane,Kunkka
+328,"['Bane', 'Leshrac']",1,Bane,Leshrac
+353,"['Bane', 'Lina']",1,Bane,Lina
+652,"['Bane', 'Mirana']",5,Bane,Mirana
+357,"['Bane', 'Necrophos']",1,Bane,Necrophos
+361,"['Bane', 'Phantom Lancer']",1,Bane,Phantom Lancer
+364,"['Bane', 'Phoenix']",1,Bane,Phoenix
+365,"['Bane', 'Pugna']",1,Bane,Pugna
+503,"['Bane', 'Spectre']",2,Bane,Spectre
+351,"['Bane', 'Terrorblade']",1,Bane,Terrorblade
+648,"['Bane', 'Tiny']",5,Bane,Tiny
+333,"['Bane', 'Underlord']",1,Bane,Underlord
+337,"['Bane', 'Undying']",1,Bane,Undying
+629,"['Bane', 'Ursa']",3,Bane,Ursa
+499,"['Bane', 'Visage']",2,Bane,Visage
+480,"['Bane', 'Winter Wyvern']",2,Bane,Winter Wyvern
+342,"['Bane', 'Wraith King']",1,Bane,Wraith King
+343,"['Bane', 'Zeus']",1,Bane,Zeus
+346,"['Batrider', 'Bloodseeker']",1,Batrider,Bloodseeker
+470,"['Batrider', 'Broodmother']",2,Batrider,Broodmother
+284,"['Batrider', 'Drow Ranger']",1,Batrider,Drow Ranger
+478,"['Batrider', 'Earth Spirit']",2,Batrider,Earth Spirit
+605,"['Batrider', 'Earthshaker']",3,Batrider,Earthshaker
+439,"['Batrider', 'Jakiro']",1,Batrider,Jakiro
+435,"['Batrider', 'Kunkka']",1,Batrider,Kunkka
+389,"['Batrider', 'Lina']",1,Batrider,Lina
+612,"['Batrider', 'Silencer']",3,Batrider,Silencer
+322,"['Batrider', 'Templar Assassin']",1,Batrider,Templar Assassin
+610,"['Batrider', 'Terrorblade']",3,Batrider,Terrorblade
+279,"['Batrider', 'Ursa']",1,Batrider,Ursa
+534,"['Batrider', 'Vengeful Spirit']",2,Batrider,Vengeful Spirit
+414,"['Batrider', 'Winter Wyvern']",1,Batrider,Winter Wyvern
+417,"['Bloodseeker', 'Brewmaster']",1,Bloodseeker,Brewmaster
+589,"['Bloodseeker', 'Broodmother']",2,Bloodseeker,Broodmother
+424,"['Bloodseeker', 'Crystal Maiden']",1,Bloodseeker,Crystal Maiden
+378,"['Bloodseeker', 'Dark Willow']",1,Bloodseeker,Dark Willow
+381,"['Bloodseeker', 'Earth Spirit']",1,Bloodseeker,Earth Spirit
+425,"['Bloodseeker', 'Earthshaker']",1,Bloodseeker,Earthshaker
+463,"['Bloodseeker', 'Elder Titan']",1,Bloodseeker,Elder Titan
+596,"['Bloodseeker', 'Enchantress']",2,Bloodseeker,Enchantress
+450,"['Bloodseeker', 'Invoker']",1,Bloodseeker,Invoker
+460,"['Bloodseeker', 'Lich']",1,Bloodseeker,Lich
+433,"['Bloodseeker', 'Lina']",1,Bloodseeker,Lina
+441,"['Bloodseeker', 'Magnus']",1,Bloodseeker,Magnus
+443,"['Bloodseeker', 'Morphling']",1,Bloodseeker,Morphling
+588,"['Bloodseeker', 'Phantom Lancer']",2,Bloodseeker,Phantom Lancer
+572,"['Bloodseeker', 'Silencer']",2,Bloodseeker,Silencer
+575,"['Bloodseeker', 'Storm Spirit']",2,Bloodseeker,Storm Spirit
+615,"['Bloodseeker', 'Tiny']",3,Bloodseeker,Tiny
+292,"['Bloodseeker', 'Tusk']",1,Bloodseeker,Tusk
+297,"['Bloodseeker', 'Winter Wyvern']",1,Bloodseeker,Winter Wyvern
+327,"['Brewmaster', 'Dark Willow']",1,Brewmaster,Dark Willow
+363,"['Brewmaster', 'Enchantress']",1,Brewmaster,Enchantress
+367,"['Brewmaster', 'Jakiro']",1,Brewmaster,Jakiro
+368,"['Brewmaster', 'Morphling']",1,Brewmaster,Morphling
+298,"['Brewmaster', ""Nature's Prophet""]",1,Brewmaster,Nature's Prophet
+335,"['Brewmaster', 'Phoenix']",1,Brewmaster,Phoenix
+336,"['Brewmaster', 'Shadow Fiend']",1,Brewmaster,Shadow Fiend
+577,"['Brewmaster', 'Spectre']",2,Brewmaster,Spectre
+469,"['Brewmaster', 'Storm Spirit']",1,Brewmaster,Storm Spirit
+304,"['Brewmaster', 'Terrorblade']",1,Brewmaster,Terrorblade
+348,"['Brewmaster', 'Tusk']",1,Brewmaster,Tusk
+347,"['Brewmaster', 'Undying']",1,Brewmaster,Undying
+609,"['Brewmaster', 'Vengeful Spirit']",3,Brewmaster,Vengeful Spirit
+345,"['Brewmaster', 'Viper']",1,Brewmaster,Viper
+344,"['Brewmaster', 'Weaver']",1,Brewmaster,Weaver
+583,"['Broodmother', 'Dark Willow']",2,Broodmother,Dark Willow
+479,"['Broodmother', 'Earth Spirit']",2,Broodmother,Earth Spirit
+341,"['Broodmother', 'Invoker']",1,Broodmother,Invoker
+340,"['Broodmother', 'Tiny']",1,Broodmother,Tiny
+349,"['Broodmother', 'Ursa']",1,Broodmother,Ursa
+339,"['Broodmother', 'Vengeful Spirit']",1,Broodmother,Vengeful Spirit
+571,"['Broodmother', 'Winter Wyvern']",2,Broodmother,Winter Wyvern
+334,"['Broodmother', 'Wraith King']",1,Broodmother,Wraith King
+332,"['Centaur Warrunner', 'Io']",1,Centaur Warrunner,Io
+331,"['Centaur Warrunner', 'Silencer']",1,Centaur Warrunner,Silencer
+330,"['Centaur Warrunner', 'Spectre']",1,Centaur Warrunner,Spectre
+329,"['Centaur Warrunner', 'Tiny']",1,Centaur Warrunner,Tiny
+338,"['Centaur Warrunner', 'Troll Warlord']",1,Centaur Warrunner,Troll Warlord
+350,"['Centaur Warrunner', 'Vengeful Spirit']",1,Centaur Warrunner,Vengeful Spirit
+352,"['Centaur Warrunner', 'Zeus']",1,Centaur Warrunner,Zeus
+373,"['Chaos Knight', 'Enchantress']",1,Chaos Knight,Enchantress
+372,"['Chaos Knight', 'Io']",1,Chaos Knight,Io
+371,"['Chaos Knight', 'Ogre Magi']",1,Chaos Knight,Ogre Magi
+370,"['Chaos Knight', 'Venomancer']",1,Chaos Knight,Venomancer
+369,"['Chen', 'Clinkz']",1,Chen,Clinkz
+366,"['Chen', 'Drow Ranger']",1,Chen,Drow Ranger
+362,"['Chen', 'Earthshaker']",1,Chen,Earthshaker
+360,"['Chen', 'Ember Spirit']",1,Chen,Ember Spirit
+359,"['Chen', 'Invoker']",1,Chen,Invoker
+358,"['Chen', 'Io']",1,Chen,Io
+653,"['Chen', 'Lina']",5,Chen,Lina
+356,"['Chen', 'Monkey King']",1,Chen,Monkey King
+355,"['Chen', 'Morphling']",1,Chen,Morphling
+354,"['Chen', 'Necrophos']",1,Chen,Necrophos
+644,"['Chen', 'Phantom Lancer']",4,Chen,Phantom Lancer
+594,"['Chen', 'Pugna']",2,Chen,Pugna
+374,"['Chen', 'Silencer']",1,Chen,Silencer
+592,"['Chen', 'Storm Spirit']",2,Chen,Storm Spirit
+325,"['Chen', 'Troll Warlord']",1,Chen,Troll Warlord
+591,"['Chen', 'Vengeful Spirit']",2,Chen,Vengeful Spirit
+585,"['Chen', 'Venomancer']",2,Chen,Venomancer
+618,"['Chen', 'Winter Wyvern']",3,Chen,Winter Wyvern
+295,"['Chen', 'Wraith King']",1,Chen,Wraith King
+569,"['Chen', 'Zeus']",2,Chen,Zeus
+293,"['Clinkz', 'Crystal Maiden']",1,Clinkz,Crystal Maiden
+291,"['Clinkz', 'Dark Willow']",1,Clinkz,Dark Willow
+290,"['Clinkz', 'Earth Spirit']",1,Clinkz,Earth Spirit
+622,"['Clinkz', 'Earthshaker']",3,Clinkz,Earthshaker
+538,"['Clinkz', 'Elder Titan']",2,Clinkz,Elder Titan
+286,"['Clinkz', 'Enchantress']",1,Clinkz,Enchantress
+285,"['Clinkz', 'Enigma']",1,Clinkz,Enigma
+537,"['Clinkz', 'Huskar']",2,Clinkz,Huskar
+283,"['Clinkz', 'Invoker']",1,Clinkz,Invoker
+282,"['Clinkz', 'Lich']",1,Clinkz,Lich
+281,"['Clinkz', 'Lina']",1,Clinkz,Lina
+280,"['Clinkz', 'Meepo']",1,Clinkz,Meepo
+626,"['Clinkz', 'Necrophos']",3,Clinkz,Necrophos
+302,"['Clinkz', 'Oracle']",1,Clinkz,Oracle
+303,"['Clinkz', 'Pugna']",1,Clinkz,Pugna
+642,"['Clinkz', 'Silencer']",4,Clinkz,Silencer
+324,"['Clinkz', 'Storm Spirit']",1,Clinkz,Storm Spirit
+323,"['Clinkz', 'Terrorblade']",1,Clinkz,Terrorblade
+535,"['Clinkz', 'Tiny']",2,Clinkz,Tiny
+321,"['Clinkz', 'Treant Protector']",1,Clinkz,Treant Protector
+320,"['Clinkz', 'Undying']",1,Clinkz,Undying
+533,"['Clinkz', 'Ursa']",2,Clinkz,Ursa
+628,"['Clinkz', 'Vengeful Spirit']",3,Clinkz,Vengeful Spirit
+317,"['Clinkz', 'Weaver']",1,Clinkz,Weaver
+532,"['Clinkz', 'Wraith King']",2,Clinkz,Wraith King
+315,"['Clinkz', 'Zeus']",1,Clinkz,Zeus
+313,"['Clockwerk', 'Enchantress']",1,Clockwerk,Enchantress
+312,"['Clockwerk', 'Mirana']",1,Clockwerk,Mirana
+311,"['Clockwerk', 'Phantom Lancer']",1,Clockwerk,Phantom Lancer
+309,"['Clockwerk', 'Terrorblade']",1,Clockwerk,Terrorblade
+307,"['Clockwerk', 'Tiny']",1,Clockwerk,Tiny
+305,"['Clockwerk', 'Undying']",1,Clockwerk,Undying
+376,"['Clockwerk', 'Vengeful Spirit']",1,Clockwerk,Vengeful Spirit
+400,"['Crystal Maiden', 'Earthshaker']",1,Crystal Maiden,Earthshaker
+528,"['Crystal Maiden', 'Elder Titan']",2,Crystal Maiden,Elder Titan
+527,"['Crystal Maiden', 'Enchantress']",2,Crystal Maiden,Enchantress
+445,"['Crystal Maiden', 'Mirana']",1,Crystal Maiden,Mirana
+375,"['Crystal Maiden', ""Nature's Prophet""]",1,Crystal Maiden,Nature's Prophet
+526,"['Crystal Maiden', 'Necrophos']",2,Crystal Maiden,Necrophos
+442,"['Crystal Maiden', 'Phantom Lancer']",1,Crystal Maiden,Phantom Lancer
+525,"['Crystal Maiden', 'Storm Spirit']",2,Crystal Maiden,Storm Spirit
+524,"['Crystal Maiden', 'Tiny']",2,Crystal Maiden,Tiny
+522,"['Dark Willow', 'Dragon Knight']",2,Dark Willow,Dragon Knight
+437,"['Dark Willow', 'Gyrocopter']",1,Dark Willow,Gyrocopter
+436,"['Dark Willow', 'Invoker']",1,Dark Willow,Invoker
+434,"['Dark Willow', 'Kunkka']",1,Dark Willow,Kunkka
+635,"['Dark Willow', 'Lich']",3,Dark Willow,Lich
+432,"['Dark Willow', 'Luna']",1,Dark Willow,Luna
+431,"['Dark Willow', 'Medusa']",1,Dark Willow,Medusa
+520,"['Dark Willow', 'Mirana']",2,Dark Willow,Mirana
+438,"['Dark Willow', ""Nature's Prophet""]",1,Dark Willow,Nature's Prophet
+519,"['Dark Willow', 'Necrophos']",2,Dark Willow,Necrophos
+449,"['Dark Willow', 'Ogre Magi']",1,Dark Willow,Ogre Magi
+448,"['Dark Willow', 'Shadow Fiend']",1,Dark Willow,Shadow Fiend
+543,"['Dark Willow', 'Spectre']",2,Dark Willow,Spectre
+568,"['Dark Willow', 'Storm Spirit']",2,Dark Willow,Storm Spirit
+465,"['Dark Willow', 'Timbersaw']",1,Dark Willow,Timbersaw
+606,"['Dark Willow', 'Tiny']",3,Dark Willow,Tiny
+464,"['Dark Willow', 'Troll Warlord']",1,Dark Willow,Troll Warlord
+566,"['Dark Willow', 'Undying']",2,Dark Willow,Undying
+468,"['Dark Willow', 'Ursa']",1,Dark Willow,Ursa
+461,"['Dark Willow', 'Vengeful Spirit']",1,Dark Willow,Vengeful Spirit
+462,"['Dark Willow', 'Warlock']",1,Dark Willow,Warlock
+459,"['Dark Willow', 'Weaver']",1,Dark Willow,Weaver
+456,"['Dark Willow', 'Winter Wyvern']",1,Dark Willow,Winter Wyvern
+656,"['Dark Willow', 'Wraith King']",7,Dark Willow,Wraith King
+454,"['Disruptor', 'Gyrocopter']",1,Disruptor,Gyrocopter
+453,"['Disruptor', 'Invoker']",1,Disruptor,Invoker
+452,"['Disruptor', 'Io']",1,Disruptor,Io
+451,"['Disruptor', 'Underlord']",1,Disruptor,Underlord
+427,"['Dragon Knight', 'Earthshaker']",1,Dragon Knight,Earthshaker
+565,"['Dragon Knight', 'Enchantress']",2,Dragon Knight,Enchantress
+564,"['Dragon Knight', 'Gyrocopter']",2,Dragon Knight,Gyrocopter
+563,"['Dragon Knight', 'Io']",2,Dragon Knight,Io
+398,"['Dragon Knight', 'Jakiro']",1,Dragon Knight,Jakiro
+397,"['Dragon Knight', 'Mirana']",1,Dragon Knight,Mirana
+396,"['Dragon Knight', 'Necrophos']",1,Dragon Knight,Necrophos
+395,"['Dragon Knight', 'Oracle']",1,Dragon Knight,Oracle
+393,"['Dragon Knight', 'Tiny']",1,Dragon Knight,Tiny
+390,"['Dragon Knight', 'Undying']",1,Dragon Knight,Undying
+559,"['Dragon Knight', 'Weaver']",2,Dragon Knight,Weaver
+388,"['Dragon Knight', 'Wraith King']",1,Dragon Knight,Wraith King
+386,"['Drow Ranger', 'Earthshaker']",1,Drow Ranger,Earthshaker
+385,"['Drow Ranger', 'Enchantress']",1,Drow Ranger,Enchantress
+384,"['Drow Ranger', 'Enigma']",1,Drow Ranger,Enigma
+557,"['Drow Ranger', 'Gyrocopter']",2,Drow Ranger,Gyrocopter
+399,"['Drow Ranger', 'Huskar']",1,Drow Ranger,Huskar
+402,"['Drow Ranger', 'Invoker']",1,Drow Ranger,Invoker
+423,"['Drow Ranger', 'Jakiro']",1,Drow Ranger,Jakiro
+421,"['Drow Ranger', 'Mirana']",1,Drow Ranger,Mirana
+387,"['Drow Ranger', ""Nature's Prophet""]",1,Drow Ranger,Nature's Prophet
+420,"['Drow Ranger', 'Necrophos']",1,Drow Ranger,Necrophos
+419,"['Drow Ranger', 'Ogre Magi']",1,Drow Ranger,Ogre Magi
+548,"['Drow Ranger', 'Phoenix']",2,Drow Ranger,Phoenix
+411,"['Drow Ranger', 'Pugna']",1,Drow Ranger,Pugna
+410,"['Drow Ranger', 'Silencer']",1,Drow Ranger,Silencer
+409,"['Drow Ranger', 'Spirit Breaker']",1,Drow Ranger,Spirit Breaker
+547,"['Drow Ranger', 'Storm Spirit']",2,Drow Ranger,Storm Spirit
+407,"['Drow Ranger', 'Underlord']",1,Drow Ranger,Underlord
+545,"['Drow Ranger', 'Undying']",2,Drow Ranger,Undying
+603,"['Drow Ranger', 'Vengeful Spirit']",3,Drow Ranger,Vengeful Spirit
+403,"['Drow Ranger', 'Venomancer']",1,Drow Ranger,Venomancer
+633,"['Drow Ranger', 'Weaver']",3,Drow Ranger,Weaver
+578,"['Drow Ranger', 'Winter Wyvern']",2,Drow Ranger,Winter Wyvern
+277,"['Drow Ranger', 'Witch Doctor']",1,Drow Ranger,Witch Doctor
+87,"['Earth Spirit', 'Mirana']",1,Earth Spirit,Mirana
+88,"['Earth Spirit', 'Morphling']",1,Earth Spirit,Morphling
+207,"['Earth Spirit', ""Nature's Prophet""]",1,Earth Spirit,Nature's Prophet
+89,"['Earth Spirit', 'Necrophos']",1,Earth Spirit,Necrophos
+546,"['Earth Spirit', 'Phantom Lancer']",2,Earth Spirit,Phantom Lancer
+90,"['Earth Spirit', 'Phoenix']",1,Earth Spirit,Phoenix
+91,"['Earth Spirit', 'Pugna']",1,Earth Spirit,Pugna
+92,"['Earth Spirit', 'Silencer']",1,Earth Spirit,Silencer
+94,"['Earth Spirit', 'Storm Spirit']",1,Earth Spirit,Storm Spirit
+101,"['Earth Spirit', 'Templar Assassin']",1,Earth Spirit,Templar Assassin
+95,"['Earth Spirit', 'Tiny']",1,Earth Spirit,Tiny
+549,"['Earth Spirit', 'Ursa']",2,Earth Spirit,Ursa
+550,"['Earth Spirit', 'Vengeful Spirit']",2,Earth Spirit,Vengeful Spirit
+551,"['Earth Spirit', 'Winter Wyvern']",2,Earth Spirit,Winter Wyvern
+647,"['Earthshaker', 'Enchantress']",5,Earthshaker,Enchantress
+553,"['Earthshaker', 'Enigma']",2,Earthshaker,Enigma
+96,"['Earthshaker', 'Invoker']",1,Earthshaker,Invoker
+97,"['Earthshaker', 'Jakiro']",1,Earthshaker,Jakiro
+554,"['Earthshaker', 'Kunkka']",2,Earthshaker,Kunkka
+98,"['Earthshaker', 'Lich']",1,Earthshaker,Lich
+555,"['Earthshaker', 'Lina']",2,Earthshaker,Lina
+99,"['Earthshaker', 'Meepo']",1,Earthshaker,Meepo
+100,"['Earthshaker', 'Monkey King']",1,Earthshaker,Monkey King
+552,"['Earthshaker', ""Nature's Prophet""]",2,Earthshaker,Nature's Prophet
+613,"['Earthshaker', 'Necrophos']",3,Earthshaker,Necrophos
+617,"['Earthshaker', 'Phantom Lancer']",3,Earthshaker,Phantom Lancer
+86,"['Earthshaker', 'Pugna']",1,Earthshaker,Pugna
+657,"['Earthshaker', 'Silencer']",8,Earthshaker,Silencer
+604,"['Earthshaker', 'Spectre']",3,Earthshaker,Spectre
+556,"['Earthshaker', 'Storm Spirit']",2,Earthshaker,Storm Spirit
+85,"['Earthshaker', 'Templar Assassin']",1,Earthshaker,Templar Assassin
+614,"['Earthshaker', 'Terrorblade']",3,Earthshaker,Terrorblade
+558,"['Earthshaker', 'Tiny']",2,Earthshaker,Tiny
+84,"['Earthshaker', 'Treant Protector']",1,Earthshaker,Treant Protector
+83,"['Earthshaker', 'Ursa']",1,Earthshaker,Ursa
+82,"['Earthshaker', 'Weaver']",1,Earthshaker,Weaver
+81,"['Earthshaker', 'Winter Wyvern']",1,Earthshaker,Winter Wyvern
+80,"['Elder Titan', 'Ember Spirit']",1,Elder Titan,Ember Spirit
+79,"['Elder Titan', 'Enchantress']",1,Elder Titan,Enchantress
+78,"['Elder Titan', 'Huskar']",1,Elder Titan,Huskar
+560,"['Elder Titan', 'Mirana']",2,Elder Titan,Mirana
+561,"['Elder Titan', 'Necrophos']",2,Elder Titan,Necrophos
+77,"['Elder Titan', 'Phantom Lancer']",1,Elder Titan,Phantom Lancer
+562,"['Elder Titan', 'Silencer']",2,Elder Titan,Silencer
+76,"['Elder Titan', 'Storm Spirit']",1,Elder Titan,Storm Spirit
+75,"['Elder Titan', 'Terrorblade']",1,Elder Titan,Terrorblade
+74,"['Elder Titan', 'Tiny']",1,Elder Titan,Tiny
+73,"['Elder Titan', 'Vengeful Spirit']",1,Elder Titan,Vengeful Spirit
+0,"['Ember Spirit', 'Lina']",1,Ember Spirit,Lina
+70,"['Ember Spirit', 'Magnus']",1,Ember Spirit,Magnus
+93,"['Ember Spirit', 'Mirana']",1,Ember Spirit,Mirana
+72,"['Ember Spirit', ""Nature's Prophet""]",1,Ember Spirit,Nature's Prophet
+103,"['Ember Spirit', 'Phantom Lancer']",1,Ember Spirit,Phantom Lancer
+128,"['Ember Spirit', 'Rubick']",1,Ember Spirit,Rubick
+104,"['Ember Spirit', 'Silencer']",1,Ember Spirit,Silencer
+122,"['Ember Spirit', 'Vengeful Spirit']",1,Ember Spirit,Vengeful Spirit
+123,"['Ember Spirit', 'Venomancer']",1,Ember Spirit,Venomancer
+124,"['Ember Spirit', 'Zeus']",1,Ember Spirit,Zeus
+641,"['Enchantress', 'Gyrocopter']",4,Enchantress,Gyrocopter
+608,"['Enchantress', 'Io']",3,Enchantress,Io
+125,"['Enchantress', 'Jakiro']",1,Enchantress,Jakiro
+126,"['Enchantress', 'Kunkka']",1,Enchantress,Kunkka
+127,"['Enchantress', 'Lich']",1,Enchantress,Lich
+129,"['Enchantress', 'Mirana']",1,Enchantress,Mirana
+136,"['Enchantress', 'Morphling']",1,Enchantress,Morphling
+130,"['Enchantress', 'Necrophos']",1,Enchantress,Necrophos
+131,"['Enchantress', 'Ogre Magi']",1,Enchantress,Ogre Magi
+132,"['Enchantress', 'Oracle']",1,Enchantress,Oracle
+567,"['Enchantress', 'Phantom Lancer']",2,Enchantress,Phantom Lancer
+544,"['Enchantress', 'Phoenix']",2,Enchantress,Phoenix
+133,"['Enchantress', 'Pugna']",1,Enchantress,Pugna
+134,"['Enchantress', 'Spectre']",1,Enchantress,Spectre
+135,"['Enchantress', 'Spirit Breaker']",1,Enchantress,Spirit Breaker
+541,"['Enchantress', 'Storm Spirit']",2,Enchantress,Storm Spirit
+121,"['Enchantress', 'Terrorblade']",1,Enchantress,Terrorblade
+518,"['Enchantress', 'Tiny']",2,Enchantress,Tiny
+120,"['Enchantress', 'Tusk']",1,Enchantress,Tusk
+119,"['Enchantress', 'Vengeful Spirit']",1,Enchantress,Vengeful Spirit
+118,"['Enchantress', 'Venomancer']",1,Enchantress,Venomancer
+117,"['Enchantress', 'Weaver']",1,Enchantress,Weaver
+116,"['Enchantress', 'Wraith King']",1,Enchantress,Wraith King
+521,"['Enigma', 'Invoker']",2,Enigma,Invoker
+114,"['Enigma', 'Kunkka']",1,Enigma,Kunkka
+115,"['Enigma', ""Nature's Prophet""]",1,Enigma,Nature's Prophet
+113,"['Enigma', 'Phoenix']",1,Enigma,Phoenix
+112,"['Enigma', 'Silencer']",1,Enigma,Silencer
+111,"['Enigma', 'Tiny']",1,Enigma,Tiny
+523,"['Enigma', 'Ursa']",2,Enigma,Ursa
+110,"['Enigma', 'Vengeful Spirit']",1,Enigma,Vengeful Spirit
+109,"['Enigma', 'Visage']",1,Enigma,Visage
+108,"['Gyrocopter', 'Invoker']",1,Gyrocopter,Invoker
+655,"['Gyrocopter', 'Io']",6,Gyrocopter,Io
+107,"['Gyrocopter', 'Leshrac']",1,Gyrocopter,Leshrac
+106,"['Gyrocopter', 'Lina']",1,Gyrocopter,Lina
+105,"['Gyrocopter', 'Mirana']",1,Gyrocopter,Mirana
+69,"['Gyrocopter', 'Necrophos']",1,Gyrocopter,Necrophos
+68,"['Gyrocopter', 'Ogre Magi']",1,Gyrocopter,Ogre Magi
+67,"['Gyrocopter', 'Oracle']",1,Gyrocopter,Oracle
+529,"['Gyrocopter', 'Phoenix']",2,Gyrocopter,Phoenix
+58,"['Gyrocopter', 'Pugna']",1,Gyrocopter,Pugna
+30,"['Gyrocopter', 'Spirit Breaker']",1,Gyrocopter,Spirit Breaker
+631,"['Gyrocopter', 'Tiny']",3,Gyrocopter,Tiny
+29,"['Gyrocopter', 'Underlord']",1,Gyrocopter,Underlord
+630,"['Gyrocopter', 'Undying']",3,Gyrocopter,Undying
+28,"['Gyrocopter', 'Ursa']",1,Gyrocopter,Ursa
+530,"['Gyrocopter', 'Vengeful Spirit']",2,Gyrocopter,Vengeful Spirit
+27,"['Gyrocopter', 'Venomancer']",1,Gyrocopter,Venomancer
+26,"['Gyrocopter', 'Weaver']",1,Gyrocopter,Weaver
+25,"['Gyrocopter', 'Wraith King']",1,Gyrocopter,Wraith King
+531,"['Huskar', 'Necrophos']",2,Huskar,Necrophos
+24,"['Huskar', 'Oracle']",1,Huskar,Oracle
+23,"['Huskar', 'Tiny']",1,Huskar,Tiny
+22,"['Huskar', 'Weaver']",1,Huskar,Weaver
+21,"['Huskar', 'Winter Wyvern']",1,Huskar,Winter Wyvern
+20,"['Huskar', 'Witch Doctor']",1,Huskar,Witch Doctor
+570,"['Invoker', 'Io']",2,Invoker,Io
+18,"['Invoker', 'Lina']",1,Invoker,Lina
+17,"['Invoker', 'Magnus']",1,Invoker,Magnus
+19,"['Invoker', ""Nature's Prophet""]",1,Invoker,Nature's Prophet
+31,"['Invoker', 'Phantom Lancer']",1,Invoker,Phantom Lancer
+16,"['Invoker', 'Phoenix']",1,Invoker,Phoenix
+14,"['Invoker', 'Silencer']",1,Invoker,Silencer
+13,"['Invoker', 'Treant Protector']",1,Invoker,Treant Protector
+12,"['Invoker', 'Underlord']",1,Invoker,Underlord
+11,"['Invoker', 'Ursa']",1,Invoker,Ursa
+536,"['Invoker', 'Vengeful Spirit']",2,Invoker,Vengeful Spirit
+10,"['Invoker', 'Weaver']",1,Invoker,Weaver
+9,"['Invoker', 'Winter Wyvern']",1,Invoker,Winter Wyvern
+8,"['Invoker', 'Wraith King']",1,Invoker,Wraith King
+7,"['Io', 'Leshrac']",1,Io,Leshrac
+6,"['Io', 'Ogre Magi']",1,Io,Ogre Magi
+5,"['Io', 'Oracle']",1,Io,Oracle
+4,"['Io', 'Phantom Lancer']",1,Io,Phantom Lancer
+3,"['Io', 'Pugna']",1,Io,Pugna
+2,"['Io', 'Spectre']",1,Io,Spectre
+539,"['Io', 'Tiny']",2,Io,Tiny
+1,"['Io', 'Underlord']",1,Io,Underlord
+540,"['Io', 'Undying']",2,Io,Undying
+15,"['Io', 'Ursa']",1,Io,Ursa
+542,"['Io', 'Venomancer']",2,Io,Venomancer
+32,"['Io', 'Weaver']",1,Io,Weaver
+33,"['Io', 'Wraith King']",1,Io,Wraith King
+34,"['Io', 'Zeus']",1,Io,Zeus
+52,"['Jakiro', 'Spectre']",1,Jakiro,Spectre
+53,"['Jakiro', 'Storm Spirit']",1,Jakiro,Storm Spirit
+590,"['Jakiro', 'Vengeful Spirit']",2,Jakiro,Vengeful Spirit
+54,"['Jakiro', 'Weaver']",1,Jakiro,Weaver
+55,"['Keeper of the Light', 'Mirana']",1,Keeper of the Light,Mirana
+56,"['Keeper of the Light', 'Templar Assassin']",1,Keeper of the Light,Templar Assassin
+57,"['Keeper of the Light', 'Undying']",1,Keeper of the Light,Undying
+59,"['Keeper of the Light', 'Wraith King']",1,Keeper of the Light,Wraith King
+66,"['Kunkka', 'Luna']",1,Kunkka,Luna
+60,"['Kunkka', 'Mirana']",1,Kunkka,Mirana
+61,"['Kunkka', 'Phantom Lancer']",1,Kunkka,Phantom Lancer
+62,"['Kunkka', 'Silencer']",1,Kunkka,Silencer
+63,"['Kunkka', 'Terrorblade']",1,Kunkka,Terrorblade
+64,"['Kunkka', 'Tiny']",1,Kunkka,Tiny
+65,"['Kunkka', 'Visage']",1,Kunkka,Visage
+51,"['Kunkka', 'Warlock']",1,Kunkka,Warlock
+587,"['Kunkka', 'Wraith King']",2,Kunkka,Wraith King
+50,"['Leshrac', 'Tiny']",1,Leshrac,Tiny
+573,"['Lich', 'Mirana']",2,Lich,Mirana
+574,"['Lich', 'Necrophos']",2,Lich,Necrophos
+576,"['Lich', 'Phantom Lancer']",2,Lich,Phantom Lancer
+49,"['Lich', 'Rubick']",1,Lich,Rubick
+579,"['Lich', 'Spectre']",2,Lich,Spectre
+586,"['Lich', 'Storm Spirit']",2,Lich,Storm Spirit
+48,"['Lich', 'Timbersaw']",1,Lich,Timbersaw
+47,"['Lich', 'Tiny']",1,Lich,Tiny
+46,"['Lich', 'Ursa']",1,Lich,Ursa
+45,"['Lich', 'Vengeful Spirit']",1,Lich,Vengeful Spirit
+44,"['Lich', 'Venomancer']",1,Lich,Venomancer
+43,"['Lich', 'Weaver']",1,Lich,Weaver
+580,"['Lich', 'Wraith King']",2,Lich,Wraith King
+41,"['Lina', 'Magnus']",1,Lina,Magnus
+40,"['Lina', 'Monkey King']",1,Lina,Monkey King
+39,"['Lina', 'Morphling']",1,Lina,Morphling
+42,"['Lina', ""Nature's Prophet""]",1,Lina,Nature's Prophet
+38,"['Lina', 'Necrophos']",1,Lina,Necrophos
+37,"['Lina', 'Ogre Magi']",1,Lina,Ogre Magi
+634,"['Lina', 'Phantom Lancer']",3,Lina,Phantom Lancer
+36,"['Lina', 'Pugna']",1,Lina,Pugna
+640,"['Lina', 'Silencer']",4,Lina,Silencer
+584,"['Lina', 'Terrorblade']",2,Lina,Terrorblade
+35,"['Lina', 'Tiny']",1,Lina,Tiny
+102,"['Lina', 'Troll Warlord']",1,Lina,Troll Warlord
+137,"['Lina', 'Tusk']",1,Lina,Tusk
+138,"['Lina', 'Undying']",1,Lina,Undying
+139,"['Lina', 'Ursa']",1,Lina,Ursa
+227,"['Lina', 'Vengeful Spirit']",1,Lina,Vengeful Spirit
+598,"['Lina', 'Venomancer']",2,Lina,Venomancer
+228,"['Lina', 'Weaver']",1,Lina,Weaver
+607,"['Lina', 'Winter Wyvern']",3,Lina,Winter Wyvern
+229,"['Lina', 'Zeus']",1,Lina,Zeus
+230,"['Lion', 'Magnus']",1,Lion,Magnus
+231,"['Lion', 'Necrophos']",1,Lion,Necrophos
+232,"['Lion', 'Terrorblade']",1,Lion,Terrorblade
+234,"['Lion', 'Windranger']",1,Lion,Windranger
+241,"['Luna', 'Warlock']",1,Luna,Warlock
+235,"['Luna', 'Wraith King']",1,Luna,Wraith King
+582,"['Lycan', 'Silencer']",2,Lycan,Silencer
+581,"['Lycan', 'Tusk']",2,Lycan,Tusk
+236,"['Lycan', 'Ursa']",1,Lycan,Ursa
+237,"['Lycan', 'Weaver']",1,Lycan,Weaver
+238,"['Lycan', 'Zeus']",1,Lycan,Zeus
+239,"['Magnus', ""Nature's Prophet""]",1,Magnus,Nature's Prophet
+240,"['Magnus', 'Necrophos']",1,Magnus,Necrophos
+226,"['Magnus', 'Rubick']",1,Magnus,Rubick
+225,"['Magnus', 'Silencer']",1,Magnus,Silencer
+224,"['Magnus', 'Terrorblade']",1,Magnus,Terrorblade
+223,"['Magnus', 'Windranger']",1,Magnus,Windranger
+222,"['Magnus', 'Zeus']",1,Magnus,Zeus
+221,"['Medusa', 'Mirana']",1,Medusa,Mirana
+220,"['Medusa', 'Ogre Magi']",1,Medusa,Ogre Magi
+219,"['Medusa', 'Tiny']",1,Medusa,Tiny
+218,"['Meepo', 'Necrophos']",1,Meepo,Necrophos
+217,"['Meepo', 'Silencer']",1,Meepo,Silencer
+216,"['Mirana', 'Morphling']",1,Mirana,Morphling
+616,"['Mirana', 'Necrophos']",3,Mirana,Necrophos
+599,"['Mirana', 'Ogre Magi']",2,Mirana,Ogre Magi
+600,"['Mirana', 'Phantom Lancer']",2,Mirana,Phantom Lancer
+215,"['Mirana', 'Phoenix']",1,Mirana,Phoenix
+597,"['Mirana', 'Rubick']",2,Mirana,Rubick
+214,"['Mirana', 'Silencer']",1,Mirana,Silencer
+213,"['Mirana', 'Spectre']",1,Mirana,Spectre
+212,"['Mirana', 'Templar Assassin']",1,Mirana,Templar Assassin
+211,"['Mirana', 'Terrorblade']",1,Mirana,Terrorblade
+210,"['Mirana', 'Tinker']",1,Mirana,Tinker
+595,"['Mirana', 'Tiny']",2,Mirana,Tiny
+233,"['Mirana', 'Underlord']",1,Mirana,Underlord
+243,"['Mirana', 'Undying']",1,Mirana,Undying
+268,"['Mirana', 'Ursa']",1,Mirana,Ursa
+244,"['Mirana', 'Vengeful Spirit']",1,Mirana,Vengeful Spirit
+262,"['Mirana', 'Venomancer']",1,Mirana,Venomancer
+263,"['Mirana', 'Visage']",1,Mirana,Visage
+593,"['Mirana', 'Winter Wyvern']",2,Mirana,Winter Wyvern
+517,"['Mirana', 'Wraith King']",2,Mirana,Wraith King
+264,"['Monkey King', 'Phantom Lancer']",1,Monkey King,Phantom Lancer
+265,"['Monkey King', 'Pugna']",1,Monkey King,Pugna
+266,"['Monkey King', 'Spectre']",1,Monkey King,Spectre
+267,"['Monkey King', 'Treant Protector']",1,Monkey King,Treant Protector
+269,"['Monkey King', 'Winter Wyvern']",1,Monkey King,Winter Wyvern
+476,"['Morphling', 'Phantom Lancer']",2,Morphling,Phantom Lancer
+276,"['Morphling', 'Tusk']",1,Morphling,Tusk
+472,"['Morphling', 'Winter Wyvern']",2,Morphling,Winter Wyvern
+516,"[""Nature's Prophet"", 'Necrophos']",2,Nature's Prophet,Necrophos
+404,"[""Nature's Prophet"", 'Phantom Lancer']",1,Nature's Prophet,Phantom Lancer
+405,"[""Nature's Prophet"", 'Phoenix']",1,Nature's Prophet,Phoenix
+406,"[""Nature's Prophet"", 'Rubick']",1,Nature's Prophet,Rubick
+408,"[""Nature's Prophet"", 'Silencer']",1,Nature's Prophet,Silencer
+412,"[""Nature's Prophet"", 'Storm Spirit']",1,Nature's Prophet,Storm Spirit
+413,"[""Nature's Prophet"", 'Terrorblade']",1,Nature's Prophet,Terrorblade
+494,"[""Nature's Prophet"", 'Tiny']",2,Nature's Prophet,Tiny
+415,"[""Nature's Prophet"", 'Ursa']",1,Nature's Prophet,Ursa
+416,"[""Nature's Prophet"", 'Vengeful Spirit']",1,Nature's Prophet,Vengeful Spirit
+418,"[""Nature's Prophet"", 'Viper']",1,Nature's Prophet,Viper
+422,"[""Nature's Prophet"", 'Wraith King']",1,Nature's Prophet,Wraith King
+401,"[""Nature's Prophet"", 'Zeus']",1,Nature's Prophet,Zeus
+477,"['Necrophos', 'Ogre Magi']",2,Necrophos,Ogre Magi
+270,"['Necrophos', 'Oracle']",1,Necrophos,Oracle
+601,"['Necrophos', 'Phantom Lancer']",3,Necrophos,Phantom Lancer
+471,"['Necrophos', 'Rubick']",2,Necrophos,Rubick
+271,"['Necrophos', 'Silencer']",1,Necrophos,Silencer
+272,"['Necrophos', 'Spectre']",1,Necrophos,Spectre
+475,"['Necrophos', 'Storm Spirit']",2,Necrophos,Storm Spirit
+273,"['Necrophos', 'Templar Assassin']",1,Necrophos,Templar Assassin
+274,"['Necrophos', 'Terrorblade']",1,Necrophos,Terrorblade
+275,"['Necrophos', 'Tinker']",1,Necrophos,Tinker
+651,"['Necrophos', 'Tiny']",5,Necrophos,Tiny
+473,"['Necrophos', 'Undying']",2,Necrophos,Undying
+474,"['Necrophos', 'Vengeful Spirit']",2,Necrophos,Vengeful Spirit
+261,"['Necrophos', 'Windranger']",1,Necrophos,Windranger
+514,"['Necrophos', 'Wraith King']",2,Necrophos,Wraith King
+260,"['Nyx Assassin', 'Phoenix']",1,Nyx Assassin,Phoenix
+259,"['Nyx Assassin', 'Ursa']",1,Nyx Assassin,Ursa
+258,"['Nyx Assassin', 'Vengeful Spirit']",1,Nyx Assassin,Vengeful Spirit
+257,"['Ogre Magi', 'Phoenix']",1,Ogre Magi,Phoenix
+256,"['Ogre Magi', 'Rubick']",1,Ogre Magi,Rubick
+255,"['Ogre Magi', 'Tinker']",1,Ogre Magi,Tinker
+500,"['Ogre Magi', 'Tiny']",2,Ogre Magi,Tiny
+501,"['Ogre Magi', 'Venomancer']",2,Ogre Magi,Venomancer
+254,"['Ogre Magi', 'Weaver']",1,Ogre Magi,Weaver
+253,"['Oracle', 'Tiny']",1,Oracle,Tiny
+252,"['Phantom Lancer', 'Pugna']",1,Phantom Lancer,Pugna
+502,"['Phantom Lancer', 'Silencer']",2,Phantom Lancer,Silencer
+251,"['Phantom Lancer', 'Storm Spirit']",1,Phantom Lancer,Storm Spirit
+250,"['Phantom Lancer', 'Templar Assassin']",1,Phantom Lancer,Templar Assassin
+639,"['Phantom Lancer', 'Tiny']",4,Phantom Lancer,Tiny
+249,"['Phantom Lancer', 'Undying']",1,Phantom Lancer,Undying
+504,"['Phantom Lancer', 'Vengeful Spirit']",2,Phantom Lancer,Vengeful Spirit
+632,"['Phantom Lancer', 'Winter Wyvern']",3,Phantom Lancer,Winter Wyvern
+248,"['Phantom Lancer', 'Zeus']",1,Phantom Lancer,Zeus
+247,"['Phoenix', 'Spirit Breaker']",1,Phoenix,Spirit Breaker
+246,"['Phoenix', 'Storm Spirit']",1,Phoenix,Storm Spirit
+245,"['Phoenix', 'Tiny']",1,Phoenix,Tiny
+646,"['Phoenix', 'Ursa']",5,Phoenix,Ursa
+654,"['Phoenix', 'Vengeful Spirit']",5,Phoenix,Vengeful Spirit
+209,"['Phoenix', 'Venomancer']",1,Phoenix,Venomancer
+242,"['Phoenix', 'Visage']",1,Phoenix,Visage
+623,"['Phoenix', 'Weaver']",3,Phoenix,Weaver
+621,"['Pugna', 'Silencer']",3,Pugna,Silencer
+208,"['Pugna', 'Spectre']",1,Pugna,Spectre
+172,"['Pugna', 'Storm Spirit']",1,Pugna,Storm Spirit
+506,"['Pugna', 'Tiny']",2,Pugna,Tiny
+157,"['Pugna', 'Ursa']",1,Pugna,Ursa
+158,"['Pugna', 'Winter Wyvern']",1,Pugna,Winter Wyvern
+159,"['Pugna', 'Wraith King']",1,Pugna,Wraith King
+160,"['Rubick', 'Spectre']",1,Rubick,Spectre
+161,"['Rubick', 'Tinker']",1,Rubick,Tinker
+162,"['Rubick', 'Zeus']",1,Rubick,Zeus
+164,"['Shadow Fiend', 'Spectre']",1,Shadow Fiend,Spectre
+171,"['Shadow Fiend', 'Undying']",1,Shadow Fiend,Undying
+165,"['Silencer', 'Spectre']",1,Silencer,Spectre
+166,"['Silencer', 'Storm Spirit']",1,Silencer,Storm Spirit
+167,"['Silencer', 'Templar Assassin']",1,Silencer,Templar Assassin
+650,"['Silencer', 'Terrorblade']",5,Silencer,Terrorblade
+625,"['Silencer', 'Tiny']",3,Silencer,Tiny
+168,"['Silencer', 'Troll Warlord']",1,Silencer,Troll Warlord
+627,"['Silencer', 'Tusk']",3,Silencer,Tusk
+511,"['Silencer', 'Ursa']",2,Silencer,Ursa
+515,"['Silencer', 'Vengeful Spirit']",2,Silencer,Vengeful Spirit
+512,"['Silencer', 'Weaver']",2,Silencer,Weaver
+169,"['Silencer', 'Zeus']",1,Silencer,Zeus
+170,"['Spectre', 'Storm Spirit']",1,Spectre,Storm Spirit
+156,"['Spectre', 'Timbersaw']",1,Spectre,Timbersaw
+155,"['Spectre', 'Tiny']",1,Spectre,Tiny
+154,"['Spectre', 'Treant Protector']",1,Spectre,Treant Protector
+153,"['Spectre', 'Undying']",1,Spectre,Undying
+152,"['Spectre', 'Vengeful Spirit']",1,Spectre,Vengeful Spirit
+151,"['Spectre', 'Winter Wyvern']",1,Spectre,Winter Wyvern
+150,"['Spectre', 'Wraith King']",1,Spectre,Wraith King
+149,"['Spectre', 'Zeus']",1,Spectre,Zeus
+148,"['Storm Spirit', 'Tiny']",1,Storm Spirit,Tiny
+147,"['Storm Spirit', 'Troll Warlord']",1,Storm Spirit,Troll Warlord
+146,"['Storm Spirit', 'Undying']",1,Storm Spirit,Undying
+498,"['Storm Spirit', 'Ursa']",2,Storm Spirit,Ursa
+637,"['Storm Spirit', 'Vengeful Spirit']",3,Storm Spirit,Vengeful Spirit
+145,"['Storm Spirit', 'Weaver']",1,Storm Spirit,Weaver
+144,"['Storm Spirit', 'Wraith King']",1,Storm Spirit,Wraith King
+143,"['Templar Assassin', 'Terrorblade']",1,Templar Assassin,Terrorblade
+142,"['Templar Assassin', 'Undying']",1,Templar Assassin,Undying
+141,"['Templar Assassin', 'Vengeful Spirit']",1,Templar Assassin,Vengeful Spirit
+140,"['Templar Assassin', 'Wraith King']",1,Templar Assassin,Wraith King
+163,"['Terrorblade', 'Tusk']",1,Terrorblade,Tusk
+482,"['Terrorblade', 'Vengeful Spirit']",2,Terrorblade,Vengeful Spirit
+173,"['Terrorblade', 'Viper']",1,Terrorblade,Viper
+198,"['Terrorblade', 'Weaver']",1,Terrorblade,Weaver
+174,"['Terrorblade', 'Windranger']",1,Terrorblade,Windranger
+192,"['Timbersaw', 'Wraith King']",1,Timbersaw,Wraith King
+193,"['Tiny', 'Troll Warlord']",1,Tiny,Troll Warlord
+194,"['Tiny', 'Undying']",1,Tiny,Undying
+195,"['Tiny', 'Ursa']",1,Tiny,Ursa
+602,"['Tiny', 'Vengeful Spirit']",3,Tiny,Vengeful Spirit
+196,"['Tiny', 'Visage']",1,Tiny,Visage
+197,"['Tiny', 'Weaver']",1,Tiny,Weaver
+199,"['Tiny', 'Winter Wyvern']",1,Tiny,Winter Wyvern
+206,"['Tiny', 'Wraith King']",1,Tiny,Wraith King
+200,"['Treant Protector', 'Vengeful Spirit']",1,Treant Protector,Vengeful Spirit
+201,"['Treant Protector', 'Weaver']",1,Treant Protector,Weaver
+202,"['Treant Protector', 'Winter Wyvern']",1,Treant Protector,Winter Wyvern
+488,"['Troll Warlord', 'Vengeful Spirit']",2,Troll Warlord,Vengeful Spirit
+203,"['Troll Warlord', 'Venomancer']",1,Troll Warlord,Venomancer
+204,"['Troll Warlord', 'Winter Wyvern']",1,Troll Warlord,Winter Wyvern
+205,"['Troll Warlord', 'Wraith King']",1,Troll Warlord,Wraith King
+191,"['Tusk', 'Ursa']",1,Tusk,Ursa
+495,"['Tusk', 'Weaver']",2,Tusk,Weaver
+190,"['Tusk', 'Zeus']",1,Tusk,Zeus
+189,"['Underlord', 'Winter Wyvern']",1,Underlord,Winter Wyvern
+489,"['Undying', 'Ursa']",2,Undying,Ursa
+611,"['Undying', 'Vengeful Spirit']",3,Undying,Vengeful Spirit
+188,"['Undying', 'Venomancer']",1,Undying,Venomancer
+187,"['Undying', 'Weaver']",1,Undying,Weaver
+490,"['Undying', 'Wraith King']",2,Undying,Wraith King
+645,"['Ursa', 'Vengeful Spirit']",4,Ursa,Vengeful Spirit
+186,"['Ursa', 'Visage']",1,Ursa,Visage
+491,"['Ursa', 'Weaver']",2,Ursa,Weaver
+185,"['Ursa', 'Winter Wyvern']",1,Ursa,Winter Wyvern
+492,"['Vengeful Spirit', 'Venomancer']",2,Vengeful Spirit,Venomancer
+184,"['Vengeful Spirit', 'Viper']",1,Vengeful Spirit,Viper
+643,"['Vengeful Spirit', 'Weaver']",4,Vengeful Spirit,Weaver
+493,"['Vengeful Spirit', 'Wraith King']",2,Vengeful Spirit,Wraith King
+183,"['Vengeful Spirit', 'Zeus']",1,Vengeful Spirit,Zeus
+182,"['Venomancer', 'Weaver']",1,Venomancer,Weaver
+181,"['Venomancer', 'Winter Wyvern']",1,Venomancer,Winter Wyvern
+180,"['Warlock', 'Wraith King']",1,Warlock,Wraith King
+179,"['Weaver', 'Winter Wyvern']",1,Weaver,Winter Wyvern
+178,"['Weaver', 'Witch Doctor']",1,Weaver,Witch Doctor
+177,"['Weaver', 'Zeus']",1,Weaver,Zeus
+176,"['Winter Wyvern', 'Witch Doctor']",1,Winter Wyvern,Witch Doctor
+175,"['Winter Wyvern', 'Wraith King']",1,Winter Wyvern,Wraith King
+71,"['Winter Wyvern', 'Zeus']",1,Winter Wyvern,Zeus
+278,"['Wraith King', 'Zeus']",1,Wraith King,Zeus
