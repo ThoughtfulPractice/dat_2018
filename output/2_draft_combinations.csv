@@ -1,0 +1,4199 @@
+,combination,count,hero1_id,hero2_id,hero1_name,hero2_name
+1086,"[102, 119]",1,102,119,Abaddon,Dark Willow
+1089,"[102, 107]",1,102,107,Abaddon,Earth Spirit
+2077,"[102, 103]",2,102,103,Abaddon,Elder Titan
+1090,"[102, 106]",1,102,106,Abaddon,Ember Spirit
+1085,"[102, 120]",1,102,120,Abaddon,Pangolier
+2102,"[102, 110]",2,102,110,Abaddon,Phoenix
+1088,"[102, 109]",1,102,109,Abaddon,Terrorblade
+1126,"[73, 113]",1,73,113,Alchemist,Arc Warden
+1123,"[73, 78]",1,73,78,Alchemist,Brewmaster
+1143,"[73, 99]",1,73,99,Alchemist,Bristleback
+3198,"[73, 119]",5,73,119,Alchemist,Dark Willow
+1141,"[73, 107]",1,73,107,Alchemist,Earth Spirit
+2582,"[73, 103]",3,73,103,Alchemist,Elder Titan
+1551,"[73, 91]",2,73,91,Alchemist,Io
+1129,"[73, 97]",1,73,97,Alchemist,Magnus
+1122,"[73, 88]",1,73,88,Alchemist,Nyx Assassin
+2576,"[73, 120]",3,73,120,Alchemist,Pangolier
+3197,"[73, 110]",5,73,110,Alchemist,Phoenix
+1131,"[73, 100]",1,73,100,Alchemist,Tusk
+1127,"[73, 108]",1,73,108,Alchemist,Underlord
+2662,"[73, 85]",4,73,85,Alchemist,Undying
+2579,"[73, 112]",3,73,112,Alchemist,Winter Wyvern
+3206,"[68, 102]",5,68,102,Ancient Apparition,Abaddon
+1197,"[68, 96]",1,68,96,Ancient Apparition,Centaur Warrunner
+2138,"[68, 119]",3,68,119,Ancient Apparition,Dark Willow
+1431,"[68, 69]",2,68,69,Ancient Apparition,Doom
+2858,"[68, 107]",4,68,107,Ancient Apparition,Earth Spirit
+1134,"[68, 103]",1,68,103,Ancient Apparition,Elder Titan
+1137,"[68, 106]",1,68,106,Ancient Apparition,Ember Spirit
+3201,"[68, 72]",5,68,72,Ancient Apparition,Gyrocopter
+1451,"[68, 91]",2,68,91,Ancient Apparition,Io
+1136,"[68, 104]",1,68,104,Ancient Apparition,Legion Commander
+1437,"[68, 80]",2,68,80,Ancient Apparition,Lone Druid
+1435,"[68, 77]",2,68,77,Ancient Apparition,Lycan
+1135,"[68, 97]",1,68,97,Ancient Apparition,Magnus
+1216,"[68, 82]",1,68,82,Ancient Apparition,Meepo
+2153,"[68, 89]",3,68,89,Ancient Apparition,Naga Siren
+1442,"[68, 88]",2,68,88,Ancient Apparition,Nyx Assassin
+1138,"[68, 111]",1,68,111,Ancient Apparition,Oracle
+3199,"[68, 76]",5,68,76,Ancient Apparition,Outworld Devourer
+1456,"[68, 120]",2,68,120,Ancient Apparition,Pangolier
+3462,"[68, 86]",6,68,86,Ancient Apparition,Rubick
+1436,"[68, 79]",2,68,79,Ancient Apparition,Shadow Demon
+1177,"[68, 93]",1,68,93,Ancient Apparition,Slark
+2174,"[68, 109]",3,68,109,Ancient Apparition,Terrorblade
+1217,"[68, 83]",1,68,83,Ancient Apparition,Treant Protector
+1348,"[68, 95]",2,68,95,Ancient Apparition,Troll Warlord
+3746,"[68, 100]",8,68,100,Ancient Apparition,Tusk
+3205,"[68, 108]",5,68,108,Ancient Apparition,Underlord
+1190,"[68, 92]",1,68,92,Ancient Apparition,Visage
+1139,"[68, 112]",1,68,112,Ancient Apparition,Winter Wyvern
+2018,"[1, 2]",2,1,2,Anti-Mage,Axe
+2660,"[1, 38]",4,1,38,Anti-Mage,Beastmaster
+981,"[1, 4]",1,1,4,Anti-Mage,Bloodseeker
+2006,"[1, 66]",2,1,66,Anti-Mage,Chen
+2473,"[1, 51]",3,1,51,Anti-Mage,Clockwerk
+993,"[1, 119]",1,1,119,Anti-Mage,Dark Willow
+983,"[1, 43]",1,1,43,Anti-Mage,Death Prophet
+2020,"[1, 49]",2,1,49,Anti-Mage,Dragon Knight
+995,"[1, 107]",1,1,107,Anti-Mage,Earth Spirit
+996,"[1, 106]",1,1,106,Anti-Mage,Ember Spirit
+2474,"[1, 52]",3,1,52,Anti-Mage,Leshrac
+988,"[1, 25]",1,1,25,Anti-Mage,Lina
+1019,"[1, 97]",1,1,97,Anti-Mage,Magnus
+2475,"[1, 53]",3,1,53,Anti-Mage,Nature's Prophet
+978,"[1, 60]",1,1,60,Anti-Mage,Night Stalker
+1020,"[1, 88]",1,1,88,Anti-Mage,Nyx Assassin
+994,"[1, 111]",1,1,111,Anti-Mage,Oracle
+2019,"[1, 120]",2,1,120,Anti-Mage,Pangolier
+2479,"[1, 86]",3,1,86,Anti-Mage,Rubick
+991,"[1, 16]",1,1,16,Anti-Mage,Sand King
+998,"[1, 79]",1,1,79,Anti-Mage,Shadow Demon
+2183,"[1, 101]",3,1,101,Anti-Mage,Skywrath Mage
+987,"[1, 29]",1,1,29,Anti-Mage,Tidehunter
+1018,"[1, 98]",1,1,98,Anti-Mage,Timbersaw
+2478,"[1, 85]",3,1,85,Anti-Mage,Undying
+997,"[1, 70]",1,1,70,Anti-Mage,Ursa
+2012,"[1, 47]",2,1,47,Anti-Mage,Viper
+2017,"[1, 37]",2,1,37,Anti-Mage,Warlock
+990,"[1, 21]",1,1,21,Anti-Mage,Windranger
+985,"[1, 30]",1,1,30,Anti-Mage,Witch Doctor
+989,"[1, 22]",1,1,22,Anti-Mage,Zeus
+882,"[113, 119]",1,113,119,Arc Warden,Dark Willow
+1799,"[113, 114]",2,113,114,Arc Warden,Monkey King
+1803,"[2, 68]",2,2,68,Axe,Ancient Apparition
+2285,"[2, 3]",3,2,3,Axe,Bane
+1927,"[2, 4]",2,2,4,Axe,Bloodseeker
+1800,"[2, 62]",2,2,62,Axe,Bounty Hunter
+226,"[2, 99]",1,2,99,Axe,Bristleback
+201,"[2, 61]",1,2,61,Axe,Broodmother
+2842,"[2, 81]",4,2,81,Axe,Chaos Knight
+3323,"[2, 66]",5,2,66,Axe,Chen
+230,"[2, 51]",1,2,51,Axe,Clockwerk
+1947,"[2, 119]",2,2,119,Axe,Dark Willow
+231,"[2, 50]",1,2,50,Axe,Dazzle
+3510,"[2, 43]",6,2,43,Axe,Death Prophet
+3457,"[2, 87]",6,2,87,Axe,Disruptor
+3817,"[2, 49]",9,2,49,Axe,Dragon Knight
+1938,"[2, 107]",2,2,107,Axe,Earth Spirit
+2783,"[2, 103]",4,2,103,Axe,Elder Titan
+3102,"[2, 106]",5,2,106,Axe,Ember Spirit
+3303,"[2, 41]",5,2,41,Axe,Faceless Void
+3814,"[2, 72]",9,2,72,Axe,Gyrocopter
+203,"[2, 59]",1,2,59,Axe,Huskar
+2845,"[2, 74]",4,2,74,Axe,Invoker
+2841,"[2, 91]",4,2,91,Axe,Io
+2342,"[2, 64]",3,2,64,Axe,Jakiro
+1792,"[2, 8]",2,2,8,Axe,Juggernaut
+229,"[2, 90]",1,2,90,Axe,Keeper of the Light
+3313,"[2, 23]",5,2,23,Axe,Kunkka
+233,"[2, 104]",1,2,104,Axe,Legion Commander
+2748,"[2, 52]",4,2,52,Axe,Leshrac
+2744,"[2, 54]",4,2,54,Axe,Lifestealer
+3703,"[2, 25]",8,2,25,Axe,Lina
+276,"[2, 26]",1,2,26,Axe,Lion
+193,"[2, 80]",1,2,80,Axe,Lone Druid
+1926,"[2, 48]",2,2,48,Axe,Luna
+3459,"[2, 77]",6,2,77,Axe,Lycan
+1781,"[2, 94]",2,2,94,Axe,Medusa
+1782,"[2, 9]",2,2,9,Axe,Mirana
+2279,"[2, 114]",3,2,114,Axe,Monkey King
+2761,"[2, 10]",4,2,10,Axe,Morphling
+3659,"[2, 89]",7,2,89,Axe,Naga Siren
+2745,"[2, 53]",4,2,53,Axe,Nature's Prophet
+2338,"[2, 60]",3,2,60,Axe,Night Stalker
+206,"[2, 88]",1,2,88,Axe,Nyx Assassin
+2848,"[2, 84]",4,2,84,Axe,Ogre Magi
+204,"[2, 57]",1,2,57,Axe,Omniknight
+255,"[2, 111]",1,2,111,Axe,Oracle
+196,"[2, 76]",1,2,76,Axe,Outworld Devourer
+1950,"[2, 120]",2,2,120,Axe,Pangolier
+3651,"[2, 12]",7,2,12,Axe,Phantom Lancer
+1941,"[2, 110]",2,2,110,Axe,Phoenix
+273,"[2, 13]",1,2,13,Axe,Puck
+1921,"[2, 45]",2,2,45,Axe,Pugna
+264,"[2, 39]",1,2,39,Axe,Queen of Pain
+1951,"[2, 15]",2,2,15,Axe,Razor
+3236,"[2, 86]",5,2,86,Axe,Rubick
+2283,"[2, 16]",3,2,16,Axe,Sand King
+3458,"[2, 79]",6,2,79,Axe,Shadow Demon
+197,"[2, 75]",1,2,75,Axe,Silencer
+4184,"[2, 101]",25,2,101,Axe,Skywrath Mage
+3699,"[2, 93]",8,2,93,Axe,Slark
+1805,"[2, 71]",2,2,71,Axe,Spirit Breaker
+1930,"[2, 17]",2,2,17,Axe,Storm Spirit
+3514,"[2, 46]",6,2,46,Axe,Templar Assassin
+1940,"[2, 109]",2,2,109,Axe,Terrorblade
+191,"[2, 83]",1,2,83,Axe,Treant Protector
+2794,"[2, 100]",4,2,100,Axe,Tusk
+3235,"[2, 85]",5,2,85,Axe,Undying
+271,"[2, 20]",1,2,20,Axe,Vengeful Spirit
+1915,"[2, 40]",2,2,40,Axe,Venomancer
+2754,"[2, 47]",4,2,47,Axe,Viper
+2345,"[2, 92]",3,2,92,Axe,Visage
+3822,"[2, 37]",9,2,37,Axe,Warlock
+4022,"[2, 21]",12,2,21,Axe,Windranger
+1945,"[2, 112]",2,2,112,Axe,Winter Wyvern
+3823,"[2, 30]",9,2,30,Axe,Witch Doctor
+261,"[2, 42]",1,2,42,Axe,Wraith King
+1912,"[2, 22]",2,2,22,Axe,Zeus
+2081,"[3, 102]",2,3,102,Bane,Abaddon
+2948,"[3, 73]",4,3,73,Bane,Alchemist
+733,"[3, 113]",1,3,113,Bane,Arc Warden
+3692,"[3, 65]",8,3,65,Bane,Batrider
+4074,"[3, 38]",13,3,38,Bane,Beastmaster
+4097,"[3, 4]",14,3,4,Bane,Bloodseeker
+3080,"[3, 62]",5,3,62,Bane,Bounty Hunter
+3400,"[3, 78]",6,3,78,Bane,Brewmaster
+2611,"[3, 61]",3,3,61,Bane,Broodmother
+2404,"[3, 96]",3,3,96,Bane,Centaur Warrunner
+3406,"[3, 66]",6,3,66,Bane,Chen
+3068,"[3, 56]",5,3,56,Bane,Clinkz
+4171,"[3, 51]",21,3,51,Bane,Clockwerk
+3794,"[3, 55]",8,3,55,Bane,Dark Seer
+3675,"[3, 119]",7,3,119,Bane,Dark Willow
+4164,"[3, 43]",20,3,43,Bane,Death Prophet
+686,"[3, 87]",1,3,87,Bane,Disruptor
+4139,"[3, 69]",16,3,69,Bane,Doom
+4168,"[3, 49]",21,3,49,Bane,Dragon Knight
+3561,"[3, 6]",7,3,6,Bane,Drow Ranger
+2870,"[3, 107]",4,3,107,Bane,Earth Spirit
+3058,"[3, 7]",5,3,7,Bane,Earthshaker
+4163,"[3, 103]",20,3,103,Bane,Elder Titan
+4004,"[3, 106]",11,3,106,Bane,Ember Spirit
+2618,"[3, 58]",3,3,58,Bane,Enchantress
+1948,"[3, 33]",2,3,33,Bane,Enigma
+3789,"[3, 41]",8,3,41,Bane,Faceless Void
+4179,"[3, 72]",24,3,72,Bane,Gyrocopter
+2891,"[3, 59]",4,3,59,Bane,Huskar
+692,"[3, 74]",1,3,74,Bane,Invoker
+3936,"[3, 91]",10,3,91,Bane,Io
+3066,"[3, 8]",5,3,8,Bane,Juggernaut
+682,"[3, 90]",1,3,90,Bane,Keeper of the Light
+4155,"[3, 23]",18,3,23,Bane,Kunkka
+3196,"[3, 104]",5,3,104,Bane,Legion Commander
+4073,"[3, 52]",13,3,52,Bane,Leshrac
+3977,"[3, 54]",11,3,54,Bane,Lifestealer
+3967,"[3, 25]",11,3,25,Bane,Lina
+697,"[3, 26]",1,3,26,Bane,Lion
+688,"[3, 80]",1,3,80,Bane,Lone Druid
+4065,"[3, 48]",13,3,48,Bane,Luna
+3803,"[3, 77]",9,3,77,Bane,Lycan
+2403,"[3, 97]",3,3,97,Bane,Magnus
+3002,"[3, 94]",4,3,94,Bane,Medusa
+687,"[3, 82]",1,3,82,Bane,Meepo
+4173,"[3, 9]",22,3,9,Bane,Mirana
+2888,"[3, 114]",4,3,114,Bane,Monkey King
+3742,"[3, 10]",8,3,10,Bane,Morphling
+3005,"[3, 89]",4,3,89,Bane,Naga Siren
+1821,"[3, 53]",2,3,53,Bane,Nature's Prophet
+2538,"[3, 36]",3,3,36,Bane,Necrophos
+3731,"[3, 60]",8,3,60,Bane,Night Stalker
+3716,"[3, 88]",8,3,88,Bane,Nyx Assassin
+4063,"[3, 57]",13,3,57,Bane,Omniknight
+3559,"[3, 76]",7,3,76,Bane,Outworld Devourer
+3955,"[3, 120]",11,3,120,Bane,Pangolier
+662,"[3, 44]",1,3,44,Bane,Phantom Assassin
+4057,"[3, 12]",13,3,12,Bane,Phantom Lancer
+2586,"[3, 110]",3,3,110,Bane,Phoenix
+3876,"[3, 13]",9,3,13,Bane,Puck
+726,"[3, 14]",1,3,14,Bane,Pudge
+3787,"[3, 45]",8,3,45,Bane,Pugna
+2544,"[3, 39]",3,3,39,Bane,Queen of Pain
+3878,"[3, 15]",9,3,15,Bane,Razor
+3717,"[3, 86]",8,3,86,Bane,Rubick
+4178,"[3, 16]",24,3,16,Bane,Sand King
+3674,"[3, 11]",7,3,11,Bane,Shadow Fiend
+3194,"[3, 101]",5,3,101,Bane,Skywrath Mage
+3175,"[3, 28]",5,3,28,Bane,Slardar
+3003,"[3, 93]",4,3,93,Bane,Slark
+669,"[3, 35]",1,3,35,Bane,Sniper
+3569,"[3, 67]",7,3,67,Bane,Spectre
+694,"[3, 71]",1,3,71,Bane,Spirit Breaker
+3925,"[3, 17]",10,3,17,Bane,Storm Spirit
+723,"[3, 18]",1,3,18,Bane,Sven
+3385,"[3, 46]",6,3,46,Bane,Templar Assassin
+3414,"[3, 109]",6,3,109,Bane,Terrorblade
+1929,"[3, 29]",2,3,29,Bane,Tidehunter
+1936,"[3, 98]",2,3,98,Bane,Timbersaw
+2536,"[3, 34]",3,3,34,Bane,Tinker
+4149,"[3, 19]",17,3,19,Bane,Tiny
+3877,"[3, 95]",9,3,95,Bane,Troll Warlord
+3932,"[3, 100]",10,3,100,Bane,Tusk
+4125,"[3, 108]",16,3,108,Bane,Underlord
+2410,"[3, 85]",3,3,85,Bane,Undying
+3408,"[3, 70]",6,3,70,Bane,Ursa
+2585,"[3, 20]",3,3,20,Bane,Vengeful Spirit
+3183,"[3, 40]",5,3,40,Bane,Venomancer
+2553,"[3, 47]",3,3,47,Bane,Viper
+3004,"[3, 92]",4,3,92,Bane,Visage
+2947,"[3, 63]",4,3,63,Bane,Weaver
+4019,"[3, 21]",12,3,21,Bane,Windranger
+2877,"[3, 112]",4,3,112,Bane,Winter Wyvern
+672,"[3, 30]",1,3,30,Bane,Witch Doctor
+664,"[3, 42]",1,3,42,Bane,Wraith King
+2593,"[3, 22]",3,3,22,Bane,Zeus
+891,"[65, 73]",1,65,73,Batrider,Alchemist
+2302,"[65, 68]",3,65,68,Batrider,Ancient Apparition
+1398,"[65, 113]",2,65,113,Batrider,Arc Warden
+370,"[65, 66]",1,65,66,Batrider,Chen
+2303,"[65, 119]",3,65,119,Batrider,Dark Willow
+2770,"[65, 87]",4,65,87,Batrider,Disruptor
+2769,"[65, 107]",4,65,107,Batrider,Earth Spirit
+1401,"[65, 103]",2,65,103,Batrider,Elder Titan
+3490,"[65, 106]",6,65,106,Batrider,Ember Spirit
+3582,"[65, 72]",7,65,72,Batrider,Gyrocopter
+1423,"[65, 91]",2,65,91,Batrider,Io
+1399,"[65, 80]",2,65,80,Batrider,Lone Druid
+2299,"[65, 77]",3,65,77,Batrider,Lycan
+1257,"[65, 94]",1,65,94,Batrider,Medusa
+1249,"[65, 82]",1,65,82,Batrider,Meepo
+2304,"[65, 114]",3,65,114,Batrider,Monkey King
+3930,"[65, 89]",10,65,89,Batrider,Naga Siren
+2767,"[65, 88]",4,65,88,Batrider,Nyx Assassin
+1252,"[65, 84]",1,65,84,Batrider,Ogre Magi
+2300,"[65, 76]",3,65,76,Batrider,Outworld Devourer
+2771,"[65, 110]",4,65,110,Batrider,Phoenix
+2298,"[65, 86]",3,65,86,Batrider,Rubick
+1247,"[65, 79]",1,65,79,Batrider,Shadow Demon
+2301,"[65, 75]",3,65,75,Batrider,Silencer
+1402,"[65, 101]",2,65,101,Batrider,Skywrath Mage
+1395,"[65, 67]",2,65,67,Batrider,Spectre
+3118,"[65, 109]",5,65,109,Batrider,Terrorblade
+1258,"[65, 98]",1,65,98,Batrider,Timbersaw
+1404,"[65, 83]",2,65,83,Batrider,Treant Protector
+3074,"[65, 95]",5,65,95,Batrider,Troll Warlord
+3120,"[65, 100]",5,65,100,Batrider,Tusk
+2774,"[65, 85]",4,65,85,Batrider,Undying
+742,"[65, 70]",1,65,70,Batrider,Ursa
+2766,"[65, 92]",4,65,92,Batrider,Visage
+2305,"[65, 112]",3,65,112,Batrider,Winter Wyvern
+554,"[38, 73]",1,38,73,Beastmaster,Alchemist
+2526,"[38, 68]",3,38,68,Beastmaster,Ancient Apparition
+2977,"[38, 113]",4,38,113,Beastmaster,Arc Warden
+1387,"[38, 65]",2,38,65,Beastmaster,Batrider
+2522,"[38, 62]",3,38,62,Beastmaster,Bounty Hunter
+2521,"[38, 61]",3,38,61,Beastmaster,Broodmother
+4045,"[38, 66]",12,38,66,Beastmaster,Chen
+546,"[38, 56]",1,38,56,Beastmaster,Clinkz
+3870,"[38, 51]",9,38,51,Beastmaster,Clockwerk
+540,"[38, 119]",1,38,119,Beastmaster,Dark Willow
+542,"[38, 50]",1,38,50,Beastmaster,Dazzle
+4014,"[38, 43]",12,38,43,Beastmaster,Death Prophet
+4108,"[38, 87]",15,38,87,Beastmaster,Disruptor
+4059,"[38, 49]",13,38,49,Beastmaster,Dragon Knight
+2969,"[38, 107]",4,38,107,Beastmaster,Earth Spirit
+4145,"[38, 103]",17,38,103,Beastmaster,Elder Titan
+4141,"[38, 106]",16,38,106,Beastmaster,Ember Spirit
+3750,"[38, 41]",8,38,41,Beastmaster,Faceless Void
+4018,"[38, 72]",12,38,72,Beastmaster,Gyrocopter
+2520,"[38, 59]",3,38,59,Beastmaster,Huskar
+3530,"[38, 74]",7,38,74,Beastmaster,Invoker
+3600,"[38, 91]",7,38,91,Beastmaster,Io
+4134,"[38, 64]",16,38,64,Beastmaster,Jakiro
+516,"[38, 90]",1,38,90,Beastmaster,Keeper of the Light
+4181,"[38, 52]",25,38,52,Beastmaster,Leshrac
+4044,"[38, 54]",12,38,54,Beastmaster,Lifestealer
+2530,"[38, 80]",3,38,80,Beastmaster,Lone Druid
+4122,"[38, 48]",16,38,48,Beastmaster,Luna
+1426,"[38, 77]",2,38,77,Beastmaster,Lycan
+2958,"[38, 94]",4,38,94,Beastmaster,Medusa
+3279,"[38, 114]",5,38,114,Beastmaster,Monkey King
+3898,"[38, 89]",10,38,89,Beastmaster,Naga Siren
+2519,"[38, 53]",3,38,53,Beastmaster,Nature's Prophet
+1384,"[38, 60]",2,38,60,Beastmaster,Night Stalker
+2955,"[38, 88]",4,38,88,Beastmaster,Nyx Assassin
+512,"[38, 84]",1,38,84,Beastmaster,Ogre Magi
+3911,"[38, 111]",10,38,111,Beastmaster,Oracle
+3554,"[38, 76]",7,38,76,Beastmaster,Outworld Devourer
+541,"[38, 120]",1,38,120,Beastmaster,Pangolier
+1380,"[38, 44]",2,38,44,Beastmaster,Phantom Assassin
+2488,"[38, 110]",3,38,110,Beastmaster,Phoenix
+3253,"[38, 45]",5,38,45,Beastmaster,Pugna
+3544,"[38, 39]",7,38,39,Beastmaster,Queen of Pain
+3875,"[38, 86]",9,38,86,Beastmaster,Rubick
+531,"[38, 79]",1,38,79,Beastmaster,Shadow Demon
+534,"[38, 75]",1,38,75,Beastmaster,Silencer
+4186,"[38, 101]",26,38,101,Beastmaster,Skywrath Mage
+4015,"[38, 93]",12,38,93,Beastmaster,Slark
+551,"[38, 67]",1,38,67,Beastmaster,Spectre
+553,"[38, 71]",1,38,71,Beastmaster,Spirit Breaker
+3552,"[38, 46]",7,38,46,Beastmaster,Templar Assassin
+1378,"[38, 109]",2,38,109,Beastmaster,Terrorblade
+1462,"[38, 98]",2,38,98,Beastmaster,Timbersaw
+2511,"[38, 83]",3,38,83,Beastmaster,Treant Protector
+3839,"[38, 95]",9,38,95,Beastmaster,Troll Warlord
+4081,"[38, 100]",14,38,100,Beastmaster,Tusk
+3593,"[38, 85]",7,38,85,Beastmaster,Undying
+2957,"[38, 40]",4,38,40,Beastmaster,Venomancer
+2517,"[38, 47]",3,38,47,Beastmaster,Viper
+3439,"[38, 92]",6,38,92,Beastmaster,Visage
+547,"[38, 63]",1,38,63,Beastmaster,Weaver
+2489,"[38, 112]",3,38,112,Beastmaster,Winter Wyvern
+2950,"[38, 42]",4,38,42,Beastmaster,Wraith King
+376,"[4, 102]",1,4,102,Bloodseeker,Abaddon
+455,"[4, 73]",1,4,73,Bloodseeker,Alchemist
+454,"[4, 68]",1,4,68,Bloodseeker,Ancient Apparition
+1443,"[4, 113]",2,4,113,Bloodseeker,Arc Warden
+452,"[4, 65]",1,4,65,Bloodseeker,Batrider
+3984,"[4, 38]",11,4,38,Bloodseeker,Beastmaster
+450,"[4, 62]",1,4,62,Bloodseeker,Bounty Hunter
+3415,"[4, 78]",6,4,78,Bloodseeker,Brewmaster
+2368,"[4, 99]",3,4,99,Bloodseeker,Bristleback
+2359,"[4, 61]",3,4,61,Bloodseeker,Broodmother
+441,"[4, 96]",1,4,96,Bloodseeker,Centaur Warrunner
+3009,"[4, 66]",4,4,66,Bloodseeker,Chen
+3382,"[4, 56]",6,4,56,Bloodseeker,Clinkz
+2363,"[4, 51]",3,4,51,Bloodseeker,Clockwerk
+3830,"[4, 5]",9,4,5,Bloodseeker,Crystal Maiden
+3682,"[4, 119]",8,4,119,Bloodseeker,Dark Willow
+447,"[4, 50]",1,4,50,Bloodseeker,Dazzle
+1362,"[4, 43]",2,4,43,Bloodseeker,Death Prophet
+3309,"[4, 87]",5,4,87,Bloodseeker,Disruptor
+3310,"[4, 69]",5,4,69,Bloodseeker,Doom
+3023,"[4, 49]",4,4,49,Bloodseeker,Dragon Knight
+1438,"[4, 107]",2,4,107,Bloodseeker,Earth Spirit
+1344,"[4, 7]",2,4,7,Bloodseeker,Earthshaker
+3013,"[4, 103]",4,4,103,Bloodseeker,Elder Titan
+3245,"[4, 106]",5,4,106,Bloodseeker,Ember Spirit
+1302,"[4, 58]",2,4,58,Bloodseeker,Enchantress
+1454,"[4, 41]",2,4,41,Bloodseeker,Faceless Void
+2361,"[4, 72]",3,4,72,Bloodseeker,Gyrocopter
+1307,"[4, 59]",2,4,59,Bloodseeker,Huskar
+3424,"[4, 74]",6,4,74,Bloodseeker,Invoker
+3302,"[4, 91]",5,4,91,Bloodseeker,Io
+3026,"[4, 64]",4,4,64,Bloodseeker,Jakiro
+458,"[4, 90]",1,4,90,Bloodseeker,Keeper of the Light
+3016,"[4, 23]",4,4,23,Bloodseeker,Kunkka
+3987,"[4, 52]",11,4,52,Bloodseeker,Leshrac
+1452,"[4, 31]",2,4,31,Bloodseeker,Lich
+3315,"[4, 54]",5,4,54,Bloodseeker,Lifestealer
+3017,"[4, 25]",4,4,25,Bloodseeker,Lina
+417,"[4, 26]",1,4,26,Bloodseeker,Lion
+1297,"[4, 48]",2,4,48,Bloodseeker,Luna
+2364,"[4, 77]",3,4,77,Bloodseeker,Lycan
+2367,"[4, 97]",3,4,97,Bloodseeker,Magnus
+3608,"[4, 9]",7,4,9,Bloodseeker,Mirana
+389,"[4, 114]",1,4,114,Bloodseeker,Monkey King
+1439,"[4, 10]",2,4,10,Bloodseeker,Morphling
+3307,"[4, 89]",5,4,89,Bloodseeker,Naga Siren
+3024,"[4, 53]",4,4,53,Bloodseeker,Nature's Prophet
+2388,"[4, 36]",3,4,36,Bloodseeker,Necrophos
+2358,"[4, 60]",3,4,60,Bloodseeker,Night Stalker
+2365,"[4, 88]",3,4,88,Bloodseeker,Nyx Assassin
+457,"[4, 84]",1,4,84,Bloodseeker,Ogre Magi
+449,"[4, 57]",1,4,57,Bloodseeker,Omniknight
+383,"[4, 111]",1,4,111,Bloodseeker,Oracle
+3250,"[4, 120]",5,4,120,Bloodseeker,Pangolier
+2383,"[4, 12]",3,4,12,Bloodseeker,Phantom Lancer
+1455,"[4, 110]",2,4,110,Bloodseeker,Phoenix
+1445,"[4, 13]",2,4,13,Bloodseeker,Puck
+393,"[4, 14]",1,4,14,Bloodseeker,Pudge
+1488,"[4, 45]",2,4,45,Bloodseeker,Pugna
+3019,"[4, 39]",4,4,39,Bloodseeker,Queen of Pain
+416,"[4, 15]",1,4,15,Bloodseeker,Razor
+3008,"[4, 86]",4,4,86,Bloodseeker,Rubick
+3615,"[4, 16]",7,4,16,Bloodseeker,Sand King
+456,"[4, 79]",1,4,79,Bloodseeker,Shadow Demon
+2381,"[4, 11]",3,4,11,Bloodseeker,Shadow Fiend
+443,"[4, 27]",1,4,27,Bloodseeker,Shadow Shaman
+3596,"[4, 75]",7,4,75,Bloodseeker,Silencer
+4071,"[4, 101]",13,4,101,Bloodseeker,Skywrath Mage
+1450,"[4, 28]",2,4,28,Bloodseeker,Slardar
+462,"[4, 67]",1,4,67,Bloodseeker,Spectre
+3015,"[4, 17]",4,4,17,Bloodseeker,Storm Spirit
+3409,"[4, 46]",6,4,46,Bloodseeker,Templar Assassin
+3665,"[4, 19]",7,4,19,Bloodseeker,Tiny
+459,"[4, 95]",1,4,95,Bloodseeker,Troll Warlord
+3012,"[4, 100]",4,4,100,Bloodseeker,Tusk
+2379,"[4, 108]",3,4,108,Bloodseeker,Underlord
+3314,"[4, 85]",5,4,85,Bloodseeker,Undying
+2360,"[4, 70]",3,4,70,Bloodseeker,Ursa
+3660,"[4, 20]",7,4,20,Bloodseeker,Vengeful Spirit
+3293,"[4, 40]",5,4,40,Bloodseeker,Venomancer
+3816,"[4, 37]",9,4,37,Bloodseeker,Warlock
+3025,"[4, 63]",4,4,63,Bloodseeker,Weaver
+3880,"[4, 21]",9,4,21,Bloodseeker,Windranger
+3713,"[4, 112]",8,4,112,Bloodseeker,Winter Wyvern
+3892,"[4, 30]",10,4,30,Bloodseeker,Witch Doctor
+3021,"[4, 42]",4,4,42,Bloodseeker,Wraith King
+3237,"[4, 22]",5,4,22,Bloodseeker,Zeus
+1428,"[62, 102]",2,62,102,Bounty Hunter,Abaddon
+2751,"[62, 65]",4,62,65,Bounty Hunter,Batrider
+2334,"[62, 78]",3,62,78,Bounty Hunter,Brewmaster
+259,"[62, 81]",1,62,81,Bounty Hunter,Chaos Knight
+2288,"[62, 87]",3,62,87,Bounty Hunter,Disruptor
+3294,"[62, 69]",5,62,69,Bounty Hunter,Doom
+1440,"[62, 103]",2,62,103,Bounty Hunter,Elder Titan
+2340,"[62, 106]",3,62,106,Bounty Hunter,Ember Spirit
+3645,"[62, 72]",7,62,72,Bounty Hunter,Gyrocopter
+232,"[62, 64]",1,62,64,Bounty Hunter,Jakiro
+260,"[62, 90]",1,62,90,Bounty Hunter,Keeper of the Light
+200,"[62, 104]",1,62,104,Bounty Hunter,Legion Commander
+258,"[62, 80]",1,62,80,Bounty Hunter,Lone Druid
+2335,"[62, 77]",3,62,77,Bounty Hunter,Lycan
+262,"[62, 97]",1,62,97,Bounty Hunter,Magnus
+1483,"[62, 114]",2,62,114,Bounty Hunter,Monkey King
+2336,"[62, 76]",3,62,76,Bounty Hunter,Outworld Devourer
+207,"[62, 120]",1,62,120,Bounty Hunter,Pangolier
+2756,"[62, 86]",4,62,86,Bounty Hunter,Rubick
+257,"[62, 79]",1,62,79,Bounty Hunter,Shadow Demon
+1474,"[62, 75]",2,62,75,Bounty Hunter,Silencer
+1430,"[62, 101]",2,62,101,Bounty Hunter,Skywrath Mage
+256,"[62, 67]",1,62,67,Bounty Hunter,Spectre
+205,"[62, 109]",1,62,109,Bounty Hunter,Terrorblade
+263,"[62, 98]",1,62,98,Bounty Hunter,Timbersaw
+1467,"[62, 95]",2,62,95,Bounty Hunter,Troll Warlord
+199,"[62, 100]",1,62,100,Bounty Hunter,Tusk
+202,"[62, 108]",1,62,108,Bounty Hunter,Underlord
+2286,"[62, 92]",3,62,92,Bounty Hunter,Visage
+872,"[78, 113]",1,78,113,Brewmaster,Arc Warden
+2626,"[78, 119]",3,78,119,Brewmaster,Dark Willow
+3975,"[78, 87]",11,78,87,Brewmaster,Disruptor
+2559,"[78, 107]",3,78,107,Brewmaster,Earth Spirit
+3796,"[78, 103]",8,78,103,Brewmaster,Elder Titan
+3950,"[78, 106]",10,78,106,Brewmaster,Ember Spirit
+3577,"[78, 91]",7,78,91,Brewmaster,Io
+880,"[78, 90]",1,78,90,Brewmaster,Keeper of the Light
+3125,"[78, 80]",5,78,80,Brewmaster,Lone Druid
+860,"[78, 94]",1,78,94,Brewmaster,Medusa
+2738,"[78, 114]",4,78,114,Brewmaster,Monkey King
+3565,"[78, 89]",7,78,89,Brewmaster,Naga Siren
+876,"[78, 88]",1,78,88,Brewmaster,Nyx Assassin
+875,"[78, 84]",1,78,84,Brewmaster,Ogre Magi
+1562,"[78, 111]",2,78,111,Brewmaster,Oracle
+1563,"[78, 110]",2,78,110,Brewmaster,Phoenix
+3391,"[78, 86]",6,78,86,Brewmaster,Rubick
+1584,"[78, 79]",2,78,79,Brewmaster,Shadow Demon
+2757,"[78, 101]",4,78,101,Brewmaster,Skywrath Mage
+2605,"[78, 93]",3,78,93,Brewmaster,Slark
+1564,"[78, 109]",2,78,109,Brewmaster,Terrorblade
+1615,"[78, 98]",2,78,98,Brewmaster,Timbersaw
+873,"[78, 83]",1,78,83,Brewmaster,Treant Protector
+1613,"[78, 95]",2,78,95,Brewmaster,Troll Warlord
+3947,"[78, 100]",10,78,100,Brewmaster,Tusk
+2623,"[78, 85]",3,78,85,Brewmaster,Undying
+986,"[99, 102]",1,99,102,Bristleback,Abaddon
+1323,"[99, 107]",2,99,107,Bristleback,Earth Spirit
+992,"[99, 106]",1,99,106,Bristleback,Ember Spirit
+1407,"[99, 101]",2,99,101,Bristleback,Skywrath Mage
+0,"[99, 109]",1,99,109,Bristleback,Terrorblade
+984,"[99, 100]",1,99,100,Bristleback,Tusk
+227,"[61, 68]",1,61,68,Broodmother,Ancient Apparition
+2347,"[61, 65]",3,61,65,Broodmother,Batrider
+2343,"[61, 78]",3,61,78,Broodmother,Brewmaster
+3248,"[61, 119]",5,61,119,Broodmother,Dark Willow
+192,"[61, 87]",1,61,87,Broodmother,Disruptor
+3482,"[61, 107]",6,61,107,Broodmother,Earth Spirit
+220,"[61, 106]",1,61,106,Broodmother,Ember Spirit
+228,"[61, 74]",1,61,74,Broodmother,Invoker
+198,"[61, 91]",1,61,91,Broodmother,Io
+224,"[61, 64]",1,61,64,Broodmother,Jakiro
+195,"[61, 90]",1,61,90,Broodmother,Keeper of the Light
+187,"[61, 80]",1,61,80,Broodmother,Lone Druid
+1361,"[61, 97]",2,61,97,Broodmother,Magnus
+194,"[61, 89]",1,61,89,Broodmother,Naga Siren
+2351,"[61, 88]",3,61,88,Broodmother,Nyx Assassin
+188,"[61, 84]",1,61,84,Broodmother,Ogre Magi
+223,"[61, 111]",1,61,111,Broodmother,Oracle
+208,"[61, 76]",1,61,76,Broodmother,Outworld Devourer
+1448,"[61, 120]",2,61,120,Broodmother,Pangolier
+1453,"[61, 110]",2,61,110,Broodmother,Phoenix
+190,"[61, 86]",1,61,86,Broodmother,Rubick
+1444,"[61, 79]",2,61,79,Broodmother,Shadow Demon
+209,"[61, 75]",1,61,75,Broodmother,Silencer
+1299,"[61, 101]",2,61,101,Broodmother,Skywrath Mage
+225,"[61, 67]",1,61,67,Broodmother,Spectre
+222,"[61, 109]",1,61,109,Broodmother,Terrorblade
+221,"[61, 108]",1,61,108,Broodmother,Underlord
+189,"[61, 85]",1,61,85,Broodmother,Undying
+1447,"[61, 70]",2,61,70,Broodmother,Ursa
+2348,"[61, 63]",3,61,63,Broodmother,Weaver
+2332,"[61, 112]",3,61,112,Broodmother,Winter Wyvern
+1011,"[96, 113]",1,96,113,Centaur Warrunner,Arc Warden
+1364,"[96, 119]",2,96,119,Centaur Warrunner,Dark Willow
+2485,"[96, 103]",3,96,103,Centaur Warrunner,Elder Titan
+1366,"[96, 114]",2,96,114,Centaur Warrunner,Monkey King
+1368,"[96, 111]",2,96,111,Centaur Warrunner,Oracle
+1008,"[96, 101]",1,96,101,Centaur Warrunner,Skywrath Mage
+1009,"[96, 109]",1,96,109,Centaur Warrunner,Terrorblade
+1370,"[96, 100]",2,96,100,Centaur Warrunner,Tusk
+819,"[81, 119]",1,81,119,Chaos Knight,Dark Willow
+3092,"[81, 87]",5,81,87,Chaos Knight,Disruptor
+815,"[81, 103]",1,81,103,Chaos Knight,Elder Titan
+826,"[81, 91]",1,81,91,Chaos Knight,Io
+834,"[81, 90]",1,81,90,Chaos Knight,Keeper of the Light
+827,"[81, 94]",1,81,94,Chaos Knight,Medusa
+2434,"[81, 89]",3,81,89,Chaos Knight,Naga Siren
+822,"[81, 84]",1,81,84,Chaos Knight,Ogre Magi
+817,"[81, 111]",1,81,111,Chaos Knight,Oracle
+1767,"[81, 120]",2,81,120,Chaos Knight,Pangolier
+1764,"[81, 86]",2,81,86,Chaos Knight,Rubick
+2436,"[81, 101]",3,81,101,Chaos Knight,Skywrath Mage
+820,"[81, 83]",1,81,83,Chaos Knight,Treant Protector
+824,"[81, 85]",1,81,85,Chaos Knight,Undying
+818,"[81, 112]",1,81,112,Chaos Knight,Winter Wyvern
+1422,"[66, 73]",2,66,73,Chen,Alchemist
+1262,"[66, 113]",1,66,113,Chen,Arc Warden
+1237,"[66, 78]",1,66,78,Chen,Brewmaster
+1245,"[66, 119]",1,66,119,Chen,Dark Willow
+2185,"[66, 87]",3,66,87,Chen,Disruptor
+2296,"[66, 69]",3,66,69,Chen,Doom
+3819,"[66, 106]",9,66,106,Chen,Ember Spirit
+1420,"[66, 72]",2,66,72,Chen,Gyrocopter
+3077,"[66, 74]",5,66,74,Chen,Invoker
+1282,"[66, 91]",1,66,91,Chen,Io
+1273,"[66, 90]",1,66,90,Chen,Keeper of the Light
+1393,"[66, 77]",2,66,77,Chen,Lycan
+1390,"[66, 97]",2,66,97,Chen,Magnus
+2297,"[66, 114]",3,66,114,Chen,Monkey King
+1280,"[66, 89]",1,66,89,Chen,Naga Siren
+1372,"[66, 88]",2,66,88,Chen,Nyx Assassin
+2291,"[66, 84]",3,66,84,Chen,Ogre Magi
+3576,"[66, 120]",7,66,120,Chen,Pangolier
+1413,"[66, 110]",2,66,110,Chen,Phoenix
+3562,"[66, 86]",7,66,86,Chen,Rubick
+2293,"[66, 79]",3,66,79,Chen,Shadow Demon
+1266,"[66, 75]",1,66,75,Chen,Silencer
+3480,"[66, 101]",6,66,101,Chen,Skywrath Mage
+3127,"[66, 93]",5,66,93,Chen,Slark
+3503,"[66, 67]",6,66,67,Chen,Spectre
+1254,"[66, 71]",1,66,71,Chen,Spirit Breaker
+1367,"[66, 83]",2,66,83,Chen,Treant Protector
+2741,"[66, 95]",4,66,95,Chen,Troll Warlord
+1259,"[66, 100]",1,66,100,Chen,Tusk
+1369,"[66, 85]",2,66,85,Chen,Undying
+3071,"[66, 70]",5,66,70,Chen,Ursa
+1388,"[66, 92]",2,66,92,Chen,Visage
+2763,"[66, 112]",4,66,112,Chen,Winter Wyvern
+67,"[56, 102]",1,56,102,Clinkz,Abaddon
+2678,"[56, 73]",4,56,73,Clinkz,Alchemist
+1536,"[56, 68]",2,56,68,Clinkz,Ancient Apparition
+1540,"[56, 65]",2,56,65,Clinkz,Batrider
+2265,"[56, 78]",3,56,78,Clinkz,Brewmaster
+2228,"[56, 66]",3,56,66,Clinkz,Chen
+3865,"[56, 119]",9,56,119,Clinkz,Dark Willow
+63,"[56, 69]",1,56,69,Clinkz,Doom
+48,"[56, 107]",1,56,107,Clinkz,Earth Spirit
+3261,"[56, 103]",5,56,103,Clinkz,Elder Titan
+1541,"[56, 58]",2,56,58,Clinkz,Enchantress
+65,"[56, 72]",1,56,72,Clinkz,Gyrocopter
+2701,"[56, 59]",4,56,59,Clinkz,Huskar
+91,"[56, 74]",1,56,74,Clinkz,Invoker
+1723,"[56, 91]",2,56,91,Clinkz,Io
+61,"[56, 64]",1,56,64,Clinkz,Jakiro
+303,"[56, 77]",1,56,77,Clinkz,Lycan
+1730,"[56, 97]",2,56,97,Clinkz,Magnus
+2260,"[56, 94]",3,56,94,Clinkz,Medusa
+305,"[56, 82]",1,56,82,Clinkz,Meepo
+57,"[56, 114]",1,56,114,Clinkz,Monkey King
+310,"[56, 89]",1,56,89,Clinkz,Naga Siren
+60,"[56, 60]",1,56,60,Clinkz,Night Stalker
+3246,"[56, 88]",5,56,88,Clinkz,Nyx Assassin
+307,"[56, 84]",1,56,84,Clinkz,Ogre Magi
+1557,"[56, 111]",2,56,111,Clinkz,Oracle
+186,"[56, 76]",1,56,76,Clinkz,Outworld Devourer
+3282,"[56, 120]",5,56,120,Clinkz,Pangolier
+3369,"[56, 110]",6,56,110,Clinkz,Phoenix
+1721,"[56, 86]",2,56,86,Clinkz,Rubick
+304,"[56, 79]",1,56,79,Clinkz,Shadow Demon
+3910,"[56, 75]",10,56,75,Clinkz,Silencer
+1523,"[56, 101]",2,56,101,Clinkz,Skywrath Mage
+312,"[56, 93]",1,56,93,Clinkz,Slark
+1537,"[56, 67]",2,56,67,Clinkz,Spectre
+64,"[56, 71]",1,56,71,Clinkz,Spirit Breaker
+52,"[56, 109]",1,56,109,Clinkz,Terrorblade
+315,"[56, 98]",1,56,98,Clinkz,Timbersaw
+1719,"[56, 83]",2,56,83,Clinkz,Treant Protector
+313,"[56, 95]",1,56,95,Clinkz,Troll Warlord
+68,"[56, 100]",1,56,100,Clinkz,Tusk
+49,"[56, 108]",1,56,108,Clinkz,Underlord
+309,"[56, 85]",1,56,85,Clinkz,Undying
+3220,"[56, 70]",5,56,70,Clinkz,Ursa
+311,"[56, 92]",1,56,92,Clinkz,Visage
+2229,"[56, 63]",3,56,63,Clinkz,Weaver
+3737,"[56, 112]",8,56,112,Clinkz,Winter Wyvern
+1573,"[51, 68]",2,51,68,Clockwerk,Ancient Apparition
+93,"[51, 113]",1,51,113,Clockwerk,Arc Warden
+2318,"[51, 65]",3,51,65,Clockwerk,Batrider
+1570,"[51, 62]",2,51,62,Clockwerk,Bounty Hunter
+3866,"[51, 78]",9,51,78,Clockwerk,Brewmaster
+35,"[51, 99]",1,51,99,Clockwerk,Bristleback
+1569,"[51, 61]",2,51,61,Clockwerk,Broodmother
+33,"[51, 96]",1,51,96,Clockwerk,Centaur Warrunner
+26,"[51, 81]",1,51,81,Clockwerk,Chaos Knight
+1572,"[51, 66]",2,51,66,Clockwerk,Chen
+79,"[51, 56]",1,51,56,Clockwerk,Clinkz
+2313,"[51, 55]",3,51,55,Clockwerk,Dark Seer
+92,"[51, 119]",1,51,119,Clockwerk,Dark Willow
+4161,"[51, 87]",19,51,87,Clockwerk,Disruptor
+3491,"[51, 69]",6,51,69,Clockwerk,Doom
+153,"[51, 103]",1,51,103,Clockwerk,Elder Titan
+3712,"[51, 106]",8,51,106,Clockwerk,Ember Spirit
+2314,"[51, 58]",3,51,58,Clockwerk,Enchantress
+4142,"[51, 72]",17,51,72,Clockwerk,Gyrocopter
+24,"[51, 59]",1,51,59,Clockwerk,Huskar
+3231,"[51, 74]",5,51,74,Clockwerk,Invoker
+1590,"[51, 91]",2,51,91,Clockwerk,Io
+4157,"[51, 64]",18,51,64,Clockwerk,Jakiro
+31,"[51, 90]",1,51,90,Clockwerk,Keeper of the Light
+154,"[51, 104]",1,51,104,Clockwerk,Legion Commander
+4160,"[51, 52]",19,51,52,Clockwerk,Leshrac
+2920,"[51, 54]",4,51,54,Clockwerk,Lifestealer
+3602,"[51, 80]",7,51,80,Clockwerk,Lone Druid
+4012,"[51, 77]",12,51,77,Clockwerk,Lycan
+2268,"[51, 97]",3,51,97,Clockwerk,Magnus
+1588,"[51, 94]",2,51,94,Clockwerk,Medusa
+27,"[51, 82]",1,51,82,Clockwerk,Meepo
+1565,"[51, 114]",2,51,114,Clockwerk,Monkey King
+3288,"[51, 89]",5,51,89,Clockwerk,Naga Siren
+2329,"[51, 53]",3,51,53,Clockwerk,Nature's Prophet
+2921,"[51, 60]",4,51,60,Clockwerk,Night Stalker
+28,"[51, 88]",1,51,88,Clockwerk,Nyx Assassin
+3697,"[51, 57]",8,51,57,Clockwerk,Omniknight
+2350,"[51, 111]",3,51,111,Clockwerk,Oracle
+3493,"[51, 76]",6,51,76,Clockwerk,Outworld Devourer
+3489,"[51, 120]",6,51,120,Clockwerk,Pangolier
+2349,"[51, 110]",3,51,110,Clockwerk,Phoenix
+3451,"[51, 86]",6,51,86,Clockwerk,Rubick
+2924,"[51, 79]",4,51,79,Clockwerk,Shadow Demon
+3252,"[51, 75]",5,51,75,Clockwerk,Silencer
+3696,"[51, 101]",8,51,101,Clockwerk,Skywrath Mage
+3455,"[51, 93]",6,51,93,Clockwerk,Slark
+3501,"[51, 67]",6,51,67,Clockwerk,Spectre
+1594,"[51, 109]",2,51,109,Clockwerk,Terrorblade
+34,"[51, 98]",1,51,98,Clockwerk,Timbersaw
+1586,"[51, 95]",2,51,95,Clockwerk,Troll Warlord
+2346,"[51, 100]",3,51,100,Clockwerk,Tusk
+4025,"[51, 108]",12,51,108,Clockwerk,Underlord
+3460,"[51, 85]",6,51,85,Clockwerk,Undying
+1589,"[51, 92]",2,51,92,Clockwerk,Visage
+1571,"[51, 63]",2,51,63,Clockwerk,Weaver
+156,"[51, 112]",1,51,112,Clockwerk,Winter Wyvern
+2309,"[5, 73]",3,5,73,Crystal Maiden,Alchemist
+167,"[5, 68]",1,5,68,Crystal Maiden,Ancient Apparition
+2290,"[5, 113]",3,5,113,Crystal Maiden,Arc Warden
+166,"[5, 65]",1,5,65,Crystal Maiden,Batrider
+1519,"[5, 38]",2,5,38,Crystal Maiden,Beastmaster
+164,"[5, 62]",1,5,62,Crystal Maiden,Bounty Hunter
+173,"[5, 78]",1,5,78,Crystal Maiden,Brewmaster
+178,"[5, 99]",1,5,99,Crystal Maiden,Bristleback
+163,"[5, 61]",1,5,61,Crystal Maiden,Broodmother
+3837,"[5, 56]",9,5,56,Crystal Maiden,Clinkz
+137,"[5, 51]",1,5,51,Crystal Maiden,Clockwerk
+138,"[5, 55]",1,5,55,Crystal Maiden,Dark Seer
+2912,"[5, 119]",4,5,119,Crystal Maiden,Dark Willow
+3305,"[5, 69]",5,5,69,Crystal Maiden,Doom
+2278,"[5, 49]",3,5,49,Crystal Maiden,Dragon Knight
+94,"[5, 107]",1,5,107,Crystal Maiden,Earth Spirit
+3518,"[5, 7]",6,5,7,Crystal Maiden,Earthshaker
+2910,"[5, 103]",4,5,103,Crystal Maiden,Elder Titan
+2911,"[5, 106]",4,5,106,Crystal Maiden,Ember Spirit
+3684,"[5, 58]",8,5,58,Crystal Maiden,Enchantress
+2275,"[5, 33]",3,5,33,Crystal Maiden,Enigma
+112,"[5, 41]",1,5,41,Crystal Maiden,Faceless Void
+1598,"[5, 72]",2,5,72,Crystal Maiden,Gyrocopter
+139,"[5, 59]",1,5,59,Crystal Maiden,Huskar
+2310,"[5, 74]",3,5,74,Crystal Maiden,Invoker
+1606,"[5, 91]",2,5,91,Crystal Maiden,Io
+165,"[5, 64]",1,5,64,Crystal Maiden,Jakiro
+106,"[5, 23]",1,5,23,Crystal Maiden,Kunkka
+113,"[5, 104]",1,5,104,Crystal Maiden,Legion Commander
+1558,"[5, 52]",2,5,52,Crystal Maiden,Leshrac
+2281,"[5, 54]",3,5,54,Crystal Maiden,Lifestealer
+3612,"[5, 25]",7,5,25,Crystal Maiden,Lina
+1514,"[5, 26]",2,5,26,Crystal Maiden,Lion
+170,"[5, 77]",1,5,77,Crystal Maiden,Lycan
+176,"[5, 97]",1,5,97,Crystal Maiden,Magnus
+2916,"[5, 94]",4,5,94,Crystal Maiden,Medusa
+183,"[5, 82]",1,5,82,Crystal Maiden,Meepo
+3904,"[5, 9]",10,5,9,Crystal Maiden,Mirana
+98,"[5, 114]",1,5,114,Crystal Maiden,Monkey King
+2280,"[5, 53]",3,5,53,Crystal Maiden,Nature's Prophet
+3727,"[5, 36]",8,5,36,Crystal Maiden,Necrophos
+2915,"[5, 88]",4,5,88,Crystal Maiden,Nyx Assassin
+2913,"[5, 120]",4,5,120,Crystal Maiden,Pangolier
+3845,"[5, 12]",9,5,12,Crystal Maiden,Phantom Lancer
+1503,"[5, 110]",2,5,110,Crystal Maiden,Phoenix
+100,"[5, 14]",1,5,14,Crystal Maiden,Pudge
+2277,"[5, 45]",3,5,45,Crystal Maiden,Pugna
+102,"[5, 15]",1,5,15,Crystal Maiden,Razor
+1518,"[5, 32]",2,5,32,Crystal Maiden,Riki
+175,"[5, 86]",1,5,86,Crystal Maiden,Rubick
+104,"[5, 16]",1,5,16,Crystal Maiden,Sand King
+168,"[5, 75]",1,5,75,Crystal Maiden,Silencer
+115,"[5, 101]",1,5,101,Crystal Maiden,Skywrath Mage
+107,"[5, 28]",1,5,28,Crystal Maiden,Slardar
+3595,"[5, 67]",7,5,67,Crystal Maiden,Spectre
+3924,"[5, 17]",10,5,17,Crystal Maiden,Storm Spirit
+1549,"[5, 46]",2,5,46,Crystal Maiden,Templar Assassin
+109,"[5, 29]",1,5,29,Crystal Maiden,Tidehunter
+177,"[5, 98]",1,5,98,Crystal Maiden,Timbersaw
+111,"[5, 34]",1,5,34,Crystal Maiden,Tinker
+3986,"[5, 19]",11,5,19,Crystal Maiden,Tiny
+1603,"[5, 83]",2,5,83,Crystal Maiden,Treant Protector
+1607,"[5, 95]",2,5,95,Crystal Maiden,Troll Warlord
+1494,"[5, 100]",2,5,100,Crystal Maiden,Tusk
+1501,"[5, 108]",2,5,108,Crystal Maiden,Underlord
+174,"[5, 85]",1,5,85,Crystal Maiden,Undying
+3783,"[5, 70]",8,5,70,Crystal Maiden,Ursa
+1511,"[5, 20]",2,5,20,Crystal Maiden,Vengeful Spirit
+1520,"[5, 40]",2,5,40,Crystal Maiden,Venomancer
+3506,"[5, 63]",6,5,63,Crystal Maiden,Weaver
+2271,"[5, 21]",3,5,21,Crystal Maiden,Windranger
+3549,"[5, 112]",7,5,112,Crystal Maiden,Winter Wyvern
+110,"[5, 30]",1,5,30,Crystal Maiden,Witch Doctor
+3842,"[5, 42]",9,5,42,Crystal Maiden,Wraith King
+1512,"[5, 22]",2,5,22,Crystal Maiden,Zeus
+72,"[55, 68]",1,55,68,Dark Seer,Ancient Apparition
+83,"[55, 81]",1,55,81,Dark Seer,Chaos Knight
+2236,"[55, 119]",3,55,119,Dark Seer,Dark Willow
+2608,"[55, 87]",3,55,87,Dark Seer,Disruptor
+1597,"[55, 107]",2,55,107,Dark Seer,Earth Spirit
+3280,"[55, 106]",5,55,106,Dark Seer,Ember Spirit
+1516,"[55, 72]",2,55,72,Dark Seer,Gyrocopter
+3622,"[55, 64]",7,55,64,Dark Seer,Jakiro
+82,"[55, 80]",1,55,80,Dark Seer,Lone Druid
+2242,"[55, 77]",3,55,77,Dark Seer,Lycan
+87,"[55, 94]",1,55,94,Dark Seer,Medusa
+2871,"[55, 89]",4,55,89,Dark Seer,Naga Siren
+2237,"[55, 60]",3,55,60,Dark Seer,Night Stalker
+2534,"[55, 88]",3,55,88,Dark Seer,Nyx Assassin
+44,"[55, 111]",1,55,111,Dark Seer,Oracle
+1510,"[55, 76]",2,55,76,Dark Seer,Outworld Devourer
+45,"[55, 120]",1,55,120,Dark Seer,Pangolier
+2869,"[55, 86]",4,55,86,Dark Seer,Rubick
+90,"[55, 79]",1,55,79,Dark Seer,Shadow Demon
+78,"[55, 75]",1,55,75,Dark Seer,Silencer
+1495,"[55, 93]",2,55,93,Dark Seer,Slark
+3054,"[55, 67]",4,55,67,Dark Seer,Spectre
+73,"[55, 71]",1,55,71,Dark Seer,Spirit Breaker
+3289,"[55, 109]",5,55,109,Dark Seer,Terrorblade
+69,"[55, 98]",1,55,98,Dark Seer,Timbersaw
+89,"[55, 95]",1,55,95,Dark Seer,Troll Warlord
+2234,"[55, 100]",3,55,100,Dark Seer,Tusk
+1505,"[55, 85]",2,55,85,Dark Seer,Undying
+1496,"[55, 92]",2,55,92,Dark Seer,Visage
+3241,"[119, 120]",5,119,120,Dark Willow,Pangolier
+159,"[50, 65]",1,50,65,Dazzle,Batrider
+151,"[50, 99]",1,50,99,Dazzle,Bristleback
+160,"[50, 61]",1,50,61,Dazzle,Broodmother
+144,"[50, 81]",1,50,81,Dazzle,Chaos Knight
+1624,"[50, 55]",2,50,55,Dazzle,Dark Seer
+2184,"[50, 119]",3,50,119,Dazzle,Dark Willow
+145,"[50, 87]",1,50,87,Dazzle,Disruptor
+141,"[50, 69]",1,50,69,Dazzle,Doom
+180,"[50, 107]",1,50,107,Dazzle,Earth Spirit
+1611,"[50, 106]",2,50,106,Dazzle,Ember Spirit
+1617,"[50, 72]",2,50,72,Dazzle,Gyrocopter
+2918,"[50, 52]",4,50,52,Dazzle,Leshrac
+143,"[50, 77]",1,50,77,Dazzle,Lycan
+150,"[50, 97]",1,50,97,Dazzle,Magnus
+146,"[50, 89]",1,50,89,Dazzle,Naga Siren
+1622,"[50, 60]",2,50,60,Dazzle,Night Stalker
+142,"[50, 76]",1,50,76,Dazzle,Outworld Devourer
+182,"[50, 120]",1,50,120,Dazzle,Pangolier
+1614,"[50, 86]",2,50,86,Dazzle,Rubick
+179,"[50, 101]",1,50,101,Dazzle,Skywrath Mage
+149,"[50, 93]",1,50,93,Dazzle,Slark
+140,"[50, 67]",1,50,67,Dazzle,Spectre
+181,"[50, 109]",1,50,109,Dazzle,Terrorblade
+148,"[50, 92]",1,50,92,Dazzle,Visage
+2898,"[43, 102]",4,43,102,Death Prophet,Abaddon
+2900,"[43, 68]",4,43,68,Death Prophet,Ancient Apparition
+3443,"[43, 65]",6,43,65,Death Prophet,Batrider
+1685,"[43, 62]",2,43,62,Death Prophet,Bounty Hunter
+3536,"[43, 78]",7,43,78,Death Prophet,Brewmaster
+725,"[43, 99]",1,43,99,Death Prophet,Bristleback
+2574,"[43, 96]",3,43,96,Death Prophet,Centaur Warrunner
+2903,"[43, 81]",4,43,81,Death Prophet,Chaos Knight
+3748,"[43, 66]",8,43,66,Death Prophet,Chen
+1687,"[43, 56]",2,43,56,Death Prophet,Clinkz
+4167,"[43, 51]",21,43,51,Death Prophet,Clockwerk
+3190,"[43, 55]",5,43,55,Death Prophet,Dark Seer
+695,"[43, 119]",1,43,119,Death Prophet,Dark Willow
+4189,"[43, 87]",27,43,87,Death Prophet,Disruptor
+4114,"[43, 69]",15,43,69,Death Prophet,Doom
+3171,"[43, 49]",5,43,49,Death Prophet,Dragon Knight
+668,"[43, 107]",1,43,107,Death Prophet,Earth Spirit
+3380,"[43, 103]",6,43,103,Death Prophet,Elder Titan
+3585,"[43, 106]",7,43,106,Death Prophet,Ember Spirit
+1686,"[43, 58]",2,43,58,Death Prophet,Enchantress
+3972,"[43, 72]",11,43,72,Death Prophet,Gyrocopter
+2904,"[43, 91]",4,43,91,Death Prophet,Io
+4148,"[43, 64]",17,43,64,Death Prophet,Jakiro
+1689,"[43, 90]",2,43,90,Death Prophet,Keeper of the Light
+2540,"[43, 104]",3,43,104,Death Prophet,Legion Commander
+3883,"[43, 52]",9,43,52,Death Prophet,Leshrac
+3188,"[43, 54]",5,43,54,Death Prophet,Lifestealer
+2572,"[43, 80]",3,43,80,Death Prophet,Lone Druid
+3782,"[43, 48]",8,43,48,Death Prophet,Luna
+4053,"[43, 77]",13,43,77,Death Prophet,Lycan
+2897,"[43, 97]",4,43,97,Death Prophet,Magnus
+2905,"[43, 94]",4,43,94,Death Prophet,Medusa
+3412,"[43, 114]",6,43,114,Death Prophet,Monkey King
+4110,"[43, 89]",15,43,89,Death Prophet,Naga Siren
+2566,"[43, 53]",3,43,53,Death Prophet,Nature's Prophet
+4098,"[43, 60]",14,43,60,Death Prophet,Night Stalker
+3923,"[43, 88]",10,43,88,Death Prophet,Nyx Assassin
+3867,"[43, 57]",9,43,57,Death Prophet,Omniknight
+2906,"[43, 111]",4,43,111,Death Prophet,Oracle
+3126,"[43, 76]",5,43,76,Death Prophet,Outworld Devourer
+4016,"[43, 120]",12,43,120,Death Prophet,Pangolier
+3179,"[43, 44]",5,43,44,Death Prophet,Phantom Assassin
+670,"[43, 110]",1,43,110,Death Prophet,Phoenix
+696,"[43, 45]",1,43,45,Death Prophet,Pugna
+4119,"[43, 86]",15,43,86,Death Prophet,Rubick
+2902,"[43, 79]",4,43,79,Death Prophet,Shadow Demon
+2901,"[43, 75]",4,43,75,Death Prophet,Silencer
+3182,"[43, 101]",5,43,101,Death Prophet,Skywrath Mage
+4040,"[43, 93]",12,43,93,Death Prophet,Slark
+2899,"[43, 67]",4,43,67,Death Prophet,Spectre
+2583,"[43, 71]",3,43,71,Death Prophet,Spirit Breaker
+3172,"[43, 46]",5,43,46,Death Prophet,Templar Assassin
+1692,"[43, 109]",2,43,109,Death Prophet,Terrorblade
+1683,"[43, 83]",2,43,83,Death Prophet,Treant Protector
+2889,"[43, 95]",4,43,95,Death Prophet,Troll Warlord
+4147,"[43, 100]",17,43,100,Death Prophet,Tusk
+3786,"[43, 108]",8,43,108,Death Prophet,Underlord
+3740,"[43, 85]",8,43,85,Death Prophet,Undying
+722,"[43, 70]",1,43,70,Death Prophet,Ursa
+724,"[43, 92]",1,43,92,Death Prophet,Visage
+721,"[43, 63]",1,43,63,Death Prophet,Weaver
+1691,"[43, 112]",2,43,112,Death Prophet,Winter Wyvern
+3431,"[87, 102]",6,87,102,Disruptor,Abaddon
+1303,"[87, 119]",2,87,119,Disruptor,Dark Willow
+2851,"[87, 107]",4,87,107,Disruptor,Earth Spirit
+4002,"[87, 103]",11,87,103,Disruptor,Elder Titan
+4009,"[87, 106]",12,87,106,Disruptor,Ember Spirit
+3610,"[87, 91]",7,87,91,Disruptor,Io
+1032,"[87, 90]",1,87,90,Disruptor,Keeper of the Light
+1031,"[87, 104]",1,87,104,Disruptor,Legion Commander
+1035,"[87, 97]",1,87,97,Disruptor,Magnus
+3395,"[87, 94]",6,87,94,Disruptor,Medusa
+1301,"[87, 114]",2,87,114,Disruptor,Monkey King
+4183,"[87, 89]",25,87,89,Disruptor,Naga Siren
+2355,"[87, 88]",3,87,88,Disruptor,Nyx Assassin
+3706,"[87, 120]",8,87,120,Disruptor,Pangolier
+2357,"[87, 110]",3,87,110,Disruptor,Phoenix
+3711,"[87, 101]",8,87,101,Disruptor,Skywrath Mage
+2374,"[87, 93]",3,87,93,Disruptor,Slark
+3635,"[87, 109]",7,87,109,Disruptor,Terrorblade
+2866,"[87, 98]",4,87,98,Disruptor,Timbersaw
+3397,"[87, 95]",6,87,95,Disruptor,Troll Warlord
+4049,"[87, 100]",12,87,100,Disruptor,Tusk
+3995,"[87, 108]",11,87,108,Disruptor,Underlord
+3393,"[87, 92]",6,87,92,Disruptor,Visage
+1222,"[69, 113]",1,69,113,Doom,Arc Warden
+1338,"[69, 78]",2,69,78,Doom,Brewmaster
+1335,"[69, 81]",2,69,81,Doom,Chaos Knight
+1154,"[69, 119]",1,69,119,Doom,Dark Willow
+4175,"[69, 87]",22,69,87,Doom,Disruptor
+1336,"[69, 107]",2,69,107,Doom,Earth Spirit
+3468,"[69, 103]",6,69,103,Doom,Elder Titan
+3470,"[69, 106]",6,69,106,Doom,Ember Spirit
+4060,"[69, 72]",13,69,72,Doom,Gyrocopter
+1281,"[69, 74]",1,69,74,Doom,Invoker
+3513,"[69, 91]",6,69,91,Doom,Io
+1355,"[69, 90]",2,69,90,Doom,Keeper of the Light
+1125,"[69, 104]",1,69,104,Doom,Legion Commander
+1284,"[69, 80]",1,69,80,Doom,Lone Druid
+3648,"[69, 77]",7,69,77,Doom,Lycan
+3652,"[69, 94]",7,69,94,Doom,Medusa
+2176,"[69, 114]",3,69,114,Doom,Monkey King
+3509,"[69, 89]",6,69,89,Doom,Naga Siren
+1321,"[69, 88]",2,69,88,Doom,Nyx Assassin
+2111,"[69, 84]",3,69,84,Doom,Ogre Magi
+1351,"[69, 111]",2,69,111,Doom,Oracle
+1352,"[69, 76]",2,69,76,Doom,Outworld Devourer
+1155,"[69, 110]",1,69,110,Doom,Phoenix
+3771,"[69, 86]",8,69,86,Doom,Rubick
+2171,"[69, 79]",3,69,79,Doom,Shadow Demon
+3626,"[69, 101]",7,69,101,Doom,Skywrath Mage
+3671,"[69, 93]",7,69,93,Doom,Slark
+1221,"[69, 71]",1,69,71,Doom,Spirit Breaker
+3142,"[69, 109]",5,69,109,Doom,Terrorblade
+1263,"[69, 98]",1,69,98,Doom,Timbersaw
+1327,"[69, 83]",2,69,83,Doom,Treant Protector
+2117,"[69, 95]",3,69,95,Doom,Troll Warlord
+4133,"[69, 100]",16,69,100,Doom,Tusk
+1343,"[69, 108]",2,69,108,Doom,Underlord
+3131,"[69, 85]",5,69,85,Doom,Undying
+1149,"[69, 70]",1,69,70,Doom,Ursa
+2112,"[69, 92]",3,69,92,Doom,Visage
+3140,"[69, 112]",5,69,112,Doom,Winter Wyvern
+3173,"[49, 102]",5,49,102,Dragon Knight,Abaddon
+123,"[49, 73]",1,49,73,Dragon Knight,Alchemist
+4042,"[49, 68]",12,49,68,Dragon Knight,Ancient Apparition
+371,"[49, 113]",1,49,113,Dragon Knight,Arc Warden
+3078,"[49, 65]",5,49,65,Dragon Knight,Batrider
+121,"[49, 62]",1,49,62,Dragon Knight,Bounty Hunter
+3721,"[49, 78]",8,49,78,Dragon Knight,Brewmaster
+134,"[49, 99]",1,49,99,Dragon Knight,Bristleback
+120,"[49, 61]",1,49,61,Dragon Knight,Broodmother
+1506,"[49, 96]",2,49,96,Dragon Knight,Centaur Warrunner
+1543,"[49, 81]",2,49,81,Dragon Knight,Chaos Knight
+3572,"[49, 66]",7,49,66,Dragon Knight,Chen
+118,"[49, 56]",1,49,56,Dragon Knight,Clinkz
+4166,"[49, 51]",20,49,51,Dragon Knight,Clockwerk
+3818,"[49, 55]",9,49,55,Dragon Knight,Dark Seer
+3484,"[49, 119]",6,49,119,Dragon Knight,Dark Willow
+1550,"[49, 50]",2,49,50,Dragon Knight,Dazzle
+4068,"[49, 87]",13,49,87,Dragon Knight,Disruptor
+3970,"[49, 69]",11,49,69,Dragon Knight,Doom
+2128,"[49, 107]",3,49,107,Dragon Knight,Earth Spirit
+3983,"[49, 103]",11,49,103,Dragon Knight,Elder Titan
+1552,"[49, 106]",2,49,106,Dragon Knight,Ember Spirit
+2110,"[49, 58]",3,49,58,Dragon Knight,Enchantress
+4176,"[49, 72]",22,49,72,Dragon Knight,Gyrocopter
+119,"[49, 59]",1,49,59,Dragon Knight,Huskar
+125,"[49, 74]",1,49,74,Dragon Knight,Invoker
+4069,"[49, 91]",13,49,91,Dragon Knight,Io
+3799,"[49, 64]",8,49,64,Dragon Knight,Jakiro
+3108,"[49, 90]",5,49,90,Dragon Knight,Keeper of the Light
+1553,"[49, 104]",2,49,104,Dragon Knight,Legion Commander
+4188,"[49, 52]",26,49,52,Dragon Knight,Leshrac
+3558,"[49, 54]",7,49,54,Dragon Knight,Lifestealer
+3062,"[49, 80]",5,49,80,Dragon Knight,Lone Druid
+3940,"[49, 77]",10,49,77,Dragon Knight,Lycan
+128,"[49, 94]",1,49,94,Dragon Knight,Medusa
+117,"[49, 114]",1,49,114,Dragon Knight,Monkey King
+3954,"[49, 89]",11,49,89,Dragon Knight,Naga Siren
+2942,"[49, 53]",4,49,53,Dragon Knight,Nature's Prophet
+3832,"[49, 60]",9,49,60,Dragon Knight,Night Stalker
+3086,"[49, 88]",5,49,88,Dragon Knight,Nyx Assassin
+3065,"[49, 84]",5,49,84,Dragon Knight,Ogre Magi
+3980,"[49, 57]",11,49,57,Dragon Knight,Omniknight
+3180,"[49, 111]",5,49,111,Dragon Knight,Oracle
+127,"[49, 76]",1,49,76,Dragon Knight,Outworld Devourer
+3791,"[49, 120]",8,49,120,Dragon Knight,Pangolier
+3529,"[49, 110]",7,49,110,Dragon Knight,Phoenix
+3935,"[49, 86]",10,49,86,Dragon Knight,Rubick
+3599,"[49, 79]",7,49,79,Dragon Knight,Shadow Demon
+2945,"[49, 75]",4,49,75,Dragon Knight,Silencer
+4129,"[49, 101]",16,49,101,Dragon Knight,Skywrath Mage
+1524,"[49, 93]",2,49,93,Dragon Knight,Slark
+3477,"[49, 67]",6,49,67,Dragon Knight,Spectre
+3178,"[49, 109]",5,49,109,Dragon Knight,Terrorblade
+132,"[49, 98]",1,49,98,Dragon Knight,Timbersaw
+1525,"[49, 83]",2,49,83,Dragon Knight,Treant Protector
+130,"[49, 95]",1,49,95,Dragon Knight,Troll Warlord
+4109,"[49, 100]",15,49,100,Dragon Knight,Tusk
+3177,"[49, 108]",5,49,108,Dragon Knight,Underlord
+4032,"[49, 85]",12,49,85,Dragon Knight,Undying
+122,"[49, 70]",1,49,70,Dragon Knight,Ursa
+2929,"[49, 92]",4,49,92,Dragon Knight,Visage
+3478,"[49, 63]",6,49,63,Dragon Knight,Weaver
+3181,"[49, 112]",5,49,112,Dragon Knight,Winter Wyvern
+1316,"[6, 73]",2,6,73,Drow Ranger,Alchemist
+329,"[6, 65]",1,6,65,Drow Ranger,Batrider
+3469,"[6, 38]",6,6,38,Drow Ranger,Beastmaster
+330,"[6, 66]",1,6,66,Drow Ranger,Chen
+2207,"[6, 56]",3,6,56,Drow Ranger,Clinkz
+2826,"[6, 51]",4,6,51,Drow Ranger,Clockwerk
+3589,"[6, 119]",7,6,119,Drow Ranger,Dark Willow
+328,"[6, 50]",1,6,50,Drow Ranger,Dazzle
+1309,"[6, 69]",2,6,69,Drow Ranger,Doom
+3259,"[6, 49]",5,6,49,Drow Ranger,Dragon Knight
+2325,"[6, 7]",3,6,7,Drow Ranger,Earthshaker
+362,"[6, 103]",1,6,103,Drow Ranger,Elder Titan
+2829,"[6, 58]",4,6,58,Drow Ranger,Enchantress
+2820,"[6, 33]",4,6,33,Drow Ranger,Enigma
+2328,"[6, 72]",3,6,72,Drow Ranger,Gyrocopter
+1314,"[6, 59]",2,6,59,Drow Ranger,Huskar
+2327,"[6, 74]",3,6,74,Drow Ranger,Invoker
+1322,"[6, 91]",2,6,91,Drow Ranger,Io
+2815,"[6, 64]",4,6,64,Drow Ranger,Jakiro
+2209,"[6, 52]",3,6,52,Drow Ranger,Leshrac
+2817,"[6, 25]",4,6,25,Drow Ranger,Lina
+1695,"[6, 26]",2,6,26,Drow Ranger,Lion
+4137,"[6, 9]",16,6,9,Drow Ranger,Mirana
+2808,"[6, 89]",4,6,89,Drow Ranger,Naga Siren
+3257,"[6, 53]",5,6,53,Drow Ranger,Nature's Prophet
+1670,"[6, 36]",2,6,36,Drow Ranger,Necrophos
+337,"[6, 88]",1,6,88,Drow Ranger,Nyx Assassin
+334,"[6, 84]",1,6,84,Drow Ranger,Ogre Magi
+365,"[6, 111]",1,6,111,Drow Ranger,Oracle
+367,"[6, 120]",1,6,120,Drow Ranger,Pangolier
+3320,"[6, 110]",5,6,110,Drow Ranger,Phoenix
+1666,"[6, 45]",2,6,45,Drow Ranger,Pugna
+327,"[6, 39]",1,6,39,Drow Ranger,Queen of Pain
+336,"[6, 86]",1,6,86,Drow Ranger,Rubick
+368,"[6, 16]",1,6,16,Drow Ranger,Sand King
+1290,"[6, 79]",2,6,79,Drow Ranger,Shadow Demon
+366,"[6, 11]",1,6,11,Drow Ranger,Shadow Fiend
+346,"[6, 27]",1,6,27,Drow Ranger,Shadow Shaman
+2326,"[6, 75]",3,6,75,Drow Ranger,Silencer
+2217,"[6, 101]",3,6,101,Drow Ranger,Skywrath Mage
+1680,"[6, 28]",2,6,28,Drow Ranger,Slardar
+331,"[6, 71]",1,6,71,Drow Ranger,Spirit Breaker
+3908,"[6, 17]",10,6,17,Drow Ranger,Storm Spirit
+348,"[6, 18]",1,6,18,Drow Ranger,Sven
+2210,"[6, 46]",3,6,46,Drow Ranger,Templar Assassin
+326,"[6, 29]",1,6,29,Drow Ranger,Tidehunter
+347,"[6, 19]",1,6,19,Drow Ranger,Tiny
+1295,"[6, 83]",2,6,83,Drow Ranger,Treant Protector
+2220,"[6, 100]",3,6,100,Drow Ranger,Tusk
+364,"[6, 108]",1,6,108,Drow Ranger,Underlord
+3664,"[6, 85]",7,6,85,Drow Ranger,Undying
+3539,"[6, 20]",7,6,20,Drow Ranger,Vengeful Spirit
+2212,"[6, 40]",3,6,40,Drow Ranger,Venomancer
+2322,"[6, 92]",3,6,92,Drow Ranger,Visage
+2213,"[6, 37]",3,6,37,Drow Ranger,Warlock
+3757,"[6, 63]",8,6,63,Drow Ranger,Weaver
+3916,"[6, 21]",10,6,21,Drow Ranger,Windranger
+3557,"[6, 112]",7,6,112,Drow Ranger,Winter Wyvern
+3505,"[6, 30]",6,6,30,Drow Ranger,Witch Doctor
+1831,"[107, 119]",2,107,119,Earth Spirit,Dark Willow
+1106,"[107, 120]",1,107,120,Earth Spirit,Pangolier
+2444,"[107, 110]",3,107,110,Earth Spirit,Phoenix
+2824,"[107, 109]",4,107,109,Earth Spirit,Terrorblade
+1111,"[107, 108]",1,107,108,Earth Spirit,Underlord
+3249,"[107, 112]",5,107,112,Earth Spirit,Winter Wyvern
+1308,"[7, 102]",2,7,102,Earthshaker,Abaddon
+1699,"[7, 73]",2,7,73,Earthshaker,Alchemist
+2655,"[7, 68]",4,7,68,Earthshaker,Ancient Apparition
+1669,"[7, 113]",2,7,113,Earthshaker,Arc Warden
+3165,"[7, 65]",5,7,65,Earthshaker,Batrider
+1633,"[7, 38]",2,7,38,Earthshaker,Beastmaster
+1156,"[7, 61]",1,7,61,Earthshaker,Broodmother
+1128,"[7, 81]",1,7,81,Earthshaker,Chaos Knight
+1662,"[7, 66]",2,7,66,Earthshaker,Chen
+4000,"[7, 56]",11,7,56,Earthshaker,Clinkz
+1152,"[7, 55]",1,7,55,Earthshaker,Dark Seer
+1251,"[7, 119]",1,7,119,Earthshaker,Dark Willow
+1638,"[7, 43]",2,7,43,Earthshaker,Death Prophet
+2612,"[7, 87]",3,7,87,Earthshaker,Disruptor
+1166,"[7, 69]",1,7,69,Earthshaker,Doom
+2167,"[7, 49]",3,7,49,Earthshaker,Dragon Knight
+1305,"[7, 106]",2,7,106,Earthshaker,Ember Spirit
+3765,"[7, 58]",8,7,58,Earthshaker,Enchantress
+2143,"[7, 33]",3,7,33,Earthshaker,Enigma
+2179,"[7, 41]",3,7,41,Earthshaker,Faceless Void
+1124,"[7, 72]",1,7,72,Earthshaker,Gyrocopter
+2127,"[7, 59]",3,7,59,Earthshaker,Huskar
+2609,"[7, 74]",3,7,74,Earthshaker,Invoker
+2116,"[7, 64]",3,7,64,Earthshaker,Jakiro
+1200,"[7, 8]",1,7,8,Earthshaker,Juggernaut
+3292,"[7, 23]",5,7,23,Earthshaker,Kunkka
+1255,"[7, 104]",1,7,104,Earthshaker,Legion Commander
+1645,"[7, 52]",2,7,52,Earthshaker,Leshrac
+1665,"[7, 31]",2,7,31,Earthshaker,Lich
+3547,"[7, 54]",7,7,54,Earthshaker,Lifestealer
+3933,"[7, 25]",10,7,25,Earthshaker,Lina
+1644,"[7, 48]",2,7,48,Earthshaker,Luna
+2646,"[7, 77]",4,7,77,Earthshaker,Lycan
+1744,"[7, 94]",2,7,94,Earthshaker,Medusa
+1142,"[7, 82]",1,7,82,Earthshaker,Meepo
+3373,"[7, 9]",6,7,9,Earthshaker,Mirana
+2674,"[7, 114]",4,7,114,Earthshaker,Monkey King
+2715,"[7, 10]",4,7,10,Earthshaker,Morphling
+4005,"[7, 53]",11,7,53,Earthshaker,Nature's Prophet
+3998,"[7, 36]",11,7,36,Earthshaker,Necrophos
+2134,"[7, 57]",3,7,57,Earthshaker,Omniknight
+1491,"[7, 111]",2,7,111,Earthshaker,Oracle
+2619,"[7, 76]",3,7,76,Earthshaker,Outworld Devourer
+1681,"[7, 120]",2,7,120,Earthshaker,Pangolier
+1272,"[7, 44]",1,7,44,Earthshaker,Phantom Assassin
+2686,"[7, 12]",4,7,12,Earthshaker,Phantom Lancer
+1311,"[7, 110]",2,7,110,Earthshaker,Phoenix
+1260,"[7, 13]",1,7,13,Earthshaker,Puck
+3366,"[7, 45]",6,7,45,Earthshaker,Pugna
+1228,"[7, 15]",1,7,15,Earthshaker,Razor
+2709,"[7, 86]",4,7,86,Earthshaker,Rubick
+1677,"[7, 11]",2,7,11,Earthshaker,Shadow Fiend
+1233,"[7, 27]",1,7,27,Earthshaker,Shadow Shaman
+4078,"[7, 75]",14,7,75,Earthshaker,Silencer
+1239,"[7, 28]",1,7,28,Earthshaker,Slardar
+3663,"[7, 67]",7,7,67,Earthshaker,Spectre
+3152,"[7, 17]",5,7,17,Earthshaker,Storm Spirit
+1231,"[7, 18]",1,7,18,Earthshaker,Sven
+2640,"[7, 46]",4,7,46,Earthshaker,Templar Assassin
+3540,"[7, 109]",7,7,109,Earthshaker,Terrorblade
+1684,"[7, 29]",2,7,29,Earthshaker,Tidehunter
+1194,"[7, 98]",1,7,98,Earthshaker,Timbersaw
+1243,"[7, 34]",1,7,34,Earthshaker,Tinker
+3573,"[7, 19]",7,7,19,Earthshaker,Tiny
+1198,"[7, 83]",1,7,83,Earthshaker,Treant Protector
+1748,"[7, 95]",2,7,95,Earthshaker,Troll Warlord
+3162,"[7, 108]",5,7,108,Earthshaker,Underlord
+2671,"[7, 85]",4,7,85,Earthshaker,Undying
+2661,"[7, 70]",4,7,70,Earthshaker,Ursa
+3149,"[7, 20]",5,7,20,Earthshaker,Vengeful Spirit
+1635,"[7, 40]",2,7,40,Earthshaker,Venomancer
+1201,"[7, 92]",1,7,92,Earthshaker,Visage
+2140,"[7, 37]",3,7,37,Earthshaker,Warlock
+3604,"[7, 63]",7,7,63,Earthshaker,Weaver
+2144,"[7, 21]",3,7,21,Earthshaker,Windranger
+3521,"[7, 112]",7,7,112,Earthshaker,Winter Wyvern
+2720,"[7, 30]",4,7,30,Earthshaker,Witch Doctor
+2509,"[103, 113]",3,103,113,Elder Titan,Arc Warden
+1077,"[103, 119]",1,103,119,Elder Titan,Dark Willow
+3225,"[103, 106]",5,103,106,Elder Titan,Ember Spirit
+2523,"[103, 104]",3,103,104,Elder Titan,Legion Commander
+2651,"[103, 114]",4,103,114,Elder Titan,Monkey King
+2049,"[103, 111]",2,103,111,Elder Titan,Oracle
+1076,"[103, 120]",1,103,120,Elder Titan,Pangolier
+1081,"[103, 110]",1,103,110,Elder Titan,Phoenix
+2048,"[103, 109]",2,103,109,Elder Titan,Terrorblade
+3223,"[103, 108]",5,103,108,Elder Titan,Underlord
+2051,"[103, 112]",2,103,112,Elder Titan,Winter Wyvern
+1113,"[106, 113]",1,106,113,Ember Spirit,Arc Warden
+1112,"[106, 119]",1,106,119,Ember Spirit,Dark Willow
+2491,"[106, 107]",3,106,107,Ember Spirit,Earth Spirit
+2816,"[106, 114]",4,106,114,Ember Spirit,Monkey King
+2066,"[106, 111]",2,106,111,Ember Spirit,Oracle
+2505,"[106, 120]",3,106,120,Ember Spirit,Pangolier
+2067,"[106, 110]",2,106,110,Ember Spirit,Phoenix
+3432,"[106, 108]",6,106,108,Ember Spirit,Underlord
+3214,"[106, 112]",5,106,112,Ember Spirit,Winter Wyvern
+1743,"[58, 68]",2,58,68,Enchantress,Ancient Apparition
+295,"[58, 78]",1,58,78,Enchantress,Brewmaster
+297,"[58, 81]",1,58,81,Enchantress,Chaos Knight
+291,"[58, 66]",1,58,66,Enchantress,Chen
+1751,"[58, 119]",2,58,119,Enchantress,Dark Willow
+2198,"[58, 107]",3,58,107,Enchantress,Earth Spirit
+285,"[58, 103]",1,58,103,Enchantress,Elder Titan
+286,"[58, 106]",1,58,106,Enchantress,Ember Spirit
+2641,"[58, 72]",4,58,72,Enchantress,Gyrocopter
+1750,"[58, 59]",2,58,59,Enchantress,Huskar
+293,"[58, 74]",1,58,74,Enchantress,Invoker
+2193,"[58, 91]",3,58,91,Enchantress,Io
+1746,"[58, 64]",2,58,64,Enchantress,Jakiro
+296,"[58, 80]",1,58,80,Enchantress,Lone Druid
+289,"[58, 114]",1,58,114,Enchantress,Monkey King
+1737,"[58, 88]",2,58,88,Enchantress,Nyx Assassin
+1740,"[58, 84]",2,58,84,Enchantress,Ogre Magi
+1752,"[58, 111]",2,58,111,Enchantress,Oracle
+294,"[58, 76]",1,58,76,Enchantress,Outworld Devourer
+3210,"[58, 110]",5,58,110,Enchantress,Phoenix
+2195,"[58, 86]",3,58,86,Enchantress,Rubick
+2723,"[58, 67]",4,58,67,Enchantress,Spectre
+292,"[58, 71]",1,58,71,Enchantress,Spirit Breaker
+287,"[58, 109]",1,58,109,Enchantress,Terrorblade
+300,"[58, 95]",1,58,95,Enchantress,Troll Warlord
+3426,"[58, 100]",6,58,100,Enchantress,Tusk
+298,"[58, 92]",1,58,92,Enchantress,Visage
+1749,"[58, 63]",2,58,63,Enchantress,Weaver
+288,"[58, 112]",1,58,112,Enchantress,Winter Wyvern
+544,"[33, 38]",1,33,38,Enigma,Beastmaster
+2496,"[33, 56]",3,33,56,Enigma,Clinkz
+2071,"[33, 51]",2,33,51,Enigma,Clockwerk
+2054,"[33, 119]",2,33,119,Enigma,Dark Willow
+530,"[33, 43]",1,33,43,Enigma,Death Prophet
+2956,"[33, 87]",4,33,87,Enigma,Disruptor
+523,"[33, 69]",1,33,69,Enigma,Doom
+529,"[33, 49]",1,33,49,Enigma,Dragon Knight
+399,"[33, 107]",1,33,107,Enigma,Earth Spirit
+2079,"[33, 106]",2,33,106,Enigma,Ember Spirit
+2964,"[33, 72]",4,33,72,Enigma,Gyrocopter
+525,"[33, 59]",1,33,59,Enigma,Huskar
+2963,"[33, 74]",4,33,74,Enigma,Invoker
+2070,"[33, 91]",2,33,91,Enigma,Io
+513,"[33, 90]",1,33,90,Enigma,Keeper of the Light
+528,"[33, 52]",1,33,52,Enigma,Leshrac
+2075,"[33, 80]",2,33,80,Enigma,Lone Druid
+2960,"[33, 77]",4,33,77,Enigma,Lycan
+2096,"[33, 94]",2,33,94,Enigma,Medusa
+396,"[33, 114]",1,33,114,Enigma,Monkey King
+514,"[33, 89]",1,33,89,Enigma,Naga Siren
+527,"[33, 53]",1,33,53,Enigma,Nature's Prophet
+2500,"[33, 36]",3,33,36,Enigma,Necrophos
+524,"[33, 60]",1,33,60,Enigma,Night Stalker
+515,"[33, 88]",1,33,88,Enigma,Nyx Assassin
+2050,"[33, 110]",2,33,110,Enigma,Phoenix
+517,"[33, 86]",1,33,86,Enigma,Rubick
+2961,"[33, 75]",4,33,75,Enigma,Silencer
+2504,"[33, 101]",3,33,101,Enigma,Skywrath Mage
+532,"[33, 93]",1,33,93,Enigma,Slark
+521,"[33, 71]",1,33,71,Enigma,Spirit Breaker
+2499,"[33, 46]",3,33,46,Enigma,Templar Assassin
+2047,"[33, 109]",2,33,109,Enigma,Terrorblade
+533,"[33, 95]",1,33,95,Enigma,Troll Warlord
+2086,"[33, 100]",2,33,100,Enigma,Tusk
+2062,"[33, 85]",2,33,85,Enigma,Undying
+2965,"[33, 70]",4,33,70,Enigma,Ursa
+2954,"[33, 92]",4,33,92,Enigma,Visage
+464,"[33, 37]",1,33,37,Enigma,Warlock
+2967,"[33, 63]",4,33,63,Enigma,Weaver
+3386,"[33, 112]",6,33,112,Enigma,Winter Wyvern
+465,"[33, 42]",1,33,42,Enigma,Wraith King
+1331,"[41, 102]",2,41,102,Faceless Void,Abaddon
+3729,"[41, 68]",8,41,68,Faceless Void,Ancient Apparition
+1312,"[41, 65]",2,41,65,Faceless Void,Batrider
+1315,"[41, 62]",2,41,62,Faceless Void,Bounty Hunter
+3083,"[41, 78]",5,41,78,Faceless Void,Brewmaster
+685,"[41, 61]",1,41,61,Faceless Void,Broodmother
+681,"[41, 56]",1,41,56,Faceless Void,Clinkz
+3107,"[41, 51]",5,41,51,Faceless Void,Clockwerk
+680,"[41, 55]",1,41,55,Faceless Void,Dark Seer
+1324,"[41, 119]",2,41,119,Faceless Void,Dark Willow
+3527,"[41, 43]",7,41,43,Faceless Void,Death Prophet
+3702,"[41, 87]",8,41,87,Faceless Void,Disruptor
+1304,"[41, 69]",2,41,69,Faceless Void,Doom
+3110,"[41, 49]",5,41,49,Faceless Void,Dragon Knight
+2402,"[41, 107]",3,41,107,Faceless Void,Earth Spirit
+3723,"[41, 103]",8,41,103,Faceless Void,Elder Titan
+2401,"[41, 106]",3,41,106,Faceless Void,Ember Spirit
+2412,"[41, 72]",3,41,72,Faceless Void,Gyrocopter
+684,"[41, 59]",1,41,59,Faceless Void,Huskar
+2413,"[41, 74]",3,41,74,Faceless Void,Invoker
+674,"[41, 91]",1,41,91,Faceless Void,Io
+3931,"[41, 64]",10,41,64,Faceless Void,Jakiro
+693,"[41, 90]",1,41,90,Faceless Void,Keeper of the Light
+3705,"[41, 52]",8,41,52,Faceless Void,Leshrac
+1291,"[41, 97]",2,41,97,Faceless Void,Magnus
+3701,"[41, 89]",8,41,89,Faceless Void,Naga Siren
+679,"[41, 53]",1,41,53,Faceless Void,Nature's Prophet
+3934,"[41, 60]",10,41,60,Faceless Void,Night Stalker
+691,"[41, 88]",1,41,88,Faceless Void,Nyx Assassin
+683,"[41, 57]",1,41,57,Faceless Void,Omniknight
+675,"[41, 111]",1,41,111,Faceless Void,Oracle
+3722,"[41, 76]",8,41,76,Faceless Void,Outworld Devourer
+677,"[41, 120]",1,41,120,Faceless Void,Pangolier
+1328,"[41, 110]",2,41,110,Faceless Void,Phoenix
+3001,"[41, 45]",4,41,45,Faceless Void,Pugna
+2415,"[41, 86]",3,41,86,Faceless Void,Rubick
+3072,"[41, 79]",5,41,79,Faceless Void,Shadow Demon
+2949,"[41, 75]",4,41,75,Faceless Void,Silencer
+3942,"[41, 101]",10,41,101,Faceless Void,Skywrath Mage
+689,"[41, 71]",1,41,71,Faceless Void,Spirit Breaker
+1358,"[41, 46]",2,41,46,Faceless Void,Templar Assassin
+3378,"[41, 100]",6,41,100,Faceless Void,Tusk
+3520,"[41, 108]",7,41,108,Faceless Void,Underlord
+690,"[41, 85]",1,41,85,Faceless Void,Undying
+3085,"[41, 47]",5,41,47,Faceless Void,Viper
+1288,"[41, 92]",2,41,92,Faceless Void,Visage
+676,"[41, 112]",1,41,112,Faceless Void,Winter Wyvern
+678,"[41, 42]",1,41,42,Faceless Void,Wraith King
+3343,"[72, 102]",6,72,102,Gyrocopter,Abaddon
+2565,"[72, 73]",3,72,73,Gyrocopter,Alchemist
+3999,"[72, 78]",11,72,78,Gyrocopter,Brewmaster
+1132,"[72, 99]",1,72,99,Gyrocopter,Bristleback
+1140,"[72, 96]",1,72,96,Gyrocopter,Centaur Warrunner
+2587,"[72, 81]",3,72,81,Gyrocopter,Chaos Knight
+3193,"[72, 119]",5,72,119,Gyrocopter,Dark Willow
+4190,"[72, 87]",27,72,87,Gyrocopter,Disruptor
+2718,"[72, 107]",4,72,107,Gyrocopter,Earth Spirit
+3777,"[72, 103]",8,72,103,Gyrocopter,Elder Titan
+4128,"[72, 106]",16,72,106,Gyrocopter,Ember Spirit
+1593,"[72, 74]",2,72,74,Gyrocopter,Invoker
+4195,"[72, 91]",35,72,91,Gyrocopter,Io
+2652,"[72, 90]",4,72,90,Gyrocopter,Keeper of the Light
+2699,"[72, 104]",4,72,104,Gyrocopter,Legion Commander
+1529,"[72, 80]",2,72,80,Gyrocopter,Lone Druid
+3650,"[72, 77]",7,72,77,Gyrocopter,Lycan
+1133,"[72, 97]",1,72,97,Gyrocopter,Magnus
+3733,"[72, 94]",8,72,94,Gyrocopter,Medusa
+1530,"[72, 82]",2,72,82,Gyrocopter,Meepo
+4152,"[72, 89]",17,72,89,Gyrocopter,Naga Siren
+3963,"[72, 88]",11,72,88,Gyrocopter,Nyx Assassin
+2649,"[72, 84]",4,72,84,Gyrocopter,Ogre Magi
+3192,"[72, 111]",5,72,111,Gyrocopter,Oracle
+1527,"[72, 76]",2,72,76,Gyrocopter,Outworld Devourer
+2708,"[72, 120]",4,72,120,Gyrocopter,Pangolier
+2535,"[72, 110]",3,72,110,Gyrocopter,Phoenix
+4050,"[72, 86]",13,72,86,Gyrocopter,Rubick
+1528,"[72, 79]",2,72,79,Gyrocopter,Shadow Demon
+1526,"[72, 75]",2,72,75,Gyrocopter,Silencer
+3342,"[72, 101]",6,72,101,Gyrocopter,Skywrath Mage
+1531,"[72, 93]",2,72,93,Gyrocopter,Slark
+2584,"[72, 98]",3,72,98,Gyrocopter,Timbersaw
+4144,"[72, 100]",17,72,100,Gyrocopter,Tusk
+3809,"[72, 108]",9,72,108,Gyrocopter,Underlord
+4055,"[72, 85]",13,72,85,Gyrocopter,Undying
+2669,"[72, 92]",4,72,92,Gyrocopter,Visage
+1199,"[72, 112]",1,72,112,Gyrocopter,Winter Wyvern
+353,"[59, 65]",1,59,65,Huskar,Batrider
+351,"[59, 62]",1,59,62,Huskar,Bounty Hunter
+2223,"[59, 78]",3,59,78,Huskar,Brewmaster
+1641,"[59, 66]",2,59,66,Huskar,Chen
+2188,"[59, 119]",3,59,119,Huskar,Dark Willow
+355,"[59, 69]",1,59,69,Huskar,Doom
+324,"[59, 103]",1,59,103,Huskar,Elder Titan
+1653,"[59, 106]",2,59,106,Huskar,Ember Spirit
+1664,"[59, 91]",2,59,91,Huskar,Io
+325,"[59, 104]",1,59,104,Huskar,Legion Commander
+359,"[59, 80]",1,59,80,Huskar,Lone Druid
+357,"[59, 77]",1,59,77,Huskar,Lycan
+360,"[59, 89]",1,59,89,Huskar,Naga Siren
+2190,"[59, 111]",3,59,111,Huskar,Oracle
+2222,"[59, 86]",3,59,86,Huskar,Rubick
+2224,"[59, 75]",3,59,75,Huskar,Silencer
+1640,"[59, 67]",2,59,67,Huskar,Spectre
+1632,"[59, 83]",2,59,83,Huskar,Treant Protector
+1733,"[59, 100]",2,59,100,Huskar,Tusk
+1490,"[59, 85]",2,59,85,Huskar,Undying
+2203,"[59, 70]",3,59,70,Huskar,Ursa
+361,"[59, 92]",1,59,92,Huskar,Visage
+352,"[59, 63]",1,59,63,Huskar,Weaver
+1656,"[59, 112]",2,59,112,Huskar,Winter Wyvern
+1164,"[74, 113]",1,74,113,Invoker,Arc Warden
+1493,"[74, 78]",2,74,78,Invoker,Brewmaster
+1220,"[74, 99]",1,74,99,Invoker,Bristleback
+1160,"[74, 119]",1,74,119,Invoker,Dark Willow
+1146,"[74, 87]",1,74,87,Invoker,Disruptor
+1544,"[74, 107]",2,74,107,Invoker,Earth Spirit
+1144,"[74, 103]",1,74,103,Invoker,Elder Titan
+1545,"[74, 106]",2,74,106,Invoker,Ember Spirit
+2575,"[74, 91]",3,74,91,Invoker,Io
+1165,"[74, 104]",1,74,104,Invoker,Legion Commander
+1509,"[74, 97]",2,74,97,Invoker,Magnus
+1508,"[74, 89]",2,74,89,Invoker,Naga Siren
+2823,"[74, 88]",4,74,88,Invoker,Nyx Assassin
+1497,"[74, 84]",2,74,84,Invoker,Ogre Magi
+1157,"[74, 76]",1,74,76,Invoker,Outworld Devourer
+1158,"[74, 120]",1,74,120,Invoker,Pangolier
+2569,"[74, 110]",3,74,110,Invoker,Phoenix
+1500,"[74, 86]",2,74,86,Invoker,Rubick
+2599,"[74, 75]",3,74,75,Invoker,Silencer
+1547,"[74, 101]",2,74,101,Invoker,Skywrath Mage
+2549,"[74, 83]",3,74,83,Invoker,Treant Protector
+2570,"[74, 108]",3,74,108,Invoker,Underlord
+1498,"[74, 85]",2,74,85,Invoker,Undying
+2568,"[74, 112]",3,74,112,Invoker,Winter Wyvern
+2697,"[91, 102]",4,91,102,Io,Abaddon
+2683,"[91, 96]",4,91,96,Io,Centaur Warrunner
+3743,"[91, 106]",8,91,106,Io,Ember Spirit
+2512,"[91, 104]",3,91,104,Io,Legion Commander
+968,"[91, 94]",1,91,94,Io,Medusa
+967,"[91, 114]",1,91,114,Io,Monkey King
+2462,"[91, 111]",3,91,111,Io,Oracle
+2461,"[91, 120]",3,91,120,Io,Pangolier
+1429,"[91, 101]",2,91,101,Io,Skywrath Mage
+3283,"[91, 93]",5,91,93,Io,Slark
+1486,"[91, 98]",2,91,98,Io,Timbersaw
+1487,"[91, 95]",2,91,95,Io,Troll Warlord
+1427,"[91, 108]",2,91,108,Io,Underlord
+1458,"[91, 92]",2,91,92,Io,Visage
+966,"[91, 112]",1,91,112,Io,Winter Wyvern
+241,"[64, 73]",1,64,73,Jakiro,Alchemist
+1415,"[64, 68]",2,64,68,Jakiro,Ancient Apparition
+1417,"[64, 65]",2,64,65,Jakiro,Batrider
+3476,"[64, 78]",6,64,78,Jakiro,Brewmaster
+249,"[64, 99]",1,64,99,Jakiro,Bristleback
+247,"[64, 96]",1,64,96,Jakiro,Centaur Warrunner
+239,"[64, 66]",1,64,66,Jakiro,Chen
+1419,"[64, 119]",2,64,119,Jakiro,Dark Willow
+3992,"[64, 69]",11,64,69,Jakiro,Doom
+2787,"[64, 107]",4,64,107,Jakiro,Earth Spirit
+235,"[64, 103]",1,64,103,Jakiro,Elder Titan
+3944,"[64, 106]",10,64,106,Jakiro,Ember Spirit
+3997,"[64, 72]",11,64,72,Jakiro,Gyrocopter
+242,"[64, 74]",1,64,74,Jakiro,Invoker
+2778,"[64, 91]",4,64,91,Jakiro,Io
+2272,"[64, 104]",3,64,104,Jakiro,Legion Commander
+1412,"[64, 80]",2,64,80,Jakiro,Lone Druid
+4127,"[64, 77]",16,64,77,Jakiro,Lycan
+1405,"[64, 97]",2,64,97,Jakiro,Magnus
+1406,"[64, 94]",2,64,94,Jakiro,Medusa
+237,"[64, 114]",1,64,114,Jakiro,Monkey King
+4196,"[64, 89]",36,64,89,Jakiro,Naga Siren
+3860,"[64, 88]",9,64,88,Jakiro,Nyx Assassin
+244,"[64, 84]",1,64,84,Jakiro,Ogre Magi
+1421,"[64, 111]",2,64,111,Jakiro,Oracle
+2289,"[64, 76]",3,64,76,Jakiro,Outworld Devourer
+2790,"[64, 120]",4,64,120,Jakiro,Pangolier
+2308,"[64, 79]",3,64,79,Jakiro,Shadow Demon
+2273,"[64, 101]",3,64,101,Jakiro,Skywrath Mage
+3938,"[64, 93]",10,64,93,Jakiro,Slark
+3707,"[64, 67]",8,64,67,Jakiro,Spectre
+240,"[64, 71]",1,64,71,Jakiro,Spirit Breaker
+1394,"[64, 109]",2,64,109,Jakiro,Terrorblade
+2765,"[64, 98]",4,64,98,Jakiro,Timbersaw
+243,"[64, 83]",1,64,83,Jakiro,Treant Protector
+2764,"[64, 95]",4,64,95,Jakiro,Troll Warlord
+4007,"[64, 100]",12,64,100,Jakiro,Tusk
+3097,"[64, 108]",5,64,108,Jakiro,Underlord
+2786,"[64, 85]",4,64,85,Jakiro,Undying
+3106,"[64, 92]",5,64,92,Jakiro,Visage
+1499,"[8, 102]",2,8,102,Juggernaut,Abaddon
+746,"[8, 65]",1,8,65,Juggernaut,Batrider
+2409,"[8, 38]",3,8,38,Juggernaut,Beastmaster
+2785,"[8, 62]",4,8,62,Juggernaut,Bounty Hunter
+745,"[8, 61]",1,8,61,Juggernaut,Broodmother
+766,"[8, 56]",1,8,56,Juggernaut,Clinkz
+786,"[8, 55]",1,8,55,Juggernaut,Dark Seer
+2779,"[8, 43]",4,8,43,Juggernaut,Death Prophet
+1714,"[8, 87]",2,8,87,Juggernaut,Disruptor
+1728,"[8, 69]",2,8,69,Juggernaut,Doom
+1720,"[8, 49]",2,8,49,Juggernaut,Dragon Knight
+906,"[8, 107]",1,8,107,Juggernaut,Earth Spirit
+926,"[8, 103]",1,8,103,Juggernaut,Elder Titan
+907,"[8, 106]",1,8,106,Juggernaut,Ember Spirit
+1729,"[8, 72]",2,8,72,Juggernaut,Gyrocopter
+747,"[8, 74]",1,8,74,Juggernaut,Invoker
+2784,"[8, 64]",4,8,64,Juggernaut,Jakiro
+1548,"[8, 23]",2,8,23,Juggernaut,Kunkka
+2789,"[8, 52]",4,8,52,Juggernaut,Leshrac
+897,"[8, 25]",1,8,25,Juggernaut,Lina
+899,"[8, 26]",1,8,26,Juggernaut,Lion
+1731,"[8, 77]",2,8,77,Juggernaut,Lycan
+3710,"[8, 97]",8,8,97,Juggernaut,Magnus
+755,"[8, 9]",1,8,9,Juggernaut,Mirana
+888,"[8, 114]",1,8,114,Juggernaut,Monkey King
+1712,"[8, 89]",2,8,89,Juggernaut,Naga Siren
+785,"[8, 53]",1,8,53,Juggernaut,Nature's Prophet
+823,"[8, 36]",1,8,36,Juggernaut,Necrophos
+2405,"[8, 60]",3,8,60,Juggernaut,Night Stalker
+751,"[8, 88]",1,8,88,Juggernaut,Nyx Assassin
+1732,"[8, 57]",2,8,57,Juggernaut,Omniknight
+904,"[8, 111]",1,8,111,Juggernaut,Oracle
+2782,"[8, 76]",4,8,76,Juggernaut,Outworld Devourer
+892,"[8, 120]",1,8,120,Juggernaut,Pangolier
+905,"[8, 110]",1,8,110,Juggernaut,Phoenix
+773,"[8, 45]",1,8,45,Juggernaut,Pugna
+1535,"[8, 39]",2,8,39,Juggernaut,Queen of Pain
+3119,"[8, 86]",5,8,86,Juggernaut,Rubick
+3419,"[8, 16]",6,8,16,Juggernaut,Sand King
+748,"[8, 79]",1,8,79,Juggernaut,Shadow Demon
+901,"[8, 27]",1,8,27,Juggernaut,Shadow Shaman
+1502,"[8, 101]",2,8,101,Juggernaut,Skywrath Mage
+902,"[8, 28]",1,8,28,Juggernaut,Slardar
+779,"[8, 46]",1,8,46,Juggernaut,Templar Assassin
+836,"[8, 29]",1,8,29,Juggernaut,Tidehunter
+754,"[8, 98]",1,8,98,Juggernaut,Timbersaw
+1546,"[8, 19]",2,8,19,Juggernaut,Tiny
+3683,"[8, 100]",8,8,100,Juggernaut,Tusk
+2416,"[8, 108]",3,8,108,Juggernaut,Underlord
+750,"[8, 85]",1,8,85,Juggernaut,Undying
+893,"[8, 20]",1,8,20,Juggernaut,Vengeful Spirit
+772,"[8, 40]",1,8,40,Juggernaut,Venomancer
+783,"[8, 47]",1,8,47,Juggernaut,Viper
+753,"[8, 92]",1,8,92,Juggernaut,Visage
+1538,"[8, 37]",2,8,37,Juggernaut,Warlock
+896,"[8, 21]",1,8,21,Juggernaut,Windranger
+1492,"[8, 112]",2,8,112,Juggernaut,Winter Wyvern
+3060,"[8, 30]",5,8,30,Juggernaut,Witch Doctor
+3278,"[90, 99]",5,90,99,Keeper of the Light,Bristleback
+961,"[90, 119]",1,90,119,Keeper of the Light,Dark Willow
+958,"[90, 103]",1,90,103,Keeper of the Light,Elder Titan
+960,"[90, 109]",1,90,109,Keeper of the Light,Terrorblade
+964,"[90, 95]",1,90,95,Keeper of the Light,Troll Warlord
+2514,"[90, 100]",3,90,100,Keeper of the Light,Tusk
+959,"[90, 108]",1,90,108,Keeper of the Light,Underlord
+963,"[90, 92]",1,90,92,Keeper of the Light,Visage
+13,"[23, 102]",1,23,102,Kunkka,Abaddon
+30,"[23, 73]",1,23,73,Kunkka,Alchemist
+32,"[23, 68]",1,23,68,Kunkka,Ancient Apparition
+3028,"[23, 65]",4,23,65,Kunkka,Batrider
+3959,"[23, 38]",11,23,38,Kunkka,Beastmaster
+2099,"[23, 62]",2,23,62,Kunkka,Bounty Hunter
+2923,"[23, 78]",4,23,78,Kunkka,Brewmaster
+2216,"[23, 61]",3,23,61,Kunkka,Broodmother
+3027,"[23, 66]",4,23,66,Kunkka,Chen
+39,"[23, 56]",1,23,56,Kunkka,Clinkz
+3760,"[23, 51]",8,23,51,Kunkka,Clockwerk
+40,"[23, 55]",1,23,55,Kunkka,Dark Seer
+3048,"[23, 119]",4,23,119,Kunkka,Dark Willow
+3646,"[23, 43]",7,23,43,Kunkka,Death Prophet
+3800,"[23, 87]",8,23,87,Kunkka,Disruptor
+3840,"[23, 69]",9,23,69,Kunkka,Doom
+2085,"[23, 49]",2,23,49,Kunkka,Dragon Knight
+3404,"[23, 103]",6,23,103,Kunkka,Elder Titan
+12,"[23, 106]",1,23,106,Kunkka,Ember Spirit
+3035,"[23, 58]",4,23,58,Kunkka,Enchantress
+4,"[23, 33]",1,23,33,Kunkka,Enigma
+3207,"[23, 41]",5,23,41,Kunkka,Faceless Void
+3454,"[23, 72]",6,23,72,Kunkka,Gyrocopter
+37,"[23, 59]",1,23,59,Kunkka,Huskar
+29,"[23, 74]",1,23,74,Kunkka,Invoker
+2919,"[23, 91]",4,23,91,Kunkka,Io
+3756,"[23, 64]",8,23,64,Kunkka,Jakiro
+3034,"[23, 104]",4,23,104,Kunkka,Legion Commander
+3517,"[23, 52]",6,23,52,Kunkka,Leshrac
+3492,"[23, 54]",6,23,54,Kunkka,Lifestealer
+7,"[23, 25]",1,23,25,Kunkka,Lina
+2250,"[23, 26]",3,23,26,Kunkka,Lion
+1850,"[23, 80]",2,23,80,Kunkka,Lone Druid
+3147,"[23, 48]",5,23,48,Kunkka,Luna
+3475,"[23, 77]",6,23,77,Kunkka,Lycan
+1791,"[23, 97]",2,23,97,Kunkka,Magnus
+158,"[23, 94]",1,23,94,Kunkka,Medusa
+1995,"[23, 114]",2,23,114,Kunkka,Monkey King
+3525,"[23, 89]",7,23,89,Kunkka,Naga Siren
+3057,"[23, 53]",4,23,53,Kunkka,Nature's Prophet
+3316,"[23, 60]",5,23,60,Kunkka,Night Stalker
+3479,"[23, 88]",6,23,88,Kunkka,Nyx Assassin
+25,"[23, 84]",1,23,84,Kunkka,Ogre Magi
+38,"[23, 57]",1,23,57,Kunkka,Omniknight
+3041,"[23, 111]",4,23,111,Kunkka,Oracle
+2925,"[23, 76]",4,23,76,Kunkka,Outworld Devourer
+1991,"[23, 120]",2,23,120,Kunkka,Pangolier
+23,"[23, 44]",1,23,44,Kunkka,Phantom Assassin
+1978,"[23, 110]",2,23,110,Kunkka,Phoenix
+2090,"[23, 45]",2,23,45,Kunkka,Pugna
+2044,"[23, 39]",2,23,39,Kunkka,Queen of Pain
+3584,"[23, 86]",7,23,86,Kunkka,Rubick
+2922,"[23, 79]",4,23,79,Kunkka,Shadow Demon
+3349,"[23, 27]",6,23,27,Kunkka,Shadow Shaman
+2324,"[23, 75]",3,23,75,Kunkka,Silencer
+3913,"[23, 101]",10,23,101,Kunkka,Skywrath Mage
+3879,"[23, 93]",9,23,93,Kunkka,Slark
+3461,"[23, 67]",6,23,67,Kunkka,Spectre
+1820,"[23, 71]",2,23,71,Kunkka,Spirit Breaker
+42,"[23, 46]",1,23,46,Kunkka,Templar Assassin
+3398,"[23, 109]",6,23,109,Kunkka,Terrorblade
+3051,"[23, 29]",4,23,29,Kunkka,Tidehunter
+155,"[23, 98]",1,23,98,Kunkka,Timbersaw
+157,"[23, 95]",1,23,95,Kunkka,Troll Warlord
+3885,"[23, 100]",10,23,100,Kunkka,Tusk
+3251,"[23, 108]",5,23,108,Kunkka,Underlord
+2317,"[23, 85]",3,23,85,Kunkka,Undying
+1770,"[23, 70]",2,23,70,Kunkka,Ursa
+2046,"[23, 40]",2,23,40,Kunkka,Venomancer
+172,"[23, 92]",1,23,92,Kunkka,Visage
+4091,"[23, 37]",14,23,37,Kunkka,Warlock
+1832,"[23, 63]",2,23,63,Kunkka,Weaver
+1996,"[23, 112]",2,23,112,Kunkka,Winter Wyvern
+3402,"[23, 30]",6,23,30,Kunkka,Witch Doctor
+3043,"[23, 42]",4,23,42,Kunkka,Wraith King
+1091,"[104, 113]",1,104,113,Legion Commander,Arc Warden
+1092,"[104, 119]",1,104,119,Legion Commander,Dark Willow
+2498,"[104, 107]",3,104,107,Legion Commander,Earth Spirit
+1075,"[104, 106]",1,104,106,Legion Commander,Ember Spirit
+2061,"[104, 111]",2,104,111,Legion Commander,Oracle
+1073,"[104, 110]",1,104,110,Legion Commander,Phoenix
+2059,"[104, 109]",2,104,109,Legion Commander,Terrorblade
+1072,"[104, 112]",1,104,112,Legion Commander,Winter Wyvern
+2225,"[52, 102]",3,52,102,Leshrac,Abaddon
+3056,"[52, 68]",4,52,68,Leshrac,Ancient Apparition
+1581,"[52, 113]",2,52,113,Leshrac,Arc Warden
+3297,"[52, 65]",5,52,65,Leshrac,Batrider
+1580,"[52, 62]",2,52,62,Leshrac,Bounty Hunter
+4037,"[52, 78]",12,52,78,Leshrac,Brewmaster
+2194,"[52, 99]",3,52,99,Leshrac,Bristleback
+3227,"[52, 61]",5,52,61,Leshrac,Broodmother
+2192,"[52, 96]",3,52,96,Leshrac,Centaur Warrunner
+3069,"[52, 81]",5,52,81,Leshrac,Chaos Knight
+2218,"[52, 66]",3,52,66,Leshrac,Chen
+3657,"[52, 55]",7,52,55,Leshrac,Dark Seer
+3264,"[52, 119]",5,52,119,Leshrac,Dark Willow
+4038,"[52, 87]",12,52,87,Leshrac,Disruptor
+3545,"[52, 69]",7,52,69,Leshrac,Doom
+3464,"[52, 107]",6,52,107,Leshrac,Earth Spirit
+4001,"[52, 103]",11,52,103,Leshrac,Elder Titan
+2208,"[52, 106]",3,52,106,Leshrac,Ember Spirit
+4169,"[52, 72]",21,52,72,Leshrac,Gyrocopter
+3472,"[52, 91]",6,52,91,Leshrac,Io
+1579,"[52, 64]",2,52,64,Leshrac,Jakiro
+2189,"[52, 90]",3,52,90,Leshrac,Keeper of the Light
+36,"[52, 104]",1,52,104,Leshrac,Legion Commander
+3903,"[52, 54]",10,52,54,Leshrac,Lifestealer
+2205,"[52, 80]",3,52,80,Leshrac,Lone Druid
+4024,"[52, 77]",12,52,77,Leshrac,Lycan
+3534,"[52, 97]",7,52,97,Leshrac,Magnus
+2191,"[52, 94]",3,52,94,Leshrac,Medusa
+3467,"[52, 114]",6,52,114,Leshrac,Monkey King
+4092,"[52, 89]",14,52,89,Leshrac,Naga Siren
+3836,"[52, 53]",9,52,53,Leshrac,Nature's Prophet
+4113,"[52, 60]",15,52,60,Leshrac,Night Stalker
+3613,"[52, 88]",7,52,88,Leshrac,Nyx Assassin
+2186,"[52, 84]",3,52,84,Leshrac,Ogre Magi
+4117,"[52, 57]",15,52,57,Leshrac,Omniknight
+3466,"[52, 111]",6,52,111,Leshrac,Oracle
+3040,"[52, 76]",4,52,76,Leshrac,Outworld Devourer
+2214,"[52, 120]",3,52,120,Leshrac,Pangolier
+3926,"[52, 86]",10,52,86,Leshrac,Rubick
+3687,"[52, 79]",8,52,79,Leshrac,Shadow Demon
+41,"[52, 75]",1,52,75,Leshrac,Silencer
+3256,"[52, 101]",5,52,101,Leshrac,Skywrath Mage
+3952,"[52, 93]",10,52,93,Leshrac,Slark
+2219,"[52, 67]",3,52,67,Leshrac,Spectre
+2221,"[52, 71]",3,52,71,Leshrac,Spirit Breaker
+3260,"[52, 109]",5,52,109,Leshrac,Terrorblade
+1592,"[52, 98]",2,52,98,Leshrac,Timbersaw
+1583,"[52, 83]",2,52,83,Leshrac,Treant Protector
+3515,"[52, 95]",6,52,95,Leshrac,Troll Warlord
+3976,"[52, 100]",11,52,100,Leshrac,Tusk
+3807,"[52, 108]",9,52,108,Leshrac,Underlord
+3962,"[52, 85]",11,52,85,Leshrac,Undying
+1578,"[52, 70]",2,52,70,Leshrac,Ursa
+3835,"[52, 92]",9,52,92,Leshrac,Visage
+3042,"[52, 63]",4,52,63,Leshrac,Weaver
+2211,"[52, 112]",3,52,112,Leshrac,Winter Wyvern
+2397,"[31, 73]",3,31,73,Lich,Alchemist
+380,"[31, 61]",1,31,61,Lich,Broodmother
+2507,"[31, 96]",3,31,96,Lich,Centaur Warrunner
+378,"[31, 66]",1,31,66,Lich,Chen
+384,"[31, 56]",1,31,56,Lich,Clinkz
+2386,"[31, 119]",3,31,119,Lich,Dark Willow
+3243,"[31, 43]",5,31,43,Lich,Death Prophet
+377,"[31, 69]",1,31,69,Lich,Doom
+386,"[31, 49]",1,31,49,Lich,Dragon Knight
+1856,"[31, 103]",2,31,103,Lich,Elder Titan
+442,"[31, 106]",1,31,106,Lich,Ember Spirit
+1825,"[31, 58]",2,31,58,Lich,Enchantress
+390,"[31, 41]",1,31,41,Lich,Faceless Void
+1830,"[31, 72]",2,31,72,Lich,Gyrocopter
+382,"[31, 59]",1,31,59,Lich,Huskar
+374,"[31, 74]",1,31,74,Lich,Invoker
+385,"[31, 52]",1,31,52,Lich,Leshrac
+373,"[31, 77]",1,31,77,Lich,Lycan
+418,"[31, 114]",1,31,114,Lich,Monkey King
+1822,"[31, 53]",2,31,53,Lich,Nature's Prophet
+1817,"[31, 36]",2,31,36,Lich,Necrophos
+381,"[31, 60]",1,31,60,Lich,Night Stalker
+394,"[31, 88]",1,31,88,Lich,Nyx Assassin
+1824,"[31, 57]",2,31,57,Lich,Omniknight
+1836,"[31, 120]",2,31,120,Lich,Pangolier
+388,"[31, 44]",1,31,44,Lich,Phantom Assassin
+387,"[31, 45]",1,31,45,Lich,Pugna
+1834,"[31, 86]",2,31,86,Lich,Rubick
+3014,"[31, 67]",4,31,67,Lich,Spectre
+395,"[31, 98]",1,31,98,Lich,Timbersaw
+392,"[31, 83]",1,31,83,Lich,Treant Protector
+444,"[31, 100]",1,31,100,Lich,Tusk
+2487,"[31, 85]",3,31,85,Lich,Undying
+1828,"[31, 70]",2,31,70,Lich,Ursa
+391,"[31, 40]",1,31,40,Lich,Venomancer
+379,"[31, 63]",1,31,63,Lich,Weaver
+3242,"[31, 42]",5,31,42,Lich,Wraith King
+1627,"[54, 102]",2,54,102,Lifestealer,Abaddon
+3218,"[54, 68]",5,54,68,Lifestealer,Ancient Apparition
+2248,"[54, 65]",3,54,65,Lifestealer,Batrider
+2264,"[54, 62]",3,54,62,Lifestealer,Bounty Hunter
+1602,"[54, 78]",2,54,78,Lifestealer,Brewmaster
+21,"[54, 96]",1,54,96,Lifestealer,Centaur Warrunner
+2266,"[54, 66]",3,54,66,Lifestealer,Chen
+2262,"[54, 55]",3,54,55,Lifestealer,Dark Seer
+3244,"[54, 119]",5,54,119,Lifestealer,Dark Willow
+4112,"[54, 87]",15,54,87,Lifestealer,Disruptor
+3792,"[54, 69]",8,54,69,Lifestealer,Doom
+1623,"[54, 107]",2,54,107,Lifestealer,Earth Spirit
+3050,"[54, 103]",4,54,103,Lifestealer,Elder Titan
+2258,"[54, 106]",3,54,106,Lifestealer,Ember Spirit
+14,"[54, 58]",1,54,58,Lifestealer,Enchantress
+1604,"[54, 72]",2,54,72,Lifestealer,Gyrocopter
+2230,"[54, 91]",3,54,91,Lifestealer,Io
+3680,"[54, 64]",8,54,64,Lifestealer,Jakiro
+10,"[54, 104]",1,54,104,Lifestealer,Legion Commander
+3046,"[54, 97]",4,54,97,Lifestealer,Magnus
+19,"[54, 94]",1,54,94,Lifestealer,Medusa
+3854,"[54, 89]",9,54,89,Lifestealer,Naga Siren
+3221,"[54, 60]",5,54,60,Lifestealer,Night Stalker
+3044,"[54, 88]",4,54,88,Lifestealer,Nyx Assassin
+1599,"[54, 84]",2,54,84,Lifestealer,Ogre Magi
+3583,"[54, 57]",7,54,57,Lifestealer,Omniknight
+1610,"[54, 111]",2,54,111,Lifestealer,Oracle
+3440,"[54, 76]",6,54,76,Lifestealer,Outworld Devourer
+3045,"[54, 120]",4,54,120,Lifestealer,Pangolier
+11,"[54, 110]",1,54,110,Lifestealer,Phoenix
+3784,"[54, 86]",8,54,86,Lifestealer,Rubick
+17,"[54, 79]",1,54,79,Lifestealer,Shadow Demon
+15,"[54, 75]",1,54,75,Lifestealer,Silencer
+3039,"[54, 101]",4,54,101,Lifestealer,Skywrath Mage
+2233,"[54, 98]",3,54,98,Lifestealer,Timbersaw
+3691,"[54, 100]",8,54,100,Lifestealer,Tusk
+3038,"[54, 108]",4,54,108,Lifestealer,Underlord
+3036,"[54, 85]",4,54,85,Lifestealer,Undying
+2231,"[54, 92]",3,54,92,Lifestealer,Visage
+1609,"[54, 112]",2,54,112,Lifestealer,Winter Wyvern
+3628,"[25, 68]",7,25,68,Lina,Ancient Apparition
+1810,"[25, 113]",2,25,113,Lina,Arc Warden
+3308,"[25, 65]",5,25,65,Lina,Batrider
+4124,"[25, 38]",16,25,38,Lina,Beastmaster
+3508,"[25, 62]",6,25,62,Lina,Bounty Hunter
+3184,"[25, 78]",5,25,78,Lina,Brewmaster
+96,"[25, 99]",1,25,99,Lina,Bristleback
+1914,"[25, 61]",2,25,61,Lina,Broodmother
+99,"[25, 96]",1,25,96,Lina,Centaur Warrunner
+4006,"[25, 66]",11,25,66,Lina,Chen
+2333,"[25, 56]",3,25,56,Lina,Clinkz
+3994,"[25, 51]",11,25,51,Lina,Clockwerk
+171,"[25, 55]",1,25,55,Lina,Dark Seer
+3685,"[25, 119]",8,25,119,Lina,Dark Willow
+1924,"[25, 50]",2,25,50,Lina,Dazzle
+1863,"[25, 43]",2,25,43,Lina,Death Prophet
+3637,"[25, 87]",7,25,87,Lina,Disruptor
+4003,"[25, 69]",11,25,69,Lina,Doom
+3295,"[25, 49]",5,25,49,Lina,Dragon Knight
+1777,"[25, 107]",2,25,107,Lina,Earth Spirit
+3893,"[25, 103]",10,25,103,Lina,Elder Titan
+1779,"[25, 106]",2,25,106,Lina,Ember Spirit
+2311,"[25, 58]",3,25,58,Lina,Enchantress
+162,"[25, 33]",1,25,33,Lina,Enigma
+3813,"[25, 41]",9,25,41,Lina,Faceless Void
+4021,"[25, 72]",12,25,72,Lina,Gyrocopter
+1953,"[25, 74]",2,25,74,Lina,Invoker
+3990,"[25, 91]",11,25,91,Lina,Io
+3985,"[25, 64]",11,25,64,Lina,Jakiro
+105,"[25, 90]",1,25,90,Lina,Keeper of the Light
+152,"[25, 104]",1,25,104,Lina,Legion Commander
+3698,"[25, 52]",8,25,52,Lina,Leshrac
+161,"[25, 31]",1,25,31,Lina,Lich
+4115,"[25, 54]",15,25,54,Lina,Lifestealer
+3234,"[25, 26]",5,25,26,Lina,Lion
+3808,"[25, 48]",9,25,48,Lina,Luna
+3211,"[25, 77]",5,25,77,Lina,Lycan
+3105,"[25, 97]",5,25,97,Lina,Magnus
+101,"[25, 94]",1,25,94,Lina,Medusa
+2344,"[25, 114]",3,25,114,Lina,Monkey King
+4089,"[25, 89]",14,25,89,Lina,Naga Siren
+3890,"[25, 53]",10,25,53,Lina,Nature's Prophet
+2926,"[25, 36]",4,25,36,Lina,Necrophos
+3889,"[25, 60]",10,25,60,Lina,Night Stalker
+3096,"[25, 88]",5,25,88,Lina,Nyx Assassin
+108,"[25, 84]",1,25,84,Lina,Ogre Magi
+169,"[25, 57]",1,25,57,Lina,Omniknight
+1790,"[25, 111]",2,25,111,Lina,Oracle
+3673,"[25, 120]",7,25,120,Lina,Pangolier
+2337,"[25, 44]",3,25,44,Lina,Phantom Assassin
+147,"[25, 110]",1,25,110,Lina,Phoenix
+3319,"[25, 45]",5,25,45,Lina,Pugna
+1804,"[25, 32]",2,25,32,Lina,Riki
+4008,"[25, 86]",12,25,86,Lina,Rubick
+3465,"[25, 79]",6,25,79,Lina,Shadow Demon
+1808,"[25, 27]",2,25,27,Lina,Shadow Shaman
+4153,"[25, 75]",17,25,75,Lina,Silencer
+3863,"[25, 101]",9,25,101,Lina,Skywrath Mage
+3672,"[25, 28]",7,25,28,Lina,Slardar
+3669,"[25, 93]",7,25,93,Lina,Slark
+2282,"[25, 67]",3,25,67,Lina,Spectre
+114,"[25, 71]",1,25,71,Lina,Spirit Breaker
+3239,"[25, 109]",5,25,109,Lina,Terrorblade
+3655,"[25, 29]",7,25,29,Lina,Tidehunter
+97,"[25, 98]",1,25,98,Lina,Timbersaw
+1935,"[25, 83]",2,25,83,Lina,Treant Protector
+2914,"[25, 95]",4,25,95,Lina,Troll Warlord
+3852,"[25, 100]",9,25,100,Lina,Tusk
+3581,"[25, 108]",7,25,108,Lina,Underlord
+3806,"[25, 85]",9,25,85,Lina,Undying
+3502,"[25, 70]",6,25,70,Lina,Ursa
+2339,"[25, 40]",3,25,40,Lina,Venomancer
+103,"[25, 92]",1,25,92,Lina,Visage
+3896,"[25, 37]",10,25,37,Lina,Warlock
+3511,"[25, 63]",6,25,63,Lina,Weaver
+3906,"[25, 112]",10,25,112,Lina,Winter Wyvern
+4076,"[25, 30]",13,25,30,Lina,Witch Doctor
+3473,"[25, 42]",6,25,42,Lina,Wraith King
+2307,"[26, 102]",3,26,102,Lion,Abaddon
+1917,"[26, 73]",2,26,73,Lion,Alchemist
+116,"[26, 113]",1,26,113,Lion,Arc Warden
+372,"[26, 65]",1,26,65,Lion,Batrider
+3519,"[26, 38]",7,26,38,Lion,Beastmaster
+2940,"[26, 62]",4,26,62,Lion,Bounty Hunter
+2936,"[26, 78]",4,26,78,Lion,Brewmaster
+556,"[26, 61]",1,26,61,Lion,Broodmother
+616,"[26, 81]",1,26,81,Lion,Chaos Knight
+2163,"[26, 66]",3,26,66,Lion,Chen
+2943,"[26, 51]",4,26,51,Lion,Clockwerk
+2917,"[26, 119]",4,26,119,Lion,Dark Willow
+3579,"[26, 43]",7,26,43,Lion,Death Prophet
+613,"[26, 87]",1,26,87,Lion,Disruptor
+3189,"[26, 69]",5,26,69,Lion,Doom
+3571,"[26, 49]",7,26,49,Lion,Dragon Knight
+3122,"[26, 103]",5,26,103,Lion,Elder Titan
+3494,"[26, 106]",6,26,106,Lion,Ember Spirit
+2123,"[26, 58]",3,26,58,Lion,Enchantress
+131,"[26, 33]",1,26,33,Lion,Enigma
+1901,"[26, 41]",2,26,41,Lion,Faceless Void
+4056,"[26, 72]",13,26,72,Lion,Gyrocopter
+184,"[26, 59]",1,26,59,Lion,Huskar
+621,"[26, 74]",1,26,74,Lion,Invoker
+3636,"[26, 91]",7,26,91,Lion,Io
+1882,"[26, 64]",2,26,64,Lion,Jakiro
+3059,"[26, 52]",5,26,52,Lion,Leshrac
+2103,"[26, 54]",3,26,54,Lion,Lifestealer
+3463,"[26, 80]",6,26,80,Lion,Lone Druid
+1897,"[26, 48]",2,26,48,Lion,Luna
+3620,"[26, 77]",7,26,77,Lion,Lycan
+1846,"[26, 97]",2,26,97,Lion,Magnus
+135,"[26, 114]",1,26,114,Lion,Monkey King
+2935,"[26, 89]",4,26,89,Lion,Naga Siren
+3067,"[26, 53]",5,26,53,Lion,Nature's Prophet
+3117,"[26, 36]",5,26,36,Lion,Necrophos
+2941,"[26, 60]",4,26,60,Lion,Night Stalker
+2151,"[26, 88]",3,26,88,Lion,Nyx Assassin
+1894,"[26, 57]",2,26,57,Lion,Omniknight
+2938,"[26, 76]",4,26,76,Lion,Outworld Devourer
+2928,"[26, 120]",4,26,120,Lion,Pangolier
+126,"[26, 45]",1,26,45,Lion,Pugna
+614,"[26, 86]",1,26,86,Lion,Rubick
+1807,"[26, 79]",2,26,79,Lion,Shadow Demon
+95,"[26, 101]",1,26,101,Lion,Skywrath Mage
+133,"[26, 28]",1,26,28,Lion,Slardar
+1845,"[26, 93]",2,26,93,Lion,Slark
+2944,"[26, 46]",4,26,46,Lion,Templar Assassin
+136,"[26, 109]",1,26,109,Lion,Terrorblade
+2306,"[26, 29]",3,26,29,Lion,Tidehunter
+1869,"[26, 34]",2,26,34,Lion,Tinker
+611,"[26, 95]",1,26,95,Lion,Troll Warlord
+1879,"[26, 100]",2,26,100,Lion,Tusk
+1871,"[26, 108]",2,26,108,Lion,Underlord
+615,"[26, 85]",1,26,85,Lion,Undying
+1913,"[26, 70]",2,26,70,Lion,Ursa
+2937,"[26, 40]",4,26,40,Lion,Venomancer
+124,"[26, 47]",1,26,47,Lion,Viper
+129,"[26, 37]",1,26,37,Lion,Warlock
+2106,"[26, 63]",3,26,63,Lion,Weaver
+3064,"[26, 42]",5,26,42,Lion,Wraith King
+757,"[80, 102]",1,80,102,Lone Druid,Abaddon
+760,"[80, 113]",1,80,113,Lone Druid,Arc Warden
+763,"[80, 81]",1,80,81,Lone Druid,Chaos Knight
+2730,"[80, 119]",4,80,119,Lone Druid,Dark Willow
+2735,"[80, 87]",4,80,87,Lone Druid,Disruptor
+3418,"[80, 107]",6,80,107,Lone Druid,Earth Spirit
+2750,"[80, 103]",4,80,103,Lone Druid,Elder Titan
+2728,"[80, 106]",4,80,106,Lone Druid,Ember Spirit
+789,"[80, 91]",1,80,91,Lone Druid,Io
+788,"[80, 90]",1,80,90,Lone Druid,Keeper of the Light
+758,"[80, 104]",1,80,104,Lone Druid,Legion Commander
+761,"[80, 114]",1,80,114,Lone Druid,Monkey King
+2737,"[80, 89]",4,80,89,Lone Druid,Naga Siren
+765,"[80, 88]",1,80,88,Lone Druid,Nyx Assassin
+3123,"[80, 110]",5,80,110,Lone Druid,Phoenix
+2733,"[80, 86]",4,80,86,Lone Druid,Rubick
+1705,"[80, 109]",2,80,109,Lone Druid,Terrorblade
+1724,"[80, 98]",2,80,98,Lone Druid,Timbersaw
+2438,"[80, 95]",3,80,95,Lone Druid,Troll Warlord
+3121,"[80, 100]",5,80,100,Lone Druid,Tusk
+759,"[80, 108]",1,80,108,Lone Druid,Underlord
+2421,"[80, 85]",3,80,85,Lone Druid,Undying
+790,"[80, 92]",1,80,92,Lone Druid,Visage
+2729,"[80, 112]",4,80,112,Lone Druid,Winter Wyvern
+1532,"[48, 102]",2,48,102,Luna,Abaddon
+2139,"[48, 68]",3,48,68,Luna,Ancient Apparition
+620,"[48, 65]",1,48,65,Luna,Batrider
+3500,"[48, 78]",6,48,78,Luna,Brewmaster
+619,"[48, 61]",1,48,61,Luna,Broodmother
+1555,"[48, 96]",2,48,96,Luna,Centaur Warrunner
+2946,"[48, 66]",4,48,66,Luna,Chen
+4034,"[48, 51]",12,48,51,Luna,Clockwerk
+1539,"[48, 55]",2,48,55,Luna,Dark Seer
+2136,"[48, 119]",3,48,119,Luna,Dark Willow
+4102,"[48, 87]",15,48,87,Luna,Disruptor
+3452,"[48, 69]",6,48,69,Luna,Doom
+3920,"[48, 49]",10,48,49,Luna,Dragon Knight
+2180,"[48, 107]",3,48,107,Luna,Earth Spirit
+3138,"[48, 103]",5,48,103,Luna,Elder Titan
+2934,"[48, 106]",4,48,106,Luna,Ember Spirit
+617,"[48, 58]",1,48,58,Luna,Enchantress
+2939,"[48, 72]",4,48,72,Luna,Gyrocopter
+618,"[48, 59]",1,48,59,Luna,Huskar
+622,"[48, 74]",1,48,74,Luna,Invoker
+2165,"[48, 91]",3,48,91,Luna,Io
+3735,"[48, 64]",8,48,64,Luna,Jakiro
+3139,"[48, 104]",5,48,104,Luna,Legion Commander
+4093,"[48, 52]",14,48,52,Luna,Leshrac
+1554,"[48, 97]",2,48,97,Luna,Magnus
+3753,"[48, 89]",8,48,89,Luna,Naga Siren
+1534,"[48, 53]",2,48,53,Luna,Nature's Prophet
+3619,"[48, 60]",7,48,60,Luna,Night Stalker
+3191,"[48, 88]",5,48,88,Luna,Nyx Assassin
+2173,"[48, 84]",3,48,84,Luna,Ogre Magi
+3195,"[48, 57]",5,48,57,Luna,Omniknight
+1533,"[48, 111]",2,48,111,Luna,Oracle
+1556,"[48, 76]",2,48,76,Luna,Outworld Devourer
+3607,"[48, 120]",7,48,120,Luna,Pangolier
+3978,"[48, 86]",11,48,86,Luna,Rubick
+3744,"[48, 79]",8,48,79,Luna,Shadow Demon
+1542,"[48, 75]",2,48,75,Luna,Silencer
+3918,"[48, 101]",10,48,101,Luna,Skywrath Mage
+2160,"[48, 98]",3,48,98,Luna,Timbersaw
+3928,"[48, 100]",10,48,100,Luna,Tusk
+3471,"[48, 108]",6,48,108,Luna,Underlord
+2172,"[48, 85]",3,48,85,Luna,Undying
+623,"[48, 92]",1,48,92,Luna,Visage
+1253,"[77, 102]",1,77,102,Lycan,Abaddon
+929,"[77, 113]",1,77,113,Lycan,Arc Warden
+2545,"[77, 78]",3,77,78,Lycan,Brewmaster
+1567,"[77, 96]",2,77,96,Lycan,Centaur Warrunner
+2543,"[77, 119]",3,77,119,Lycan,Dark Willow
+3785,"[77, 87]",8,77,87,Lycan,Disruptor
+3411,"[77, 103]",6,77,103,Lycan,Elder Titan
+3801,"[77, 106]",8,77,106,Lycan,Ember Spirit
+1575,"[77, 91]",2,77,91,Lycan,Io
+865,"[77, 90]",1,77,90,Lycan,Keeper of the Light
+1246,"[77, 104]",1,77,104,Lycan,Legion Commander
+2557,"[77, 97]",3,77,97,Lycan,Magnus
+869,"[77, 94]",1,77,94,Lycan,Medusa
+863,"[77, 82]",1,77,82,Lycan,Meepo
+1582,"[77, 114]",2,77,114,Lycan,Monkey King
+3874,"[77, 89]",9,77,89,Lycan,Naga Siren
+2563,"[77, 88]",3,77,88,Lycan,Nyx Assassin
+864,"[77, 84]",1,77,84,Lycan,Ogre Magi
+1265,"[77, 111]",1,77,111,Lycan,Oracle
+861,"[77, 120]",1,77,120,Lycan,Pangolier
+1118,"[77, 110]",1,77,110,Lycan,Phoenix
+3670,"[77, 86]",7,77,86,Lycan,Rubick
+1585,"[77, 79]",2,77,79,Lycan,Shadow Demon
+4100,"[77, 101]",14,77,101,Lycan,Skywrath Mage
+3187,"[77, 93]",5,77,93,Lycan,Slark
+871,"[77, 98]",1,77,98,Lycan,Timbersaw
+1591,"[77, 83]",2,77,83,Lycan,Treant Protector
+3961,"[77, 100]",11,77,100,Lycan,Tusk
+2838,"[77, 108]",4,77,108,Lycan,Underlord
+3384,"[77, 85]",6,77,85,Lycan,Undying
+867,"[77, 92]",1,77,92,Lycan,Visage
+1116,"[77, 112]",1,77,112,Lycan,Winter Wyvern
+1012,"[97, 102]",1,97,102,Magnus,Abaddon
+1414,"[97, 119]",2,97,119,Magnus,Dark Willow
+1013,"[97, 107]",1,97,107,Magnus,Earth Spirit
+2480,"[97, 103]",3,97,103,Magnus,Elder Titan
+3774,"[97, 106]",8,97,106,Magnus,Ember Spirit
+999,"[97, 114]",1,97,114,Magnus,Monkey King
+1017,"[97, 111]",1,97,111,Magnus,Oracle
+1016,"[97, 110]",1,97,110,Magnus,Phoenix
+1363,"[97, 101]",2,97,101,Magnus,Skywrath Mage
+1408,"[97, 109]",2,97,109,Magnus,Terrorblade
+979,"[97, 98]",1,97,98,Magnus,Timbersaw
+2481,"[97, 100]",3,97,100,Magnus,Tusk
+1000,"[97, 112]",1,97,112,Magnus,Winter Wyvern
+2448,"[94, 119]",3,94,119,Medusa,Dark Willow
+946,"[94, 103]",1,94,103,Medusa,Elder Titan
+2677,"[94, 106]",4,94,106,Medusa,Ember Spirit
+1425,"[94, 104]",2,94,104,Medusa,Legion Commander
+950,"[94, 97]",1,94,97,Medusa,Magnus
+949,"[94, 111]",1,94,111,Medusa,Oracle
+1392,"[94, 120]",2,94,120,Medusa,Pangolier
+948,"[94, 110]",1,94,110,Medusa,Phoenix
+1459,"[94, 101]",2,94,101,Medusa,Skywrath Mage
+3365,"[94, 100]",6,94,100,Medusa,Tusk
+1424,"[94, 108]",2,94,108,Medusa,Underlord
+2676,"[94, 112]",4,94,112,Medusa,Winter Wyvern
+832,"[82, 113]",1,82,113,Meepo,Arc Warden
+791,"[82, 99]",1,82,99,Meepo,Bristleback
+828,"[82, 107]",1,82,107,Meepo,Earth Spirit
+1742,"[82, 90]",2,82,90,Meepo,Keeper of the Light
+812,"[82, 89]",1,82,89,Meepo,Naga Siren
+813,"[82, 88]",1,82,88,Meepo,Nyx Assassin
+830,"[82, 110]",1,82,110,Meepo,Phoenix
+810,"[82, 95]",1,82,95,Meepo,Troll Warlord
+829,"[82, 108]",1,82,108,Meepo,Underlord
+2645,"[9, 73]",4,9,73,Mirana,Alchemist
+1084,"[9, 68]",1,9,68,Mirana,Ancient Apparition
+1114,"[9, 113]",1,9,113,Mirana,Arc Warden
+2647,"[9, 65]",4,9,65,Mirana,Batrider
+3580,"[9, 38]",7,9,38,Mirana,Beastmaster
+3421,"[9, 78]",6,9,78,Mirana,Brewmaster
+957,"[9, 99]",1,9,99,Mirana,Bristleback
+3224,"[9, 61]",5,9,61,Mirana,Broodmother
+955,"[9, 96]",1,9,96,Mirana,Centaur Warrunner
+1024,"[9, 81]",1,9,81,Mirana,Chaos Knight
+2525,"[9, 66]",3,9,66,Mirana,Chen
+3442,"[9, 56]",6,9,56,Mirana,Clinkz
+4103,"[9, 51]",15,9,51,Mirana,Clockwerk
+2529,"[9, 55]",3,9,55,Mirana,Dark Seer
+4140,"[9, 119]",16,9,119,Mirana,Dark Willow
+1449,"[9, 43]",2,9,43,Mirana,Death Prophet
+3228,"[9, 87]",5,9,87,Mirana,Disruptor
+3526,"[9, 69]",7,9,69,Mirana,Doom
+4105,"[9, 49]",15,9,49,Mirana,Dragon Knight
+2502,"[9, 107]",3,9,107,Mirana,Earth Spirit
+4136,"[9, 103]",16,9,103,Mirana,Elder Titan
+3387,"[9, 106]",6,9,106,Mirana,Ember Spirit
+2528,"[9, 58]",3,9,58,Mirana,Enchantress
+2490,"[9, 33]",3,9,33,Mirana,Enigma
+3900,"[9, 41]",10,9,41,Mirana,Faceless Void
+3226,"[9, 72]",5,9,72,Mirana,Gyrocopter
+3788,"[9, 59]",8,9,59,Mirana,Huskar
+1446,"[9, 74]",2,9,74,Mirana,Invoker
+2711,"[9, 91]",4,9,91,Mirana,Io
+3957,"[9, 64]",11,9,64,Mirana,Jakiro
+1441,"[9, 90]",2,9,90,Mirana,Keeper of the Light
+3435,"[9, 23]",6,9,23,Mirana,Kunkka
+1354,"[9, 104]",2,9,104,Mirana,Legion Commander
+3797,"[9, 52]",8,9,52,Mirana,Leshrac
+1313,"[9, 31]",2,9,31,Mirana,Lich
+3441,"[9, 54]",6,9,54,Mirana,Lifestealer
+4023,"[9, 25]",12,9,25,Mirana,Lina
+3438,"[9, 26]",6,9,26,Mirana,Lion
+1087,"[9, 80]",1,9,80,Mirana,Lone Druid
+1082,"[9, 48]",1,9,48,Mirana,Luna
+2724,"[9, 77]",4,9,77,Mirana,Lycan
+956,"[9, 97]",1,9,97,Mirana,Magnus
+3532,"[9, 94]",7,9,94,Mirana,Medusa
+2657,"[9, 114]",4,9,114,Mirana,Monkey King
+2653,"[9, 10]",4,9,10,Mirana,Morphling
+4170,"[9, 89]",21,9,89,Mirana,Naga Siren
+2510,"[9, 53]",3,9,53,Mirana,Nature's Prophet
+3909,"[9, 36]",10,9,36,Mirana,Necrophos
+2670,"[9, 60]",4,9,60,Mirana,Night Stalker
+3981,"[9, 88]",11,9,88,Mirana,Nyx Assassin
+3781,"[9, 84]",8,9,84,Mirana,Ogre Magi
+1083,"[9, 57]",1,9,57,Mirana,Omniknight
+3590,"[9, 111]",7,9,111,Mirana,Oracle
+2493,"[9, 120]",3,9,120,Mirana,Pangolier
+1078,"[9, 44]",1,9,44,Mirana,Phantom Assassin
+4082,"[9, 12]",14,9,12,Mirana,Phantom Lancer
+2656,"[9, 110]",4,9,110,Mirana,Phoenix
+1094,"[9, 13]",1,9,13,Mirana,Puck
+1093,"[9, 14]",1,9,14,Mirana,Pudge
+1079,"[9, 45]",1,9,45,Mirana,Pugna
+3420,"[9, 86]",6,9,86,Mirana,Rubick
+3821,"[9, 16]",9,9,16,Mirana,Sand King
+4017,"[9, 79]",12,9,79,Mirana,Shadow Demon
+2494,"[9, 11]",3,9,11,Mirana,Shadow Fiend
+2664,"[9, 27]",4,9,27,Mirana,Shadow Shaman
+3422,"[9, 75]",6,9,75,Mirana,Silencer
+3601,"[9, 101]",7,9,101,Mirana,Skywrath Mage
+1341,"[9, 28]",2,9,28,Mirana,Slardar
+1022,"[9, 93]",1,9,93,Mirana,Slark
+3523,"[9, 67]",7,9,67,Mirana,Spectre
+3574,"[9, 17]",7,9,17,Mirana,Storm Spirit
+1360,"[9, 18]",2,9,18,Mirana,Sven
+3894,"[9, 46]",10,9,46,Mirana,Templar Assassin
+2497,"[9, 109]",3,9,109,Mirana,Terrorblade
+2665,"[9, 29]",4,9,29,Mirana,Tidehunter
+2515,"[9, 98]",3,9,98,Mirana,Timbersaw
+1287,"[9, 34]",2,9,34,Mirana,Tinker
+4043,"[9, 19]",12,9,19,Mirana,Tiny
+1023,"[9, 83]",1,9,83,Mirana,Treant Protector
+1010,"[9, 95]",1,9,95,Mirana,Troll Warlord
+2821,"[9, 100]",4,9,100,Mirana,Tusk
+2501,"[9, 108]",3,9,108,Mirana,Underlord
+4013,"[9, 85]",12,9,85,Mirana,Undying
+3815,"[9, 70]",9,9,70,Mirana,Ursa
+4182,"[9, 20]",25,9,20,Mirana,Vengeful Spirit
+1074,"[9, 40]",1,9,40,Mirana,Venomancer
+1080,"[9, 47]",1,9,47,Mirana,Viper
+2713,"[9, 92]",4,9,92,Mirana,Visage
+2667,"[9, 37]",4,9,37,Mirana,Warlock
+2527,"[9, 63]",3,9,63,Mirana,Weaver
+3887,"[9, 21]",10,9,21,Mirana,Windranger
+4066,"[9, 112]",13,9,112,Mirana,Winter Wyvern
+4101,"[9, 30]",15,9,30,Mirana,Witch Doctor
+4064,"[9, 42]",13,9,42,Mirana,Wraith King
+2492,"[9, 22]",3,9,22,Mirana,Zeus
+809,"[114, 119]",1,114,119,Monkey King,Dark Willow
+1015,"[10, 102]",1,10,102,Morphling,Abaddon
+1958,"[10, 68]",2,10,68,Morphling,Ancient Apparition
+938,"[10, 65]",1,10,65,Morphling,Batrider
+3254,"[10, 38]",5,10,38,Morphling,Beastmaster
+3351,"[10, 78]",6,10,78,Morphling,Brewmaster
+940,"[10, 61]",1,10,61,Morphling,Broodmother
+3285,"[10, 96]",5,10,96,Morphling,Centaur Warrunner
+3734,"[10, 66]",8,10,66,Morphling,Chen
+3958,"[10, 51]",11,10,51,Morphling,Clockwerk
+2451,"[10, 55]",3,10,55,Morphling,Dark Seer
+2643,"[10, 119]",4,10,119,Morphling,Dark Willow
+947,"[10, 50]",1,10,50,Morphling,Dazzle
+3621,"[10, 43]",7,10,43,Morphling,Death Prophet
+4039,"[10, 87]",12,10,87,Morphling,Disruptor
+3736,"[10, 69]",8,10,69,Morphling,Doom
+3755,"[10, 49]",8,10,49,Morphling,Dragon Knight
+2023,"[10, 107]",2,10,107,Morphling,Earth Spirit
+3629,"[10, 103]",7,10,103,Morphling,Elder Titan
+3632,"[10, 106]",7,10,106,Morphling,Ember Spirit
+1964,"[10, 58]",2,10,58,Morphling,Enchantress
+975,"[10, 33]",1,10,33,Morphling,Enigma
+941,"[10, 59]",1,10,59,Morphling,Huskar
+1957,"[10, 74]",2,10,74,Morphling,Invoker
+3287,"[10, 91]",5,10,91,Morphling,Io
+939,"[10, 64]",1,10,64,Morphling,Jakiro
+3905,"[10, 23]",10,10,23,Morphling,Kunkka
+1014,"[10, 104]",1,10,104,Morphling,Legion Commander
+2450,"[10, 52]",3,10,52,Morphling,Leshrac
+2027,"[10, 31]",2,10,31,Morphling,Lich
+944,"[10, 54]",1,10,54,Morphling,Lifestealer
+4030,"[10, 25]",12,10,25,Morphling,Lina
+1001,"[10, 26]",1,10,26,Morphling,Lion
+2691,"[10, 77]",4,10,77,Morphling,Lycan
+970,"[10, 97]",1,10,97,Morphling,Magnus
+3662,"[10, 89]",7,10,89,Morphling,Naga Siren
+4027,"[10, 53]",12,10,53,Morphling,Nature's Prophet
+3868,"[10, 60]",9,10,60,Morphling,Night Stalker
+973,"[10, 88]",1,10,88,Morphling,Nyx Assassin
+1977,"[10, 84]",2,10,84,Morphling,Ogre Magi
+2689,"[10, 57]",4,10,57,Morphling,Omniknight
+1021,"[10, 111]",1,10,111,Morphling,Oracle
+932,"[10, 76]",1,10,76,Morphling,Outworld Devourer
+3627,"[10, 120]",7,10,120,Morphling,Pangolier
+2037,"[10, 12]",2,10,12,Morphling,Phantom Lancer
+2482,"[10, 110]",3,10,110,Morphling,Phoenix
+2035,"[10, 13]",2,10,13,Morphling,Puck
+3623,"[10, 45]",7,10,45,Morphling,Pugna
+2034,"[10, 15]",2,10,15,Morphling,Razor
+3738,"[10, 86]",8,10,86,Morphling,Rubick
+3605,"[10, 16]",7,10,16,Morphling,Sand King
+953,"[10, 79]",1,10,79,Morphling,Shadow Demon
+2029,"[10, 27]",2,10,27,Morphling,Shadow Shaman
+3273,"[10, 75]",5,10,75,Morphling,Silencer
+3329,"[10, 101]",6,10,101,Morphling,Skywrath Mage
+2446,"[10, 28]",3,10,28,Morphling,Slardar
+934,"[10, 71]",1,10,71,Morphling,Spirit Breaker
+1006,"[10, 17]",1,10,17,Morphling,Storm Spirit
+2000,"[10, 46]",2,10,46,Morphling,Templar Assassin
+977,"[10, 29]",1,10,29,Morphling,Tidehunter
+2712,"[10, 19]",4,10,19,Morphling,Tiny
+974,"[10, 83]",1,10,83,Morphling,Treant Protector
+4083,"[10, 100]",14,10,100,Morphling,Tusk
+3265,"[10, 108]",5,10,108,Morphling,Underlord
+935,"[10, 70]",1,10,70,Morphling,Ursa
+1005,"[10, 20]",1,10,20,Morphling,Vengeful Spirit
+1972,"[10, 47]",2,10,47,Morphling,Viper
+2458,"[10, 92]",3,10,92,Morphling,Visage
+4058,"[10, 37]",13,10,37,Morphling,Warlock
+2453,"[10, 21]",3,10,21,Morphling,Windranger
+3647,"[10, 112]",7,10,112,Morphling,Winter Wyvern
+3779,"[10, 30]",8,10,30,Morphling,Witch Doctor
+1004,"[10, 22]",1,10,22,Morphling,Zeus
+2802,"[89, 102]",4,89,102,Naga Siren,Abaddon
+1107,"[89, 113]",1,89,113,Naga Siren,Arc Warden
+1110,"[89, 96]",1,89,96,Naga Siren,Centaur Warrunner
+2827,"[89, 119]",4,89,119,Naga Siren,Dark Willow
+4072,"[89, 106]",13,89,106,Naga Siren,Ember Spirit
+1109,"[89, 91]",1,89,91,Naga Siren,Io
+1108,"[89, 90]",1,89,90,Naga Siren,Keeper of the Light
+1349,"[89, 104]",2,89,104,Naga Siren,Legion Commander
+2506,"[89, 97]",3,89,97,Naga Siren,Magnus
+2825,"[89, 94]",4,89,94,Naga Siren,Medusa
+2377,"[89, 114]",3,89,114,Naga Siren,Monkey King
+2378,"[89, 111]",3,89,111,Naga Siren,Oracle
+3848,"[89, 120]",9,89,120,Naga Siren,Pangolier
+2800,"[89, 110]",4,89,110,Naga Siren,Phoenix
+3856,"[89, 101]",9,89,101,Naga Siren,Skywrath Mage
+3233,"[89, 93]",5,89,93,Naga Siren,Slark
+2380,"[89, 109]",3,89,109,Naga Siren,Terrorblade
+1337,"[89, 98]",2,89,98,Naga Siren,Timbersaw
+3388,"[89, 95]",6,89,95,Naga Siren,Troll Warlord
+1103,"[89, 100]",1,89,100,Naga Siren,Tusk
+3548,"[89, 108]",7,89,108,Naga Siren,Underlord
+4062,"[89, 92]",13,89,92,Naga Siren,Visage
+1347,"[89, 112]",2,89,112,Naga Siren,Winter Wyvern
+3159,"[53, 102]",5,53,102,Nature's Prophet,Abaddon
+3,"[53, 68]",1,53,68,Nature's Prophet,Ancient Apparition
+1574,"[53, 113]",2,53,113,Nature's Prophet,Arc Warden
+2201,"[53, 65]",3,53,65,Nature's Prophet,Batrider
+1561,"[53, 62]",2,53,62,Nature's Prophet,Bounty Hunter
+2249,"[53, 78]",3,53,78,Nature's Prophet,Brewmaster
+20,"[53, 61]",1,53,61,Nature's Prophet,Broodmother
+6,"[53, 81]",1,53,81,Nature's Prophet,Chaos Knight
+2202,"[53, 66]",3,53,66,Nature's Prophet,Chen
+3202,"[53, 56]",5,53,56,Nature's Prophet,Clinkz
+3617,"[53, 119]",7,53,119,Nature's Prophet,Dark Willow
+2252,"[53, 87]",3,53,87,Nature's Prophet,Disruptor
+3031,"[53, 69]",4,53,69,Nature's Prophet,Doom
+1576,"[53, 107]",2,53,107,Nature's Prophet,Earth Spirit
+1577,"[53, 103]",2,53,103,Nature's Prophet,Elder Titan
+2196,"[53, 106]",3,53,106,Nature's Prophet,Ember Spirit
+22,"[53, 58]",1,53,58,Nature's Prophet,Enchantress
+3047,"[53, 72]",4,53,72,Nature's Prophet,Gyrocopter
+3112,"[53, 74]",5,53,74,Nature's Prophet,Invoker
+2,"[53, 64]",1,53,64,Nature's Prophet,Jakiro
+3033,"[53, 54]",4,53,54,Nature's Prophet,Lifestealer
+1619,"[53, 77]",2,53,77,Nature's Prophet,Lycan
+9,"[53, 97]",1,53,97,Nature's Prophet,Magnus
+1620,"[53, 94]",2,53,94,Nature's Prophet,Medusa
+43,"[53, 114]",1,53,114,Nature's Prophet,Monkey King
+2253,"[53, 89]",3,53,89,Nature's Prophet,Naga Siren
+3423,"[53, 60]",6,53,60,Nature's Prophet,Night Stalker
+3338,"[53, 88]",6,53,88,Nature's Prophet,Nyx Assassin
+1616,"[53, 84]",2,53,84,Nature's Prophet,Ogre Magi
+3089,"[53, 76]",5,53,76,Nature's Prophet,Outworld Devourer
+2197,"[53, 120]",3,53,120,Nature's Prophet,Pangolier
+3371,"[53, 110]",6,53,110,Nature's Prophet,Phoenix
+3922,"[53, 86]",10,53,86,Nature's Prophet,Rubick
+1595,"[53, 79]",2,53,79,Nature's Prophet,Shadow Demon
+3049,"[53, 75]",4,53,75,Nature's Prophet,Silencer
+1587,"[53, 101]",2,53,101,Nature's Prophet,Skywrath Mage
+8,"[53, 93]",1,53,93,Nature's Prophet,Slark
+3030,"[53, 67]",4,53,67,Nature's Prophet,Spectre
+5,"[53, 71]",1,53,71,Nature's Prophet,Spirit Breaker
+3376,"[53, 109]",6,53,109,Nature's Prophet,Terrorblade
+2255,"[53, 95]",3,53,95,Nature's Prophet,Troll Warlord
+3827,"[53, 100]",9,53,100,Nature's Prophet,Tusk
+3053,"[53, 85]",4,53,85,Nature's Prophet,Undying
+3405,"[53, 70]",6,53,70,Nature's Prophet,Ursa
+2254,"[53, 92]",3,53,92,Nature's Prophet,Visage
+1,"[53, 63]",1,53,63,Nature's Prophet,Weaver
+3037,"[53, 112]",4,53,112,Nature's Prophet,Winter Wyvern
+504,"[36, 102]",1,36,102,Necrophos,Abaddon
+1396,"[36, 73]",2,36,73,Necrophos,Alchemist
+497,"[36, 113]",1,36,113,Necrophos,Arc Warden
+492,"[36, 78]",1,36,78,Necrophos,Brewmaster
+1333,"[36, 61]",2,36,61,Necrophos,Broodmother
+490,"[36, 66]",1,36,66,Necrophos,Chen
+2650,"[36, 56]",4,36,56,Necrophos,Clinkz
+2472,"[36, 119]",3,36,119,Necrophos,Dark Willow
+498,"[36, 87]",1,36,87,Necrophos,Disruptor
+2970,"[36, 49]",4,36,49,Necrophos,Dragon Knight
+2972,"[36, 107]",4,36,107,Necrophos,Earth Spirit
+2039,"[36, 103]",2,36,103,Necrophos,Elder Titan
+502,"[36, 106]",1,36,106,Necrophos,Ember Spirit
+1768,"[36, 58]",2,36,58,Necrophos,Enchantress
+2471,"[36, 41]",3,36,41,Necrophos,Faceless Void
+2469,"[36, 72]",3,36,72,Necrophos,Gyrocopter
+2868,"[36, 59]",4,36,59,Necrophos,Huskar
+2477,"[36, 91]",3,36,91,Necrophos,Io
+489,"[36, 64]",1,36,64,Necrophos,Jakiro
+499,"[36, 90]",1,36,90,Necrophos,Keeper of the Light
+2016,"[36, 48]",2,36,48,Necrophos,Luna
+1397,"[36, 77]",2,36,77,Necrophos,Lycan
+501,"[36, 97]",1,36,97,Necrophos,Magnus
+495,"[36, 82]",1,36,82,Necrophos,Meepo
+496,"[36, 114]",1,36,114,Necrophos,Monkey King
+3591,"[36, 53]",7,36,53,Necrophos,Nature's Prophet
+2476,"[36, 88]",3,36,88,Necrophos,Nyx Assassin
+2971,"[36, 84]",4,36,84,Necrophos,Ogre Magi
+2004,"[36, 111]",2,36,111,Necrophos,Oracle
+2011,"[36, 120]",2,36,120,Necrophos,Pangolier
+491,"[36, 44]",1,36,44,Necrophos,Phantom Assassin
+2002,"[36, 110]",2,36,110,Necrophos,Phoenix
+2470,"[36, 45]",3,36,45,Necrophos,Pugna
+493,"[36, 39]",1,36,39,Necrophos,Queen of Pain
+3266,"[36, 86]",5,36,86,Necrophos,Rubick
+1400,"[36, 79]",2,36,79,Necrophos,Shadow Demon
+3767,"[36, 75]",8,36,75,Necrophos,Silencer
+2467,"[36, 67]",3,36,67,Necrophos,Spectre
+3268,"[36, 46]",5,36,46,Necrophos,Templar Assassin
+2010,"[36, 109]",2,36,109,Necrophos,Terrorblade
+1403,"[36, 83]",2,36,83,Necrophos,Treant Protector
+500,"[36, 95]",1,36,95,Necrophos,Troll Warlord
+2973,"[36, 100]",4,36,100,Necrophos,Tusk
+3676,"[36, 85]",7,36,85,Necrophos,Undying
+2468,"[36, 70]",3,36,70,Necrophos,Ursa
+494,"[36, 37]",1,36,37,Necrophos,Warlock
+3269,"[36, 63]",5,36,63,Necrophos,Weaver
+3337,"[36, 112]",6,36,112,Necrophos,Winter Wyvern
+3989,"[36, 42]",11,36,42,Necrophos,Wraith King
+3524,"[60, 68]",7,60,68,Night Stalker,Ancient Apparition
+2852,"[60, 65]",4,60,65,Night Stalker,Batrider
+278,"[60, 62]",1,60,62,Night Stalker,Bounty Hunter
+1294,"[60, 99]",2,60,99,Night Stalker,Bristleback
+2857,"[60, 81]",4,60,81,Night Stalker,Chaos Knight
+1353,"[60, 66]",2,60,66,Night Stalker,Chen
+1300,"[60, 119]",2,60,119,Night Stalker,Dark Willow
+3979,"[60, 87]",11,60,87,Night Stalker,Disruptor
+211,"[60, 69]",1,60,69,Night Stalker,Doom
+339,"[60, 107]",1,60,107,Night Stalker,Earth Spirit
+2321,"[60, 103]",3,60,103,Night Stalker,Elder Titan
+4051,"[60, 106]",13,60,106,Night Stalker,Ember Spirit
+4067,"[60, 72]",13,60,72,Night Stalker,Gyrocopter
+213,"[60, 74]",1,60,74,Night Stalker,Invoker
+3563,"[60, 91]",7,60,91,Night Stalker,Io
+3965,"[60, 64]",11,60,64,Night Stalker,Jakiro
+743,"[60, 104]",1,60,104,Night Stalker,Legion Commander
+215,"[60, 80]",1,60,80,Night Stalker,Lone Druid
+3861,"[60, 77]",9,60,77,Night Stalker,Lycan
+2860,"[60, 97]",4,60,97,Night Stalker,Magnus
+3570,"[60, 94]",7,60,94,Night Stalker,Medusa
+2320,"[60, 114]",3,60,114,Night Stalker,Monkey King
+3793,"[60, 89]",8,60,89,Night Stalker,Naga Siren
+1350,"[60, 88]",2,60,88,Night Stalker,Nyx Assassin
+217,"[60, 84]",1,60,84,Night Stalker,Ogre Magi
+1306,"[60, 111]",2,60,111,Night Stalker,Oracle
+3578,"[60, 76]",7,60,76,Night Stalker,Outworld Devourer
+358,"[60, 120]",1,60,120,Night Stalker,Pangolier
+343,"[60, 110]",1,60,110,Night Stalker,Phoenix
+3820,"[60, 86]",9,60,86,Night Stalker,Rubick
+2316,"[60, 79]",3,60,79,Night Stalker,Shadow Demon
+1325,"[60, 75]",2,60,75,Night Stalker,Silencer
+3974,"[60, 101]",11,60,101,Night Stalker,Skywrath Mage
+3216,"[60, 93]",5,60,93,Night Stalker,Slark
+2853,"[60, 67]",4,60,67,Night Stalker,Spectre
+341,"[60, 109]",1,60,109,Night Stalker,Terrorblade
+2312,"[60, 98]",3,60,98,Night Stalker,Timbersaw
+216,"[60, 83]",1,60,83,Night Stalker,Treant Protector
+219,"[60, 95]",1,60,95,Night Stalker,Troll Warlord
+1326,"[60, 100]",2,60,100,Night Stalker,Tusk
+3497,"[60, 108]",6,60,108,Night Stalker,Underlord
+3222,"[60, 85]",5,60,85,Night Stalker,Undying
+1345,"[60, 92]",2,60,92,Night Stalker,Visage
+210,"[60, 63]",1,60,63,Night Stalker,Weaver
+3274,"[60, 112]",5,60,112,Night Stalker,Winter Wyvern
+1036,"[88, 102]",1,88,102,Nyx Assassin,Abaddon
+1071,"[88, 113]",1,88,113,Nyx Assassin,Arc Warden
+1102,"[88, 99]",1,88,99,Nyx Assassin,Bristleback
+1096,"[88, 119]",1,88,119,Nyx Assassin,Dark Willow
+1342,"[88, 103]",2,88,103,Nyx Assassin,Elder Titan
+2392,"[88, 106]",3,88,106,Nyx Assassin,Ember Spirit
+1098,"[88, 91]",1,88,91,Nyx Assassin,Io
+1097,"[88, 90]",1,88,90,Nyx Assassin,Keeper of the Light
+1101,"[88, 97]",1,88,97,Nyx Assassin,Magnus
+1339,"[88, 94]",2,88,94,Nyx Assassin,Medusa
+3401,"[88, 89]",6,88,89,Nyx Assassin,Naga Siren
+1042,"[88, 111]",1,88,111,Nyx Assassin,Oracle
+1346,"[88, 120]",2,88,120,Nyx Assassin,Pangolier
+1038,"[88, 110]",1,88,110,Nyx Assassin,Phoenix
+2376,"[88, 101]",3,88,101,Nyx Assassin,Skywrath Mage
+1099,"[88, 93]",1,88,93,Nyx Assassin,Slark
+2390,"[88, 109]",3,88,109,Nyx Assassin,Terrorblade
+3240,"[88, 98]",5,88,98,Nyx Assassin,Timbersaw
+2812,"[88, 95]",4,88,95,Nyx Assassin,Troll Warlord
+1298,"[88, 100]",2,88,100,Nyx Assassin,Tusk
+2391,"[88, 108]",3,88,108,Nyx Assassin,Underlord
+2385,"[88, 92]",3,88,92,Nyx Assassin,Visage
+1104,"[88, 112]",1,88,112,Nyx Assassin,Winter Wyvern
+1655,"[84, 113]",2,84,113,Ogre Magi,Arc Warden
+808,"[84, 96]",1,84,96,Ogre Magi,Centaur Warrunner
+3331,"[84, 119]",6,84,119,Ogre Magi,Dark Willow
+804,"[84, 87]",1,84,87,Ogre Magi,Disruptor
+3101,"[84, 91]",5,84,91,Ogre Magi,Io
+1648,"[84, 104]",2,84,104,Ogre Magi,Legion Commander
+2422,"[84, 94]",3,84,94,Ogre Magi,Medusa
+803,"[84, 114]",1,84,114,Ogre Magi,Monkey King
+1660,"[84, 88]",2,84,88,Ogre Magi,Nyx Assassin
+1651,"[84, 110]",2,84,110,Ogre Magi,Phoenix
+2423,"[84, 86]",3,84,86,Ogre Magi,Rubick
+1663,"[84, 101]",2,84,101,Ogre Magi,Skywrath Mage
+801,"[84, 109]",1,84,109,Ogre Magi,Terrorblade
+807,"[84, 95]",1,84,95,Ogre Magi,Troll Warlord
+806,"[84, 92]",1,84,92,Ogre Magi,Visage
+802,"[84, 112]",1,84,112,Ogre Magi,Winter Wyvern
+320,"[57, 68]",1,57,68,Omniknight,Ancient Apparition
+1708,"[57, 65]",2,57,65,Omniknight,Batrider
+1709,"[57, 62]",2,57,62,Omniknight,Bounty Hunter
+1710,"[57, 61]",2,57,61,Omniknight,Broodmother
+283,"[57, 96]",1,57,96,Omniknight,Centaur Warrunner
+1701,"[57, 81]",2,57,81,Omniknight,Chaos Knight
+1707,"[57, 66]",2,57,66,Omniknight,Chen
+1711,"[57, 119]",2,57,119,Omniknight,Dark Willow
+4080,"[57, 87]",14,57,87,Omniknight,Disruptor
+302,"[57, 69]",1,57,69,Omniknight,Doom
+2687,"[57, 107]",4,57,107,Omniknight,Earth Spirit
+2259,"[57, 103]",3,57,103,Omniknight,Elder Titan
+2688,"[57, 106]",4,57,106,Omniknight,Ember Spirit
+3550,"[57, 72]",7,57,72,Omniknight,Gyrocopter
+319,"[57, 59]",1,57,59,Omniknight,Huskar
+301,"[57, 74]",1,57,74,Omniknight,Invoker
+2675,"[57, 64]",4,57,64,Omniknight,Jakiro
+2204,"[57, 90]",3,57,90,Omniknight,Keeper of the Light
+2226,"[57, 80]",3,57,80,Omniknight,Lone Druid
+2246,"[57, 77]",3,57,77,Omniknight,Lycan
+284,"[57, 97]",1,57,97,Omniknight,Magnus
+1734,"[57, 82]",2,57,82,Omniknight,Meepo
+3941,"[57, 89]",10,57,89,Omniknight,Naga Siren
+3098,"[57, 60]",5,57,60,Omniknight,Night Stalker
+1759,"[57, 84]",2,57,84,Omniknight,Ogre Magi
+318,"[57, 111]",1,57,111,Omniknight,Oracle
+3853,"[57, 76]",9,57,76,Omniknight,Outworld Devourer
+2256,"[57, 110]",3,57,110,Omniknight,Phoenix
+3082,"[57, 86]",5,57,86,Omniknight,Rubick
+280,"[57, 79]",1,57,79,Omniknight,Shadow Demon
+299,"[57, 75]",1,57,75,Omniknight,Silencer
+316,"[57, 101]",1,57,101,Omniknight,Skywrath Mage
+282,"[57, 93]",1,57,93,Omniknight,Slark
+1706,"[57, 67]",2,57,67,Omniknight,Spectre
+322,"[57, 71]",1,57,71,Omniknight,Spirit Breaker
+2257,"[57, 109]",3,57,109,Omniknight,Terrorblade
+2199,"[57, 98]",3,57,98,Omniknight,Timbersaw
+3587,"[57, 95]",7,57,95,Omniknight,Troll Warlord
+4087,"[57, 100]",14,57,100,Omniknight,Tusk
+1754,"[57, 85]",2,57,85,Omniknight,Undying
+1756,"[57, 92]",2,57,92,Omniknight,Visage
+1050,"[111, 113]",1,111,113,Oracle,Arc Warden
+1049,"[111, 119]",1,111,119,Oracle,Dark Willow
+1806,"[111, 114]",2,111,114,Oracle,Monkey King
+2396,"[111, 120]",3,111,120,Oracle,Pangolier
+1051,"[111, 112]",1,111,112,Oracle,Winter Wyvern
+2594,"[76, 102]",3,76,102,Outworld Devourer,Abaddon
+1225,"[76, 81]",1,76,81,Outworld Devourer,Chaos Knight
+1230,"[76, 119]",1,76,119,Outworld Devourer,Dark Willow
+3949,"[76, 87]",10,76,87,Outworld Devourer,Disruptor
+1625,"[76, 107]",2,76,107,Outworld Devourer,Earth Spirit
+3752,"[76, 103]",8,76,103,Outworld Devourer,Elder Titan
+2548,"[76, 91]",3,76,91,Outworld Devourer,Io
+1240,"[76, 104]",1,76,104,Outworld Devourer,Legion Commander
+1229,"[76, 80]",1,76,80,Outworld Devourer,Lone Druid
+2862,"[76, 77]",4,76,77,Outworld Devourer,Lycan
+1566,"[76, 97]",2,76,97,Outworld Devourer,Magnus
+1234,"[76, 114]",1,76,114,Outworld Devourer,Monkey King
+3433,"[76, 89]",6,76,89,Outworld Devourer,Naga Siren
+1244,"[76, 88]",1,76,88,Outworld Devourer,Nyx Assassin
+1236,"[76, 111]",1,76,111,Outworld Devourer,Oracle
+2861,"[76, 120]",4,76,120,Outworld Devourer,Pangolier
+3176,"[76, 86]",5,76,86,Outworld Devourer,Rubick
+3209,"[76, 101]",5,76,101,Outworld Devourer,Skywrath Mage
+1621,"[76, 109]",2,76,109,Outworld Devourer,Terrorblade
+1568,"[76, 98]",2,76,98,Outworld Devourer,Timbersaw
+1232,"[76, 83]",1,76,83,Outworld Devourer,Treant Protector
+2864,"[76, 95]",4,76,95,Outworld Devourer,Troll Warlord
+3847,"[76, 100]",9,76,100,Outworld Devourer,Tusk
+2595,"[76, 108]",3,76,108,Outworld Devourer,Underlord
+729,"[44, 102]",1,44,102,Phantom Assassin,Abaddon
+1643,"[44, 68]",2,44,68,Phantom Assassin,Ancient Apparition
+1659,"[44, 96]",2,44,96,Phantom Assassin,Centaur Warrunner
+720,"[44, 66]",1,44,66,Phantom Assassin,Chen
+1637,"[44, 119]",2,44,119,Phantom Assassin,Dark Willow
+736,"[44, 50]",1,44,50,Phantom Assassin,Dazzle
+1647,"[44, 87]",2,44,87,Phantom Assassin,Disruptor
+735,"[44, 49]",1,44,49,Phantom Assassin,Dragon Knight
+2581,"[44, 103]",3,44,103,Phantom Assassin,Elder Titan
+741,"[44, 106]",1,44,106,Phantom Assassin,Ember Spirit
+1661,"[44, 91]",2,44,91,Phantom Assassin,Io
+740,"[44, 64]",1,44,64,Phantom Assassin,Jakiro
+731,"[44, 104]",1,44,104,Phantom Assassin,Legion Commander
+737,"[44, 52]",1,44,52,Phantom Assassin,Leshrac
+719,"[44, 77]",1,44,77,Phantom Assassin,Lycan
+3170,"[44, 97]",5,44,97,Phantom Assassin,Magnus
+2539,"[44, 89]",3,44,89,Phantom Assassin,Naga Siren
+739,"[44, 60]",1,44,60,Phantom Assassin,Night Stalker
+738,"[44, 57]",1,44,57,Phantom Assassin,Omniknight
+734,"[44, 120]",1,44,120,Phantom Assassin,Pangolier
+732,"[44, 110]",1,44,110,Phantom Assassin,Phoenix
+718,"[44, 79]",1,44,79,Phantom Assassin,Shadow Demon
+728,"[44, 101]",1,44,101,Phantom Assassin,Skywrath Mage
+727,"[44, 100]",1,44,100,Phantom Assassin,Tusk
+1646,"[44, 85]",2,44,85,Phantom Assassin,Undying
+1797,"[12, 102]",2,12,102,Phantom Lancer,Abaddon
+3416,"[12, 68]",6,12,68,Phantom Lancer,Ancient Apparition
+3104,"[12, 65]",5,12,65,Phantom Lancer,Batrider
+3095,"[12, 38]",5,12,38,Phantom Lancer,Beastmaster
+2731,"[12, 62]",4,12,62,Phantom Lancer,Bounty Hunter
+3430,"[12, 78]",6,12,78,Phantom Lancer,Brewmaster
+767,"[12, 99]",1,12,99,Phantom Lancer,Bristleback
+1952,"[12, 61]",2,12,61,Phantom Lancer,Broodmother
+764,"[12, 96]",1,12,96,Phantom Lancer,Centaur Warrunner
+3939,"[12, 66]",10,12,66,Phantom Lancer,Chen
+814,"[12, 56]",1,12,56,Phantom Lancer,Clinkz
+3996,"[12, 51]",11,12,51,Phantom Lancer,Clockwerk
+2435,"[12, 55]",3,12,55,Phantom Lancer,Dark Seer
+3725,"[12, 119]",8,12,119,Phantom Lancer,Dark Willow
+1916,"[12, 50]",2,12,50,Phantom Lancer,Dazzle
+3929,"[12, 43]",10,12,43,Phantom Lancer,Death Prophet
+3113,"[12, 87]",5,12,87,Phantom Lancer,Disruptor
+4026,"[12, 69]",12,12,69,Phantom Lancer,Doom
+4036,"[12, 49]",12,12,49,Phantom Lancer,Dragon Knight
+3363,"[12, 107]",6,12,107,Phantom Lancer,Earth Spirit
+3709,"[12, 103]",8,12,103,Phantom Lancer,Elder Titan
+4020,"[12, 106]",12,12,106,Phantom Lancer,Ember Spirit
+3327,"[12, 58]",6,12,58,Phantom Lancer,Enchantress
+1920,"[12, 33]",2,12,33,Phantom Lancer,Enigma
+825,"[12, 41]",1,12,41,Phantom Lancer,Faceless Void
+2400,"[12, 72]",3,12,72,Phantom Lancer,Gyrocopter
+1910,"[12, 59]",2,12,59,Phantom Lancer,Huskar
+3543,"[12, 74]",7,12,74,Phantom Lancer,Invoker
+2788,"[12, 91]",4,12,91,Phantom Lancer,Io
+3546,"[12, 64]",7,12,64,Phantom Lancer,Jakiro
+1937,"[12, 90]",2,12,90,Phantom Lancer,Keeper of the Light
+3694,"[12, 23]",8,12,23,Phantom Lancer,Kunkka
+805,"[12, 104]",1,12,104,Phantom Lancer,Legion Commander
+4077,"[12, 52]",14,12,52,Phantom Lancer,Leshrac
+3103,"[12, 31]",5,12,31,Phantom Lancer,Lich
+816,"[12, 54]",1,12,54,Phantom Lancer,Lifestealer
+4146,"[12, 25]",17,12,25,Phantom Lancer,Lina
+2426,"[12, 26]",3,12,26,Phantom Lancer,Lion
+752,"[12, 77]",1,12,77,Phantom Lancer,Lycan
+3381,"[12, 97]",6,12,97,Phantom Lancer,Magnus
+1849,"[12, 114]",2,12,114,Phantom Lancer,Monkey King
+4151,"[12, 89]",17,12,89,Phantom Lancer,Naga Siren
+3850,"[12, 53]",9,12,53,Phantom Lancer,Nature's Prophet
+3359,"[12, 36]",6,12,36,Phantom Lancer,Necrophos
+3846,"[12, 60]",9,12,60,Phantom Lancer,Night Stalker
+3531,"[12, 88]",7,12,88,Phantom Lancer,Nyx Assassin
+749,"[12, 84]",1,12,84,Phantom Lancer,Ogre Magi
+2437,"[12, 57]",3,12,57,Phantom Lancer,Omniknight
+2777,"[12, 111]",4,12,111,Phantom Lancer,Oracle
+1943,"[12, 76]",2,12,76,Phantom Lancer,Outworld Devourer
+1862,"[12, 120]",2,12,120,Phantom Lancer,Pangolier
+2424,"[12, 110]",3,12,110,Phantom Lancer,Phoenix
+1942,"[12, 13]",2,12,13,Phantom Lancer,Puck
+3375,"[12, 45]",6,12,45,Phantom Lancer,Pugna
+3377,"[12, 39]",6,12,39,Phantom Lancer,Queen of Pain
+2746,"[12, 15]",4,12,15,Phantom Lancer,Razor
+833,"[12, 32]",1,12,32,Phantom Lancer,Riki
+3872,"[12, 86]",9,12,86,Phantom Lancer,Rubick
+4011,"[12, 16]",12,12,16,Phantom Lancer,Sand King
+2760,"[12, 79]",4,12,79,Phantom Lancer,Shadow Demon
+1922,"[12, 27]",2,12,27,Phantom Lancer,Shadow Shaman
+3429,"[12, 75]",6,12,75,Phantom Lancer,Silencer
+3993,"[12, 101]",11,12,101,Phantom Lancer,Skywrath Mage
+2429,"[12, 28]",3,12,28,Phantom Lancer,Slardar
+756,"[12, 71]",1,12,71,Phantom Lancer,Spirit Breaker
+3695,"[12, 17]",8,12,17,Phantom Lancer,Storm Spirit
+3091,"[12, 46]",5,12,46,Phantom Lancer,Templar Assassin
+811,"[12, 29]",1,12,29,Phantom Lancer,Tidehunter
+787,"[12, 98]",1,12,98,Phantom Lancer,Timbersaw
+831,"[12, 34]",1,12,34,Phantom Lancer,Tinker
+4035,"[12, 19]",12,12,19,Phantom Lancer,Tiny
+1939,"[12, 83]",2,12,83,Phantom Lancer,Treant Protector
+3726,"[12, 100]",8,12,100,Phantom Lancer,Tusk
+3678,"[12, 108]",8,12,108,Phantom Lancer,Underlord
+3116,"[12, 85]",5,12,85,Phantom Lancer,Undying
+2408,"[12, 70]",3,12,70,Phantom Lancer,Ursa
+4126,"[12, 20]",16,12,20,Phantom Lancer,Vengeful Spirit
+2743,"[12, 40]",4,12,40,Phantom Lancer,Venomancer
+821,"[12, 47]",1,12,47,Phantom Lancer,Viper
+2406,"[12, 92]",3,12,92,Phantom Lancer,Visage
+3991,"[12, 37]",11,12,37,Phantom Lancer,Warlock
+762,"[12, 63]",1,12,63,Phantom Lancer,Weaver
+4086,"[12, 21]",14,12,21,Phantom Lancer,Windranger
+3614,"[12, 112]",7,12,112,Phantom Lancer,Winter Wyvern
+3988,"[12, 30]",11,12,30,Phantom Lancer,Witch Doctor
+2433,"[12, 42]",3,12,42,Phantom Lancer,Wraith King
+2758,"[12, 22]",4,12,22,Phantom Lancer,Zeus
+1052,"[110, 119]",1,110,119,Phoenix,Dark Willow
+1811,"[110, 114]",2,110,114,Phoenix,Monkey King
+2369,"[110, 120]",3,110,120,Phoenix,Pangolier
+1053,"[110, 112]",1,110,112,Phoenix,Winter Wyvern
+784,"[13, 102]",1,13,102,Puck,Abaddon
+3076,"[13, 68]",5,13,68,Puck,Ancient Apparition
+777,"[13, 113]",1,13,113,Puck,Arc Warden
+885,"[13, 65]",1,13,65,Puck,Batrider
+1874,"[13, 38]",2,13,38,Puck,Beastmaster
+886,"[13, 62]",1,13,62,Puck,Bounty Hunter
+925,"[13, 78]",1,13,78,Puck,Brewmaster
+887,"[13, 61]",1,13,61,Puck,Broodmother
+890,"[13, 56]",1,13,56,Puck,Clinkz
+2772,"[13, 51]",4,13,51,Puck,Clockwerk
+1117,"[13, 55]",1,13,55,Puck,Dark Seer
+894,"[13, 50]",1,13,50,Puck,Dazzle
+2411,"[13, 43]",3,13,43,Puck,Death Prophet
+1905,"[13, 87]",2,13,87,Puck,Disruptor
+3084,"[13, 69]",5,13,69,Puck,Doom
+895,"[13, 49]",1,13,49,Puck,Dragon Knight
+781,"[13, 107]",1,13,107,Puck,Earth Spirit
+3124,"[13, 103]",5,13,103,Puck,Elder Titan
+782,"[13, 106]",1,13,106,Puck,Ember Spirit
+837,"[13, 33]",1,13,33,Puck,Enigma
+900,"[13, 41]",1,13,41,Puck,Faceless Void
+1885,"[13, 72]",2,13,72,Puck,Gyrocopter
+2773,"[13, 64]",4,13,64,Puck,Jakiro
+921,"[13, 90]",1,13,90,Puck,Keeper of the Light
+2762,"[13, 23]",4,13,23,Puck,Kunkka
+2407,"[13, 104]",3,13,104,Puck,Legion Commander
+1867,"[13, 52]",2,13,52,Puck,Leshrac
+3075,"[13, 54]",5,13,54,Puck,Lifestealer
+768,"[13, 25]",1,13,25,Puck,Lina
+1878,"[13, 26]",2,13,26,Puck,Lion
+1886,"[13, 80]",2,13,80,Puck,Lone Druid
+2414,"[13, 48]",3,13,48,Puck,Luna
+2442,"[13, 77]",3,13,77,Puck,Lycan
+776,"[13, 114]",1,13,114,Puck,Monkey King
+3715,"[13, 89]",8,13,89,Puck,Naga Siren
+903,"[13, 36]",1,13,36,Puck,Necrophos
+1866,"[13, 60]",2,13,60,Puck,Night Stalker
+2633,"[13, 88]",3,13,88,Puck,Nyx Assassin
+924,"[13, 84]",1,13,84,Puck,Ogre Magi
+889,"[13, 57]",1,13,57,Puck,Omniknight
+2417,"[13, 76]",3,13,76,Puck,Outworld Devourer
+775,"[13, 120]",1,13,120,Puck,Pangolier
+774,"[13, 14]",1,13,14,Puck,Pudge
+898,"[13, 45]",1,13,45,Puck,Pugna
+2793,"[13, 15]",4,13,15,Puck,Razor
+3407,"[13, 86]",6,13,86,Puck,Rubick
+3392,"[13, 16]",6,13,16,Puck,Sand King
+1906,"[13, 79]",2,13,79,Puck,Shadow Demon
+927,"[13, 75]",1,13,75,Puck,Silencer
+1909,"[13, 101]",2,13,101,Puck,Skywrath Mage
+920,"[13, 93]",1,13,93,Puck,Slark
+1883,"[13, 71]",2,13,71,Puck,Spirit Breaker
+1872,"[13, 46]",2,13,46,Puck,Templar Assassin
+2792,"[13, 109]",4,13,109,Puck,Terrorblade
+835,"[13, 29]",1,13,29,Puck,Tidehunter
+928,"[13, 98]",1,13,98,Puck,Timbersaw
+771,"[13, 19]",1,13,19,Puck,Tiny
+3403,"[13, 95]",6,13,95,Puck,Troll Warlord
+3111,"[13, 100]",5,13,100,Puck,Tusk
+780,"[13, 108]",1,13,108,Puck,Underlord
+1881,"[13, 20]",2,13,20,Puck,Vengeful Spirit
+2776,"[13, 47]",4,13,47,Puck,Viper
+2418,"[13, 37]",3,13,37,Puck,Warlock
+770,"[13, 21]",1,13,21,Puck,Windranger
+778,"[13, 112]",1,13,112,Puck,Winter Wyvern
+1877,"[13, 30]",2,13,30,Puck,Witch Doctor
+769,"[13, 22]",1,13,22,Puck,Zeus
+848,"[14, 73]",1,14,73,Pudge,Alchemist
+912,"[14, 38]",1,14,38,Pudge,Beastmaster
+847,"[14, 78]",1,14,78,Pudge,Brewmaster
+843,"[14, 99]",1,14,99,Pudge,Bristleback
+853,"[14, 56]",1,14,56,Pudge,Clinkz
+883,"[14, 51]",1,14,51,Pudge,Clockwerk
+854,"[14, 55]",1,14,55,Pudge,Dark Seer
+909,"[14, 43]",1,14,43,Pudge,Death Prophet
+917,"[14, 49]",1,14,49,Pudge,Dragon Knight
+849,"[14, 72]",1,14,72,Pudge,Gyrocopter
+850,"[14, 64]",1,14,64,Pudge,Jakiro
+1896,"[14, 52]",2,14,52,Pudge,Leshrac
+855,"[14, 54]",1,14,54,Pudge,Lifestealer
+884,"[14, 48]",1,14,48,Pudge,Luna
+916,"[14, 114]",1,14,114,Pudge,Monkey King
+844,"[14, 89]",1,14,89,Pudge,Naga Siren
+856,"[14, 53]",1,14,53,Pudge,Nature's Prophet
+852,"[14, 60]",1,14,60,Pudge,Night Stalker
+845,"[14, 88]",1,14,88,Pudge,Nyx Assassin
+911,"[14, 39]",1,14,39,Pudge,Queen of Pain
+908,"[14, 46]",1,14,46,Pudge,Templar Assassin
+846,"[14, 83]",1,14,83,Pudge,Treant Protector
+915,"[14, 20]",1,14,20,Pudge,Vengeful Spirit
+1895,"[14, 63]",2,14,63,Pudge,Weaver
+914,"[14, 21]",1,14,21,Pudge,Windranger
+918,"[14, 112]",1,14,112,Pudge,Winter Wyvern
+910,"[14, 42]",1,14,42,Pudge,Wraith King
+913,"[14, 22]",1,14,22,Pudge,Zeus
+716,"[45, 73]",1,45,73,Pugna,Alchemist
+2632,"[45, 68]",3,45,68,Pugna,Ancient Apparition
+704,"[45, 113]",1,45,113,Pugna,Arc Warden
+2615,"[45, 62]",3,45,62,Pugna,Bounty Hunter
+2614,"[45, 61]",3,45,61,Pugna,Broodmother
+2631,"[45, 96]",3,45,96,Pugna,Centaur Warrunner
+637,"[45, 81]",1,45,81,Pugna,Chaos Knight
+3624,"[45, 66]",7,45,66,Pugna,Chen
+711,"[45, 56]",1,45,56,Pugna,Clinkz
+2873,"[45, 51]",4,45,51,Pugna,Clockwerk
+1650,"[45, 119]",2,45,119,Pugna,Dark Willow
+2886,"[45, 87]",4,45,87,Pugna,Disruptor
+2607,"[45, 69]",3,45,69,Pugna,Doom
+707,"[45, 49]",1,45,49,Pugna,Dragon Knight
+3339,"[45, 107]",6,45,107,Pugna,Earth Spirit
+3340,"[45, 103]",6,45,103,Pugna,Elder Titan
+1657,"[45, 106]",2,45,106,Pugna,Ember Spirit
+2876,"[45, 58]",4,45,58,Pugna,Enchantress
+3146,"[45, 72]",5,45,72,Pugna,Gyrocopter
+650,"[45, 74]",1,45,74,Pugna,Invoker
+1766,"[45, 91]",2,45,91,Pugna,Io
+592,"[45, 90]",1,45,90,Pugna,Keeper of the Light
+1658,"[45, 104]",2,45,104,Pugna,Legion Commander
+709,"[45, 52]",1,45,52,Pugna,Leshrac
+1700,"[45, 54]",2,45,54,Pugna,Lifestealer
+2630,"[45, 48]",3,45,48,Pugna,Luna
+2616,"[45, 77]",3,45,77,Pugna,Lycan
+2627,"[45, 97]",3,45,97,Pugna,Magnus
+582,"[45, 82]",1,45,82,Pugna,Meepo
+3136,"[45, 114]",5,45,114,Pugna,Monkey King
+1747,"[45, 89]",2,45,89,Pugna,Naga Siren
+710,"[45, 53]",1,45,53,Pugna,Nature's Prophet
+1736,"[45, 60]",2,45,60,Pugna,Night Stalker
+1745,"[45, 88]",2,45,88,Pugna,Nyx Assassin
+585,"[45, 84]",1,45,84,Pugna,Ogre Magi
+712,"[45, 57]",1,45,57,Pugna,Omniknight
+702,"[45, 111]",1,45,111,Pugna,Oracle
+705,"[45, 120]",1,45,120,Pugna,Pangolier
+699,"[45, 110]",1,45,110,Pugna,Phoenix
+2601,"[45, 86]",3,45,86,Pugna,Rubick
+1741,"[45, 79]",2,45,79,Pugna,Shadow Demon
+3833,"[45, 75]",9,45,75,Pugna,Silencer
+2547,"[45, 101]",3,45,101,Pugna,Skywrath Mage
+1763,"[45, 93]",2,45,93,Pugna,Slark
+2600,"[45, 67]",3,45,67,Pugna,Spectre
+715,"[45, 71]",1,45,71,Pugna,Spirit Breaker
+1649,"[45, 46]",2,45,46,Pugna,Templar Assassin
+3141,"[45, 109]",5,45,109,Pugna,Terrorblade
+583,"[45, 83]",1,45,83,Pugna,Treant Protector
+3200,"[45, 100]",5,45,100,Pugna,Tusk
+3157,"[45, 108]",5,45,108,Pugna,Underlord
+586,"[45, 85]",1,45,85,Pugna,Undying
+2878,"[45, 70]",4,45,70,Pugna,Ursa
+595,"[45, 92]",1,45,92,Pugna,Visage
+2622,"[45, 63]",3,45,63,Pugna,Weaver
+1652,"[45, 112]",2,45,112,Pugna,Winter Wyvern
+401,"[39, 68]",1,39,68,Queen of Pain,Ancient Apparition
+1482,"[39, 65]",2,39,65,Queen of Pain,Batrider
+398,"[39, 62]",1,39,62,Queen of Pain,Bounty Hunter
+375,"[39, 96]",1,39,96,Queen of Pain,Centaur Warrunner
+2503,"[39, 66]",3,39,66,Queen of Pain,Chen
+451,"[39, 56]",1,39,56,Queen of Pain,Clinkz
+3232,"[39, 51]",5,39,51,Queen of Pain,Clockwerk
+1477,"[39, 55]",2,39,55,Queen of Pain,Dark Seer
+3215,"[39, 119]",5,39,119,Queen of Pain,Dark Willow
+1469,"[39, 43]",2,39,43,Queen of Pain,Death Prophet
+3700,"[39, 87]",8,39,87,Queen of Pain,Disruptor
+2989,"[39, 69]",4,39,69,Queen of Pain,Doom
+2987,"[39, 49]",4,39,49,Queen of Pain,Dragon Knight
+518,"[39, 107]",1,39,107,Queen of Pain,Earth Spirit
+1463,"[39, 103]",2,39,103,Queen of Pain,Elder Titan
+2495,"[39, 41]",3,39,41,Queen of Pain,Faceless Void
+3010,"[39, 72]",4,39,72,Queen of Pain,Gyrocopter
+1434,"[39, 91]",2,39,91,Queen of Pain,Io
+3708,"[39, 64]",8,39,64,Queen of Pain,Jakiro
+1475,"[39, 52]",2,39,52,Queen of Pain,Leshrac
+2508,"[39, 54]",3,39,54,Queen of Pain,Lifestealer
+410,"[39, 80]",1,39,80,Queen of Pain,Lone Druid
+1473,"[39, 48]",2,39,48,Queen of Pain,Luna
+3556,"[39, 77]",7,39,77,Queen of Pain,Lycan
+3247,"[39, 89]",5,39,89,Queen of Pain,Naga Siren
+397,"[39, 60]",1,39,60,Queen of Pain,Night Stalker
+1433,"[39, 88]",2,39,88,Queen of Pain,Nyx Assassin
+415,"[39, 84]",1,39,84,Queen of Pain,Ogre Magi
+2988,"[39, 57]",4,39,57,Queen of Pain,Omniknight
+1466,"[39, 120]",2,39,120,Queen of Pain,Pangolier
+526,"[39, 44]",1,39,44,Queen of Pain,Phantom Assassin
+2962,"[39, 110]",4,39,110,Queen of Pain,Phoenix
+3011,"[39, 86]",4,39,86,Queen of Pain,Rubick
+1457,"[39, 79]",2,39,79,Queen of Pain,Shadow Demon
+405,"[39, 75]",1,39,75,Queen of Pain,Silencer
+2959,"[39, 101]",4,39,101,Queen of Pain,Skywrath Mage
+400,"[39, 67]",1,39,67,Queen of Pain,Spectre
+402,"[39, 71]",1,39,71,Queen of Pain,Spirit Breaker
+519,"[39, 109]",1,39,109,Queen of Pain,Terrorblade
+2443,"[39, 95]",3,39,95,Queen of Pain,Troll Warlord
+2966,"[39, 100]",4,39,100,Queen of Pain,Tusk
+3551,"[39, 85]",7,39,85,Queen of Pain,Undying
+520,"[39, 40]",1,39,40,Queen of Pain,Venomancer
+522,"[39, 42]",1,39,42,Queen of Pain,Wraith King
+1892,"[15, 102]",2,15,102,Razor,Abaddon
+2837,"[15, 68]",4,15,68,Razor,Ancient Apparition
+859,"[15, 113]",1,15,113,Razor,Arc Warden
+1944,"[15, 65]",2,15,65,Razor,Batrider
+3943,"[15, 38]",10,15,38,Razor,Beastmaster
+1934,"[15, 62]",2,15,62,Razor,Bounty Hunter
+2564,"[15, 78]",3,15,78,Razor,Brewmaster
+3383,"[15, 51]",6,15,51,Razor,Clockwerk
+1907,"[15, 55]",2,15,55,Razor,Dark Seer
+2780,"[15, 119]",4,15,119,Razor,Dark Willow
+1865,"[15, 43]",2,15,43,Razor,Death Prophet
+3873,"[15, 87]",9,15,87,Razor,Disruptor
+3862,"[15, 69]",9,15,69,Razor,Doom
+2847,"[15, 49]",4,15,49,Razor,Dragon Knight
+838,"[15, 107]",1,15,107,Razor,Earth Spirit
+3079,"[15, 103]",5,15,103,Razor,Elder Titan
+839,"[15, 106]",1,15,106,Razor,Ember Spirit
+881,"[15, 33]",1,15,33,Razor,Enigma
+868,"[15, 41]",1,15,41,Razor,Faceless Void
+2865,"[15, 72]",4,15,72,Razor,Gyrocopter
+1932,"[15, 74]",2,15,74,Razor,Invoker
+2856,"[15, 91]",4,15,91,Razor,Io
+3394,"[15, 64]",6,15,64,Razor,Jakiro
+1923,"[15, 90]",2,15,90,Razor,Keeper of the Light
+2732,"[15, 23]",4,15,23,Razor,Kunkka
+840,"[15, 104]",1,15,104,Razor,Legion Commander
+3849,"[15, 52]",9,15,52,Razor,Leshrac
+1880,"[15, 54]",2,15,54,Razor,Lifestealer
+874,"[15, 25]",1,15,25,Razor,Lina
+2736,"[15, 26]",4,15,26,Razor,Lion
+3174,"[15, 80]",5,15,80,Razor,Lone Druid
+1868,"[15, 48]",2,15,48,Razor,Luna
+3798,"[15, 77]",8,15,77,Razor,Lycan
+3964,"[15, 89]",11,15,89,Razor,Naga Siren
+862,"[15, 53]",1,15,53,Razor,Nature's Prophet
+2541,"[15, 60]",3,15,60,Razor,Night Stalker
+2542,"[15, 57]",3,15,57,Razor,Omniknight
+858,"[15, 111]",1,15,111,Razor,Oracle
+1261,"[15, 76]",1,15,76,Razor,Outworld Devourer
+1889,"[15, 120]",2,15,120,Razor,Pangolier
+2550,"[15, 45]",3,15,45,Razor,Pugna
+2556,"[15, 39]",3,15,39,Razor,Queen of Pain
+2859,"[15, 86]",4,15,86,Razor,Rubick
+3568,"[15, 16]",7,15,16,Razor,Sand King
+1224,"[15, 79]",1,15,79,Razor,Shadow Demon
+1955,"[15, 27]",2,15,27,Razor,Shadow Shaman
+2636,"[15, 101]",3,15,101,Razor,Skywrath Mage
+2597,"[15, 28]",3,15,28,Razor,Slardar
+1794,"[15, 93]",2,15,93,Razor,Slark
+1256,"[15, 71]",1,15,71,Razor,Spirit Breaker
+2602,"[15, 17]",3,15,17,Razor,Storm Spirit
+879,"[15, 18]",1,15,18,Razor,Sven
+2617,"[15, 109]",3,15,109,Razor,Terrorblade
+2740,"[15, 29]",4,15,29,Razor,Tidehunter
+1890,"[15, 34]",2,15,34,Razor,Tinker
+878,"[15, 19]",1,15,19,Razor,Tiny
+1226,"[15, 83]",1,15,83,Razor,Treant Protector
+2855,"[15, 95]",4,15,95,Razor,Troll Warlord
+3825,"[15, 100]",9,15,100,Razor,Tusk
+1891,"[15, 108]",2,15,108,Razor,Underlord
+1918,"[15, 85]",2,15,85,Razor,Undying
+866,"[15, 47]",1,15,47,Razor,Viper
+2755,"[15, 37]",4,15,37,Razor,Warlock
+877,"[15, 21]",1,15,21,Razor,Windranger
+2596,"[15, 30]",3,15,30,Razor,Witch Doctor
+1887,"[15, 22]",2,15,22,Razor,Zeus
+2084,"[32, 65]",2,32,65,Riki,Batrider
+412,"[32, 38]",1,32,38,Riki,Beastmaster
+406,"[32, 61]",1,32,61,Riki,Broodmother
+408,"[32, 56]",1,32,56,Riki,Clinkz
+1956,"[32, 52]",2,32,52,Riki,Leshrac
+413,"[32, 114]",1,32,114,Riki,Monkey King
+409,"[32, 53]",1,32,53,Riki,Nature's Prophet
+407,"[32, 60]",1,32,60,Riki,Night Stalker
+403,"[32, 88]",1,32,88,Riki,Nyx Assassin
+414,"[32, 111]",1,32,111,Riki,Oracle
+404,"[32, 86]",1,32,86,Riki,Rubick
+411,"[32, 40]",1,32,40,Riki,Venomancer
+1994,"[32, 42]",2,32,42,Riki,Wraith King
+1693,"[86, 102]",2,86,102,Rubick,Abaddon
+1066,"[86, 113]",1,86,113,Rubick,Arc Warden
+1489,"[86, 96]",2,86,96,Rubick,Centaur Warrunner
+1674,"[86, 119]",2,86,119,Rubick,Dark Willow
+1673,"[86, 87]",2,86,87,Rubick,Disruptor
+1064,"[86, 107]",1,86,107,Rubick,Earth Spirit
+1694,"[86, 103]",2,86,103,Rubick,Elder Titan
+3347,"[86, 106]",6,86,106,Rubick,Ember Spirit
+2834,"[86, 91]",4,86,91,Rubick,Io
+1026,"[86, 90]",1,86,90,Rubick,Keeper of the Light
+3300,"[86, 97]",5,86,97,Rubick,Magnus
+1698,"[86, 94]",2,86,94,Rubick,Medusa
+1067,"[86, 114]",1,86,114,Rubick,Monkey King
+2836,"[86, 89]",4,86,89,Rubick,Naga Siren
+1045,"[86, 88]",1,86,88,Rubick,Nyx Assassin
+3417,"[86, 120]",6,86,120,Rubick,Pangolier
+3341,"[86, 101]",6,86,101,Rubick,Skywrath Mage
+3436,"[86, 93]",6,86,93,Rubick,Slark
+3367,"[86, 109]",6,86,109,Rubick,Terrorblade
+1029,"[86, 98]",1,86,98,Rubick,Timbersaw
+3301,"[86, 95]",5,86,95,Rubick,Troll Warlord
+3688,"[86, 100]",8,86,100,Rubick,Tusk
+2373,"[86, 108]",3,86,108,Rubick,Underlord
+3445,"[86, 92]",6,86,92,Rubick,Visage
+1065,"[86, 112]",1,86,112,Rubick,Winter Wyvern
+3208,"[16, 102]",5,16,102,Sand King,Abaddon
+4090,"[16, 68]",14,16,68,Sand King,Ancient Apparition
+1268,"[16, 113]",1,16,113,Sand King,Arc Warden
+3810,"[16, 65]",9,16,65,Sand King,Batrider
+4084,"[16, 38]",14,16,38,Sand King,Beastmaster
+3437,"[16, 62]",6,16,62,Sand King,Bounty Hunter
+3643,"[16, 78]",7,16,78,Sand King,Brewmaster
+2045,"[16, 99]",2,16,99,Sand King,Bristleback
+2589,"[16, 61]",3,16,61,Sand King,Broodmother
+2635,"[16, 96]",3,16,96,Sand King,Centaur Warrunner
+3334,"[16, 81]",6,16,81,Sand King,Chaos Knight
+2094,"[16, 56]",2,16,56,Sand King,Clinkz
+1833,"[16, 51]",2,16,51,Sand King,Clockwerk
+4111,"[16, 55]",15,16,55,Sand King,Dark Seer
+2804,"[16, 119]",4,16,119,Sand King,Dark Willow
+2580,"[16, 50]",3,16,50,Sand King,Dazzle
+4185,"[16, 43]",26,16,43,Sand King,Death Prophet
+4193,"[16, 87]",30,16,87,Sand King,Disruptor
+4131,"[16, 69]",16,16,69,Sand King,Doom
+4191,"[16, 49]",28,16,49,Sand King,Dragon Knight
+2592,"[16, 103]",3,16,103,Sand King,Elder Titan
+3969,"[16, 106]",11,16,106,Sand King,Ember Spirit
+4094,"[16, 41]",14,16,41,Sand King,Faceless Void
+4174,"[16, 72]",22,16,72,Sand King,Gyrocopter
+1168,"[16, 59]",1,16,59,Sand King,Huskar
+1209,"[16, 74]",1,16,74,Sand King,Invoker
+1267,"[16, 91]",1,16,91,Sand King,Io
+2700,"[16, 64]",4,16,64,Sand King,Jakiro
+2562,"[16, 90]",3,16,90,Sand King,Keeper of the Light
+3754,"[16, 23]",8,16,23,Sand King,Kunkka
+2849,"[16, 104]",4,16,104,Sand King,Legion Commander
+4197,"[16, 52]",49,16,52,Sand King,Leshrac
+1859,"[16, 31]",2,16,31,Sand King,Lich
+4162,"[16, 54]",19,16,54,Sand King,Lifestealer
+4079,"[16, 25]",14,16,25,Sand King,Lina
+1148,"[16, 26]",1,16,26,Sand King,Lion
+2555,"[16, 80]",3,16,80,Sand King,Lone Druid
+4138,"[16, 48]",16,16,48,Sand King,Luna
+3804,"[16, 77]",9,16,77,Sand King,Lycan
+2603,"[16, 97]",3,16,97,Sand King,Magnus
+3135,"[16, 94]",5,16,94,Sand King,Medusa
+1173,"[16, 82]",1,16,82,Sand King,Meepo
+1277,"[16, 114]",1,16,114,Sand King,Monkey King
+3332,"[16, 89]",6,16,89,Sand King,Naga Siren
+3869,"[16, 53]",9,16,53,Sand King,Nature's Prophet
+1161,"[16, 36]",1,16,36,Sand King,Necrophos
+3780,"[16, 60]",8,16,60,Sand King,Night Stalker
+1184,"[16, 88]",1,16,88,Sand King,Nyx Assassin
+1180,"[16, 84]",1,16,84,Sand King,Ogre Magi
+3379,"[16, 57]",6,16,57,Sand King,Omniknight
+1786,"[16, 111]",2,16,111,Sand King,Oracle
+3919,"[16, 76]",10,16,76,Sand King,Outworld Devourer
+3427,"[16, 120]",6,16,120,Sand King,Pangolier
+1823,"[16, 44]",2,16,44,Sand King,Phantom Assassin
+2588,"[16, 110]",3,16,110,Sand King,Phoenix
+2573,"[16, 45]",3,16,45,Sand King,Pugna
+3203,"[16, 39]",5,16,39,Sand King,Queen of Pain
+4047,"[16, 86]",12,16,86,Sand King,Rubick
+3775,"[16, 79]",8,16,79,Sand King,Shadow Demon
+2571,"[16, 27]",3,16,27,Sand King,Shadow Shaman
+2551,"[16, 75]",3,16,75,Sand King,Silencer
+3751,"[16, 101]",8,16,101,Sand King,Skywrath Mage
+1848,"[16, 28]",2,16,28,Sand King,Slardar
+4085,"[16, 93]",14,16,93,Sand King,Slark
+2567,"[16, 35]",3,16,35,Sand King,Sniper
+3447,"[16, 67]",6,16,67,Sand King,Spectre
+1207,"[16, 71]",1,16,71,Sand King,Spirit Breaker
+3603,"[16, 17]",7,16,17,Sand King,Storm Spirit
+1841,"[16, 18]",2,16,18,Sand King,Sven
+3927,"[16, 46]",10,16,46,Sand King,Templar Assassin
+3749,"[16, 109]",8,16,109,Sand King,Terrorblade
+2818,"[16, 29]",4,16,29,Sand King,Tidehunter
+1218,"[16, 98]",1,16,98,Sand King,Timbersaw
+2831,"[16, 34]",4,16,34,Sand King,Tinker
+3425,"[16, 19]",6,16,19,Sand King,Tiny
+1179,"[16, 83]",1,16,83,Sand King,Treant Protector
+3633,"[16, 95]",7,16,95,Sand King,Troll Warlord
+2854,"[16, 100]",4,16,100,Sand King,Tusk
+3864,"[16, 108]",9,16,108,Sand King,Underlord
+3640,"[16, 85]",7,16,85,Sand King,Undying
+1206,"[16, 70]",1,16,70,Sand King,Ursa
+3204,"[16, 20]",5,16,20,Sand King,Vengeful Spirit
+3668,"[16, 40]",7,16,40,Sand King,Venomancer
+3654,"[16, 47]",7,16,47,Sand King,Viper
+3350,"[16, 92]",6,16,92,Sand King,Visage
+4194,"[16, 37]",31,16,37,Sand King,Warlock
+2591,"[16, 63]",3,16,63,Sand King,Weaver
+3538,"[16, 21]",7,16,21,Sand King,Windranger
+2807,"[16, 112]",4,16,112,Sand King,Winter Wyvern
+4118,"[16, 30]",15,16,30,Sand King,Witch Doctor
+2577,"[16, 22]",3,16,22,Sand King,Zeus
+857,"[79, 102]",1,79,102,Shadow Demon,Abaddon
+923,"[79, 96]",1,79,96,Shadow Demon,Centaur Warrunner
+919,"[79, 81]",1,79,81,Shadow Demon,Chaos Knight
+2634,"[79, 119]",3,79,119,Shadow Demon,Dark Willow
+922,"[79, 87]",1,79,87,Shadow Demon,Disruptor
+842,"[79, 107]",1,79,107,Shadow Demon,Earth Spirit
+3070,"[79, 103]",5,79,103,Shadow Demon,Elder Titan
+841,"[79, 104]",1,79,104,Shadow Demon,Legion Commander
+870,"[79, 80]",1,79,80,Shadow Demon,Lone Druid
+1507,"[79, 97]",2,79,97,Shadow Demon,Magnus
+2532,"[79, 94]",3,79,94,Shadow Demon,Medusa
+1522,"[79, 89]",2,79,89,Shadow Demon,Naga Siren
+2606,"[79, 88]",3,79,88,Shadow Demon,Nyx Assassin
+851,"[79, 120]",1,79,120,Shadow Demon,Pangolier
+1612,"[79, 110]",2,79,110,Shadow Demon,Phoenix
+2610,"[79, 86]",3,79,86,Shadow Demon,Rubick
+1618,"[79, 101]",2,79,101,Shadow Demon,Skywrath Mage
+2725,"[79, 93]",4,79,93,Shadow Demon,Slark
+1504,"[79, 98]",2,79,98,Shadow Demon,Timbersaw
+1626,"[79, 108]",2,79,108,Shadow Demon,Underlord
+2629,"[79, 92]",3,79,92,Shadow Demon,Visage
+2813,"[11, 102]",4,11,102,Shadow Fiend,Abaddon
+1047,"[11, 68]",1,11,68,Shadow Fiend,Ancient Apparition
+1057,"[11, 113]",1,11,113,Shadow Fiend,Arc Warden
+1778,"[11, 65]",2,11,65,Shadow Fiend,Batrider
+3389,"[11, 38]",6,11,38,Shadow Fiend,Beastmaster
+3312,"[11, 78]",5,11,78,Shadow Fiend,Brewmaster
+1054,"[11, 99]",1,11,99,Shadow Fiend,Bristleback
+1055,"[11, 96]",1,11,96,Shadow Fiend,Centaur Warrunner
+1063,"[11, 81]",1,11,81,Shadow Fiend,Chaos Knight
+1025,"[11, 56]",1,11,56,Shadow Fiend,Clinkz
+4120,"[11, 51]",15,11,51,Shadow Fiend,Clockwerk
+2833,"[11, 119]",4,11,119,Shadow Fiend,Dark Willow
+1816,"[11, 43]",2,11,43,Shadow Fiend,Death Prophet
+2366,"[11, 87]",3,11,87,Shadow Fiend,Disruptor
+1776,"[11, 69]",2,11,69,Shadow Fiend,Doom
+1027,"[11, 49]",1,11,49,Shadow Fiend,Dragon Knight
+2387,"[11, 107]",3,11,107,Shadow Fiend,Earth Spirit
+1858,"[11, 103]",2,11,103,Shadow Fiend,Elder Titan
+1775,"[11, 72]",2,11,72,Shadow Fiend,Gyrocopter
+1068,"[11, 91]",1,11,91,Shadow Fiend,Io
+2839,"[11, 64]",4,11,64,Shadow Fiend,Jakiro
+1095,"[11, 104]",1,11,104,Shadow Fiend,Legion Commander
+2850,"[11, 52]",4,11,52,Shadow Fiend,Leshrac
+1772,"[11, 80]",2,11,80,Shadow Fiend,Lone Druid
+1028,"[11, 48]",1,11,48,Shadow Fiend,Luna
+1773,"[11, 77]",2,11,77,Shadow Fiend,Lycan
+1043,"[11, 114]",1,11,114,Shadow Fiend,Monkey King
+1793,"[11, 89]",2,11,89,Shadow Fiend,Naga Siren
+1788,"[11, 53]",2,11,53,Shadow Fiend,Nature's Prophet
+1813,"[11, 88]",2,11,88,Shadow Fiend,Nyx Assassin
+1061,"[11, 84]",1,11,84,Shadow Fiend,Ogre Magi
+1044,"[11, 57]",1,11,57,Shadow Fiend,Omniknight
+1070,"[11, 111]",1,11,111,Shadow Fiend,Oracle
+1041,"[11, 120]",1,11,120,Shadow Fiend,Pangolier
+1040,"[11, 12]",1,11,12,Shadow Fiend,Phantom Lancer
+1039,"[11, 14]",1,11,14,Shadow Fiend,Pudge
+1030,"[11, 45]",1,11,45,Shadow Fiend,Pugna
+2389,"[11, 15]",3,11,15,Shadow Fiend,Razor
+1771,"[11, 86]",2,11,86,Shadow Fiend,Rubick
+2393,"[11, 16]",3,11,16,Shadow Fiend,Sand King
+1774,"[11, 75]",2,11,75,Shadow Fiend,Silencer
+1839,"[11, 101]",2,11,101,Shadow Fiend,Skywrath Mage
+1034,"[11, 28]",1,11,28,Shadow Fiend,Slardar
+1812,"[11, 93]",2,11,93,Shadow Fiend,Slark
+1046,"[11, 67]",1,11,67,Shadow Fiend,Spectre
+1037,"[11, 18]",1,11,18,Shadow Fiend,Sven
+1033,"[11, 29]",1,11,29,Shadow Fiend,Tidehunter
+1847,"[11, 19]",2,11,19,Shadow Fiend,Tiny
+1062,"[11, 83]",1,11,83,Shadow Fiend,Treant Protector
+1056,"[11, 95]",1,11,95,Shadow Fiend,Troll Warlord
+2810,"[11, 100]",4,11,100,Shadow Fiend,Tusk
+1854,"[11, 108]",2,11,108,Shadow Fiend,Underlord
+1060,"[11, 85]",1,11,85,Shadow Fiend,Undying
+3324,"[11, 20]",5,11,20,Shadow Fiend,Vengeful Spirit
+1814,"[11, 47]",2,11,47,Shadow Fiend,Viper
+2356,"[11, 37]",3,11,37,Shadow Fiend,Warlock
+1783,"[11, 63]",2,11,63,Shadow Fiend,Weaver
+2375,"[11, 21]",3,11,21,Shadow Fiend,Windranger
+1842,"[11, 30]",2,11,30,Shadow Fiend,Witch Doctor
+2109,"[27, 38]",3,27,38,Shadow Shaman,Beastmaster
+2073,"[27, 62]",2,27,62,Shadow Shaman,Bounty Hunter
+631,"[27, 78]",1,27,78,Shadow Shaman,Brewmaster
+577,"[27, 96]",1,27,96,Shadow Shaman,Centaur Warrunner
+636,"[27, 66]",1,27,66,Shadow Shaman,Chen
+1954,"[27, 56]",2,27,56,Shadow Shaman,Clinkz
+2126,"[27, 51]",3,27,51,Shadow Shaman,Clockwerk
+2130,"[27, 43]",3,27,43,Shadow Shaman,Death Prophet
+2068,"[27, 69]",2,27,69,Shadow Shaman,Doom
+1827,"[27, 49]",2,27,49,Shadow Shaman,Dragon Knight
+2057,"[27, 58]",2,27,58,Shadow Shaman,Enchantress
+2161,"[27, 72]",3,27,72,Shadow Shaman,Gyrocopter
+2131,"[27, 59]",3,27,59,Shadow Shaman,Huskar
+2885,"[27, 91]",4,27,91,Shadow Shaman,Io
+642,"[27, 52]",1,27,52,Shadow Shaman,Leshrac
+1835,"[27, 54]",2,27,54,Shadow Shaman,Lifestealer
+645,"[27, 48]",1,27,48,Shadow Shaman,Luna
+2072,"[27, 77]",2,27,77,Shadow Shaman,Lycan
+2146,"[27, 97]",3,27,97,Shadow Shaman,Magnus
+602,"[27, 94]",1,27,94,Shadow Shaman,Medusa
+1857,"[27, 114]",2,27,114,Shadow Shaman,Monkey King
+2177,"[27, 89]",3,27,89,Shadow Shaman,Naga Siren
+2108,"[27, 36]",3,27,36,Shadow Shaman,Necrophos
+638,"[27, 60]",1,27,60,Shadow Shaman,Night Stalker
+2074,"[27, 88]",2,27,88,Shadow Shaman,Nyx Assassin
+2118,"[27, 57]",3,27,57,Shadow Shaman,Omniknight
+2064,"[27, 76]",2,27,76,Shadow Shaman,Outworld Devourer
+624,"[27, 120]",1,27,120,Shadow Shaman,Pangolier
+647,"[27, 44]",1,27,44,Shadow Shaman,Phantom Assassin
+606,"[27, 110]",1,27,110,Shadow Shaman,Phoenix
+646,"[27, 45]",1,27,45,Shadow Shaman,Pugna
+629,"[27, 86]",1,27,86,Shadow Shaman,Rubick
+630,"[27, 79]",1,27,79,Shadow Shaman,Shadow Demon
+632,"[27, 75]",1,27,75,Shadow Shaman,Silencer
+608,"[27, 101]",1,27,101,Shadow Shaman,Skywrath Mage
+603,"[27, 93]",1,27,93,Shadow Shaman,Slark
+2078,"[27, 67]",2,27,67,Shadow Shaman,Spectre
+607,"[27, 109]",1,27,109,Shadow Shaman,Terrorblade
+625,"[27, 29]",1,27,29,Shadow Shaman,Tidehunter
+2093,"[27, 95]",2,27,95,Shadow Shaman,Troll Warlord
+3639,"[27, 100]",7,27,100,Shadow Shaman,Tusk
+634,"[27, 70]",1,27,70,Shadow Shaman,Ursa
+1819,"[27, 40]",2,27,40,Shadow Shaman,Venomancer
+627,"[27, 42]",1,27,42,Shadow Shaman,Wraith King
+2803,"[75, 113]",4,75,113,Silencer,Arc Warden
+1560,"[75, 78]",2,75,78,Silencer,Brewmaster
+1605,"[75, 96]",2,75,96,Silencer,Centaur Warrunner
+3859,"[75, 119]",9,75,119,Silencer,Dark Willow
+1517,"[75, 107]",2,75,107,Silencer,Earth Spirit
+2578,"[75, 103]",3,75,103,Silencer,Elder Titan
+1279,"[75, 106]",1,75,106,Silencer,Ember Spirit
+2590,"[75, 91]",3,75,91,Silencer,Io
+1515,"[75, 104]",2,75,104,Silencer,Legion Commander
+3444,"[75, 77]",6,75,77,Silencer,Lycan
+1608,"[75, 97]",2,75,97,Silencer,Magnus
+1286,"[75, 94]",1,75,94,Silencer,Medusa
+1596,"[75, 82]",2,75,82,Silencer,Meepo
+1269,"[75, 114]",1,75,114,Silencer,Monkey King
+1275,"[75, 88]",1,75,88,Silencer,Nyx Assassin
+1559,"[75, 120]",2,75,120,Silencer,Pangolier
+1521,"[75, 110]",2,75,110,Silencer,Phoenix
+1274,"[75, 86]",1,75,86,Silencer,Rubick
+1513,"[75, 101]",2,75,101,Silencer,Skywrath Mage
+1601,"[75, 93]",2,75,93,Silencer,Slark
+3858,"[75, 109]",9,75,109,Silencer,Terrorblade
+1283,"[75, 95]",1,75,95,Silencer,Troll Warlord
+3855,"[75, 100]",9,75,100,Silencer,Tusk
+1276,"[75, 108]",1,75,108,Silencer,Underlord
+1600,"[75, 92]",2,75,92,Silencer,Visage
+3428,"[75, 112]",6,75,112,Silencer,Winter Wyvern
+962,"[101, 102]",1,101,102,Skywrath Mage,Abaddon
+2518,"[101, 113]",3,101,113,Skywrath Mage,Arc Warden
+3747,"[101, 103]",8,101,103,Skywrath Mage,Elder Titan
+4135,"[101, 106]",16,101,106,Skywrath Mage,Ember Spirit
+1985,"[101, 104]",2,101,104,Skywrath Mage,Legion Commander
+3881,"[101, 114]",9,101,114,Skywrath Mage,Monkey King
+2516,"[101, 111]",3,101,111,Skywrath Mage,Oracle
+2710,"[101, 120]",4,101,120,Skywrath Mage,Pangolier
+2717,"[101, 110]",4,101,110,Skywrath Mage,Phoenix
+1983,"[101, 109]",2,101,109,Skywrath Mage,Terrorblade
+3275,"[101, 108]",5,101,108,Skywrath Mage,Underlord
+3271,"[101, 112]",5,101,112,Skywrath Mage,Winter Wyvern
+2428,"[28, 68]",3,28,68,Slardar,Ancient Apparition
+2150,"[28, 38]",3,28,38,Slardar,Beastmaster
+600,"[28, 62]",1,28,62,Slardar,Bounty Hunter
+2129,"[28, 66]",3,28,66,Slardar,Chen
+2113,"[28, 55]",3,28,55,Slardar,Dark Seer
+568,"[28, 119]",1,28,119,Slardar,Dark Willow
+1976,"[28, 50]",2,28,50,Slardar,Dazzle
+562,"[28, 43]",1,28,43,Slardar,Death Prophet
+591,"[28, 87]",1,28,87,Slardar,Disruptor
+597,"[28, 69]",1,28,69,Slardar,Doom
+2883,"[28, 49]",4,28,49,Slardar,Dragon Knight
+573,"[28, 103]",1,28,103,Slardar,Elder Titan
+571,"[28, 106]",1,28,106,Slardar,Ember Spirit
+563,"[28, 41]",1,28,41,Slardar,Faceless Void
+3148,"[28, 72]",5,28,72,Slardar,Gyrocopter
+2022,"[28, 59]",2,28,59,Slardar,Huskar
+2114,"[28, 64]",3,28,64,Slardar,Jakiro
+589,"[28, 90]",1,28,90,Slardar,Keeper of the Light
+572,"[28, 104]",1,28,104,Slardar,Legion Commander
+3762,"[28, 52]",8,28,52,Slardar,Leshrac
+2881,"[28, 54]",4,28,54,Slardar,Lifestealer
+2145,"[28, 48]",3,28,48,Slardar,Luna
+2879,"[28, 77]",4,28,77,Slardar,Lycan
+587,"[28, 94]",1,28,94,Slardar,Medusa
+569,"[28, 114]",1,28,114,Slardar,Monkey King
+590,"[28, 89]",1,28,89,Slardar,Naga Siren
+2178,"[28, 53]",3,28,53,Slardar,Nature's Prophet
+581,"[28, 60]",1,28,60,Slardar,Night Stalker
+601,"[28, 57]",1,28,57,Slardar,Omniknight
+2009,"[28, 76]",2,28,76,Slardar,Outworld Devourer
+1981,"[28, 45]",2,28,45,Slardar,Pugna
+565,"[28, 39]",1,28,39,Slardar,Queen of Pain
+2637,"[28, 86]",3,28,86,Slardar,Rubick
+594,"[28, 79]",1,28,79,Slardar,Shadow Demon
+596,"[28, 75]",1,28,75,Slardar,Silencer
+574,"[28, 101]",1,28,101,Slardar,Skywrath Mage
+2621,"[28, 93]",3,28,93,Slardar,Slark
+570,"[28, 109]",1,28,109,Slardar,Terrorblade
+575,"[28, 100]",1,28,100,Slardar,Tusk
+593,"[28, 85]",1,28,85,Slardar,Undying
+2087,"[28, 40]",2,28,40,Slardar,Venomancer
+2152,"[28, 47]",3,28,47,Slardar,Viper
+588,"[28, 92]",1,28,92,Slardar,Visage
+2884,"[28, 37]",4,28,37,Slardar,Warlock
+2147,"[28, 30]",3,28,30,Slardar,Witch Doctor
+1472,"[93, 102]",2,93,102,Slark,Abaddon
+1460,"[93, 96]",2,93,96,Slark,Centaur Warrunner
+942,"[93, 119]",1,93,119,Slark,Dark Willow
+1470,"[93, 103]",2,93,103,Slark,Elder Titan
+2455,"[93, 106]",3,93,106,Slark,Ember Spirit
+936,"[93, 104]",1,93,104,Slark,Legion Commander
+945,"[93, 97]",1,93,97,Slark,Magnus
+943,"[93, 94]",1,93,94,Slark,Medusa
+937,"[93, 111]",1,93,111,Slark,Oracle
+2694,"[93, 120]",4,93,120,Slark,Pangolier
+3901,"[93, 101]",10,93,101,Slark,Skywrath Mage
+2695,"[93, 100]",4,93,100,Slark,Tusk
+2672,"[93, 108]",4,93,108,Slark,Underlord
+1465,"[93, 112]",2,93,112,Slark,Winter Wyvern
+466,"[35, 73]",1,35,73,Sniper,Alchemist
+475,"[35, 38]",1,35,38,Sniper,Beastmaster
+508,"[35, 78]",1,35,78,Sniper,Brewmaster
+469,"[35, 66]",1,35,66,Sniper,Chen
+471,"[35, 55]",1,35,55,Sniper,Dark Seer
+473,"[35, 43]",1,35,43,Sniper,Death Prophet
+2464,"[35, 87]",3,35,87,Sniper,Disruptor
+478,"[35, 107]",1,35,107,Sniper,Earth Spirit
+1974,"[35, 41]",2,35,41,Sniper,Faceless Void
+2001,"[35, 72]",2,35,72,Sniper,Gyrocopter
+2043,"[35, 64]",2,35,64,Sniper,Jakiro
+472,"[35, 54]",1,35,54,Sniper,Lifestealer
+488,"[35, 80]",1,35,80,Sniper,Lone Druid
+487,"[35, 77]",1,35,77,Sniper,Lycan
+470,"[35, 60]",1,35,60,Sniper,Night Stalker
+1998,"[35, 57]",2,35,57,Sniper,Omniknight
+485,"[35, 76]",1,35,76,Sniper,Outworld Devourer
+476,"[35, 110]",1,35,110,Sniper,Phoenix
+506,"[35, 95]",1,35,95,Sniper,Troll Warlord
+477,"[35, 108]",1,35,108,Sniper,Underlord
+468,"[35, 70]",1,35,70,Sniper,Ursa
+1285,"[67, 102]",1,67,102,Spectre,Abaddon
+1167,"[67, 68]",1,67,68,Spectre,Ancient Apparition
+1151,"[67, 113]",1,67,113,Spectre,Arc Warden
+2797,"[67, 78]",4,67,78,Spectre,Brewmaster
+1121,"[67, 96]",1,67,96,Spectre,Centaur Warrunner
+3790,"[67, 119]",8,67,119,Spectre,Dark Willow
+2164,"[67, 87]",3,67,87,Spectre,Disruptor
+1468,"[67, 69]",2,67,69,Spectre,Doom
+1223,"[67, 103]",1,67,103,Spectre,Elder Titan
+3802,"[67, 106]",8,67,106,Spectre,Ember Spirit
+1159,"[67, 74]",1,67,74,Spectre,Invoker
+1119,"[67, 91]",1,67,91,Spectre,Io
+1145,"[67, 104]",1,67,104,Spectre,Legion Commander
+1478,"[67, 97]",2,67,97,Spectre,Magnus
+1464,"[67, 114]",2,67,114,Spectre,Monkey King
+2133,"[67, 89]",3,67,89,Spectre,Naga Siren
+2166,"[67, 88]",3,67,88,Spectre,Nyx Assassin
+1471,"[67, 84]",2,67,84,Spectre,Ogre Magi
+1162,"[67, 76]",1,67,76,Spectre,Outworld Devourer
+2752,"[67, 120]",4,67,120,Spectre,Pangolier
+1150,"[67, 110]",1,67,110,Spectre,Phoenix
+2843,"[67, 86]",4,67,86,Spectre,Rubick
+1163,"[67, 79]",1,67,79,Spectre,Shadow Demon
+3487,"[67, 75]",6,67,75,Spectre,Silencer
+2132,"[67, 101]",3,67,101,Spectre,Skywrath Mage
+1481,"[67, 98]",2,67,98,Spectre,Timbersaw
+2846,"[67, 83]",4,67,83,Spectre,Treant Protector
+2742,"[67, 100]",4,67,100,Spectre,Tusk
+1147,"[67, 108]",1,67,108,Spectre,Underlord
+2844,"[67, 85]",4,67,85,Spectre,Undying
+2795,"[67, 70]",4,67,70,Spectre,Ursa
+3485,"[67, 112]",6,67,112,Spectre,Winter Wyvern
+1219,"[71, 106]",1,71,106,Spirit Breaker,Ember Spirit
+2598,"[71, 72]",3,71,72,Spirit Breaker,Gyrocopter
+1205,"[71, 91]",1,71,91,Spirit Breaker,Io
+1722,"[71, 77]",2,71,77,Spirit Breaker,Lycan
+1210,"[71, 111]",1,71,111,Spirit Breaker,Oracle
+2552,"[71, 110]",3,71,110,Spirit Breaker,Phoenix
+2554,"[71, 101]",3,71,101,Spirit Breaker,Skywrath Mage
+1203,"[71, 93]",1,71,93,Spirit Breaker,Slark
+1212,"[71, 109]",1,71,109,Spirit Breaker,Terrorblade
+1630,"[71, 98]",2,71,98,Spirit Breaker,Timbersaw
+2353,"[17, 102]",3,17,102,Storm Spirit,Abaddon
+1270,"[17, 73]",1,17,73,Storm Spirit,Alchemist
+1826,"[17, 68]",2,17,68,Storm Spirit,Ancient Apparition
+1235,"[17, 65]",1,17,65,Storm Spirit,Batrider
+3150,"[17, 38]",5,17,38,Storm Spirit,Beastmaster
+2122,"[17, 62]",3,17,62,Storm Spirit,Bounty Hunter
+2175,"[17, 78]",3,17,78,Storm Spirit,Brewmaster
+1213,"[17, 99]",1,17,99,Storm Spirit,Bristleback
+1202,"[17, 96]",1,17,96,Storm Spirit,Centaur Warrunner
+2668,"[17, 66]",4,17,66,Storm Spirit,Chen
+3160,"[17, 56]",5,17,56,Storm Spirit,Clinkz
+2149,"[17, 51]",3,17,51,Storm Spirit,Clockwerk
+2135,"[17, 55]",3,17,55,Storm Spirit,Dark Seer
+3945,"[17, 119]",10,17,119,Storm Spirit,Dark Willow
+1992,"[17, 43]",2,17,43,Storm Spirit,Death Prophet
+3143,"[17, 87]",5,17,87,Storm Spirit,Disruptor
+3133,"[17, 69]",5,17,69,Storm Spirit,Doom
+1169,"[17, 107]",1,17,107,Storm Spirit,Earth Spirit
+3364,"[17, 103]",6,17,103,Storm Spirit,Elder Titan
+1170,"[17, 106]",1,17,106,Storm Spirit,Ember Spirit
+3516,"[17, 58]",6,17,58,Storm Spirit,Enchantress
+1242,"[17, 41]",1,17,41,Storm Spirit,Faceless Void
+3522,"[17, 72]",7,17,72,Storm Spirit,Gyrocopter
+3128,"[17, 64]",5,17,64,Storm Spirit,Jakiro
+1969,"[17, 23]",2,17,23,Storm Spirit,Kunkka
+3761,"[17, 52]",8,17,52,Storm Spirit,Leshrac
+2141,"[17, 31]",3,17,31,Storm Spirit,Lich
+2684,"[17, 54]",4,17,54,Storm Spirit,Lifestealer
+1271,"[17, 26]",1,17,26,Storm Spirit,Lion
+2101,"[17, 48]",2,17,48,Storm Spirit,Luna
+2830,"[17, 77]",4,17,77,Storm Spirit,Lycan
+2805,"[17, 97]",4,17,97,Storm Spirit,Magnus
+1798,"[17, 114]",2,17,114,Storm Spirit,Monkey King
+3805,"[17, 89]",9,17,89,Storm Spirit,Naga Siren
+2680,"[17, 53]",4,17,53,Storm Spirit,Nature's Prophet
+3335,"[17, 36]",6,17,36,Storm Spirit,Necrophos
+2642,"[17, 60]",4,17,60,Storm Spirit,Night Stalker
+3144,"[17, 88]",5,17,88,Storm Spirit,Nyx Assassin
+1843,"[17, 84]",2,17,84,Storm Spirit,Ogre Magi
+1248,"[17, 57]",1,17,57,Storm Spirit,Omniknight
+2663,"[17, 111]",4,17,111,Storm Spirit,Oracle
+2007,"[17, 120]",2,17,120,Storm Spirit,Pangolier
+3770,"[17, 110]",8,17,110,Storm Spirit,Phoenix
+1999,"[17, 45]",2,17,45,Storm Spirit,Pugna
+1238,"[17, 39]",1,17,39,Storm Spirit,Queen of Pain
+2799,"[17, 86]",4,17,86,Storm Spirit,Rubick
+1975,"[17, 27]",2,17,27,Storm Spirit,Shadow Shaman
+3631,"[17, 75]",7,17,75,Storm Spirit,Silencer
+3130,"[17, 101]",5,17,101,Storm Spirit,Skywrath Mage
+3641,"[17, 67]",7,17,67,Storm Spirit,Spectre
+1227,"[17, 46]",1,17,46,Storm Spirit,Templar Assassin
+1130,"[17, 109]",1,17,109,Storm Spirit,Terrorblade
+2159,"[17, 29]",3,17,29,Storm Spirit,Tidehunter
+2162,"[17, 19]",3,17,19,Storm Spirit,Tiny
+2828,"[17, 83]",4,17,83,Storm Spirit,Treant Protector
+2137,"[17, 95]",3,17,95,Storm Spirit,Troll Warlord
+3644,"[17, 100]",7,17,100,Storm Spirit,Tusk
+1968,"[17, 108]",2,17,108,Storm Spirit,Underlord
+2822,"[17, 85]",4,17,85,Storm Spirit,Undying
+3134,"[17, 70]",5,17,70,Storm Spirit,Ursa
+3764,"[17, 20]",8,17,20,Storm Spirit,Vengeful Spirit
+2158,"[17, 92]",3,17,92,Storm Spirit,Visage
+3153,"[17, 37]",5,17,37,Storm Spirit,Warlock
+3768,"[17, 63]",8,17,63,Storm Spirit,Weaver
+3763,"[17, 21]",8,17,21,Storm Spirit,Windranger
+2008,"[17, 112]",2,17,112,Storm Spirit,Winter Wyvern
+3333,"[17, 30]",6,17,30,Storm Spirit,Witch Doctor
+3730,"[17, 42]",8,17,42,Storm Spirit,Wraith King
+1278,"[17, 22]",1,17,22,Storm Spirit,Zeus
+1214,"[18, 68]",1,18,68,Sven,Ancient Apparition
+1215,"[18, 65]",1,18,65,Sven,Batrider
+1174,"[18, 38]",1,18,38,Sven,Beastmaster
+1196,"[18, 51]",1,18,51,Sven,Clockwerk
+1172,"[18, 43]",1,18,43,Sven,Death Prophet
+1925,"[18, 87]",2,18,87,Sven,Disruptor
+1211,"[18, 69]",1,18,69,Sven,Doom
+1801,"[18, 49]",2,18,49,Sven,Dragon Knight
+1192,"[18, 106]",1,18,106,Sven,Ember Spirit
+1796,"[18, 52]",2,18,52,Sven,Leshrac
+1185,"[18, 25]",1,18,25,Sven,Lina
+1176,"[18, 36]",1,18,36,Sven,Necrophos
+1795,"[18, 60]",2,18,60,Sven,Night Stalker
+1186,"[18, 120]",1,18,120,Sven,Pangolier
+1208,"[18, 75]",1,18,75,Sven,Silencer
+1780,"[18, 101]",2,18,101,Sven,Skywrath Mage
+1178,"[18, 34]",1,18,34,Sven,Tinker
+1789,"[18, 100]",2,18,100,Sven,Tusk
+1809,"[18, 108]",2,18,108,Sven,Underlord
+1928,"[18, 85]",2,18,85,Sven,Undying
+1175,"[18, 37]",1,18,37,Sven,Warlock
+1187,"[18, 112]",1,18,112,Sven,Winter Wyvern
+1193,"[18, 30]",1,18,30,Sven,Witch Doctor
+598,"[46, 102]",1,46,102,Templar Assassin,Abaddon
+559,"[46, 65]",1,46,65,Templar Assassin,Batrider
+2181,"[46, 62]",3,46,62,Templar Assassin,Bounty Hunter
+3151,"[46, 78]",5,46,78,Templar Assassin,Brewmaster
+604,"[46, 99]",1,46,99,Templar Assassin,Bristleback
+578,"[46, 61]",1,46,61,Templar Assassin,Broodmother
+2882,"[46, 66]",4,46,66,Templar Assassin,Chen
+3161,"[46, 51]",5,46,51,Templar Assassin,Clockwerk
+2880,"[46, 55]",4,46,55,Templar Assassin,Dark Seer
+3766,"[46, 119]",8,46,119,Templar Assassin,Dark Willow
+3824,"[46, 87]",9,46,87,Templar Assassin,Disruptor
+3154,"[46, 69]",5,46,69,Templar Assassin,Doom
+2170,"[46, 49]",3,46,49,Templar Assassin,Dragon Knight
+3166,"[46, 107]",5,46,107,Templar Assassin,Earth Spirit
+2352,"[46, 103]",3,46,103,Templar Assassin,Elder Titan
+599,"[46, 106]",1,46,106,Templar Assassin,Ember Spirit
+3158,"[46, 58]",5,46,58,Templar Assassin,Enchantress
+3564,"[46, 72]",7,46,72,Templar Assassin,Gyrocopter
+1703,"[46, 91]",2,46,91,Templar Assassin,Io
+3155,"[46, 64]",5,46,64,Templar Assassin,Jakiro
+566,"[46, 90]",1,46,90,Templar Assassin,Keeper of the Light
+3542,"[46, 52]",7,46,52,Templar Assassin,Leshrac
+2168,"[46, 54]",3,46,54,Templar Assassin,Lifestealer
+560,"[46, 80]",1,46,80,Templar Assassin,Lone Druid
+1758,"[46, 48]",2,46,48,Templar Assassin,Luna
+1735,"[46, 77]",2,46,77,Templar Assassin,Lycan
+579,"[46, 97]",1,46,97,Templar Assassin,Magnus
+3507,"[46, 89]",6,46,89,Templar Assassin,Naga Siren
+3360,"[46, 53]",6,46,53,Templar Assassin,Nature's Prophet
+580,"[46, 60]",1,46,60,Templar Assassin,Night Stalker
+564,"[46, 88]",1,46,88,Templar Assassin,Nyx Assassin
+2154,"[46, 84]",3,46,84,Templar Assassin,Ogre Magi
+1757,"[46, 57]",2,46,57,Templar Assassin,Omniknight
+1760,"[46, 120]",2,46,120,Templar Assassin,Pangolier
+3163,"[46, 110]",5,46,110,Templar Assassin,Phoenix
+2155,"[46, 86]",3,46,86,Templar Assassin,Rubick
+2148,"[46, 79]",3,46,79,Templar Assassin,Shadow Demon
+3090,"[46, 75]",5,46,75,Templar Assassin,Silencer
+2354,"[46, 101]",3,46,101,Templar Assassin,Skywrath Mage
+567,"[46, 93]",1,46,93,Templar Assassin,Slark
+1753,"[46, 67]",2,46,67,Templar Assassin,Spectre
+1761,"[46, 109]",2,46,109,Templar Assassin,Terrorblade
+561,"[46, 83]",1,46,83,Templar Assassin,Treant Protector
+576,"[46, 95]",1,46,95,Templar Assassin,Troll Warlord
+3769,"[46, 100]",8,46,100,Templar Assassin,Tusk
+2119,"[46, 108]",3,46,108,Templar Assassin,Underlord
+3758,"[46, 85]",8,46,85,Templar Assassin,Undying
+3156,"[46, 92]",5,46,92,Templar Assassin,Visage
+3537,"[46, 112]",7,46,112,Templar Assassin,Winter Wyvern
+2384,"[109, 119]",3,109,119,Terrorblade,Dark Willow
+1837,"[109, 111]",2,109,111,Terrorblade,Oracle
+3238,"[109, 120]",5,109,120,Terrorblade,Pangolier
+1818,"[109, 110]",2,109,110,Terrorblade,Phoenix
+1100,"[109, 112]",1,109,112,Terrorblade,Winter Wyvern
+1979,"[29, 68]",2,29,68,Tidehunter,Ancient Apparition
+706,"[29, 62]",1,29,62,Tidehunter,Bounty Hunter
+701,"[29, 81]",1,29,81,Tidehunter,Chaos Knight
+3370,"[29, 51]",6,29,51,Tidehunter,Clockwerk
+2613,"[29, 119]",3,29,119,Tidehunter,Dark Willow
+3145,"[29, 43]",5,29,43,Tidehunter,Death Prophet
+3776,"[29, 87]",8,29,87,Tidehunter,Disruptor
+2624,"[29, 69]",3,29,69,Tidehunter,Doom
+3129,"[29, 49]",5,29,49,Tidehunter,Dragon Knight
+2038,"[29, 103]",2,29,103,Tidehunter,Elder Titan
+2033,"[29, 106]",2,29,106,Tidehunter,Ember Spirit
+1990,"[29, 58]",2,29,58,Tidehunter,Enchantress
+730,"[29, 33]",1,29,33,Tidehunter,Enigma
+3137,"[29, 72]",5,29,72,Tidehunter,Gyrocopter
+708,"[29, 59]",1,29,59,Tidehunter,Huskar
+698,"[29, 91]",1,29,91,Tidehunter,Io
+2625,"[29, 64]",3,29,64,Tidehunter,Jakiro
+584,"[29, 104]",1,29,104,Tidehunter,Legion Commander
+2875,"[29, 52]",4,29,52,Tidehunter,Leshrac
+2874,"[29, 54]",4,29,54,Tidehunter,Lifestealer
+2095,"[29, 80]",2,29,80,Tidehunter,Lone Druid
+1997,"[29, 48]",2,29,48,Tidehunter,Luna
+703,"[29, 77]",1,29,77,Tidehunter,Lycan
+2063,"[29, 94]",2,29,94,Tidehunter,Medusa
+700,"[29, 82]",1,29,82,Tidehunter,Meepo
+2060,"[29, 89]",2,29,89,Tidehunter,Naga Siren
+1984,"[29, 60]",2,29,60,Tidehunter,Night Stalker
+2872,"[29, 88]",4,29,88,Tidehunter,Nyx Assassin
+2620,"[29, 111]",3,29,111,Tidehunter,Oracle
+2097,"[29, 76]",2,29,76,Tidehunter,Outworld Devourer
+714,"[29, 44]",1,29,44,Tidehunter,Phantom Assassin
+713,"[29, 45]",1,29,45,Tidehunter,Pugna
+651,"[29, 39]",1,29,39,Tidehunter,Queen of Pain
+2558,"[29, 86]",3,29,86,Tidehunter,Rubick
+2040,"[29, 101]",2,29,101,Tidehunter,Skywrath Mage
+2032,"[29, 109]",2,29,109,Tidehunter,Terrorblade
+2065,"[29, 98]",2,29,98,Tidehunter,Timbersaw
+2537,"[29, 95]",3,29,95,Tidehunter,Troll Warlord
+3358,"[29, 100]",6,29,100,Tidehunter,Tusk
+1970,"[29, 40]",2,29,40,Tidehunter,Venomancer
+717,"[29, 92]",1,29,92,Tidehunter,Visage
+2604,"[29, 30]",3,29,30,Tidehunter,Witch Doctor
+1410,"[98, 119]",2,98,119,Timbersaw,Dark Willow
+1411,"[98, 107]",2,98,107,Timbersaw,Earth Spirit
+982,"[98, 109]",1,98,109,Timbersaw,Terrorblade
+980,"[98, 100]",1,98,100,Timbersaw,Tusk
+538,"[34, 65]",1,34,65,Tinker,Batrider
+2951,"[34, 38]",4,34,38,Tinker,Beastmaster
+2982,"[34, 62]",4,34,62,Tinker,Bounty Hunter
+2456,"[34, 78]",3,34,78,Tinker,Brewmaster
+1960,"[34, 66]",2,34,66,Tinker,Chen
+3229,"[34, 51]",5,34,51,Tinker,Clockwerk
+549,"[34, 119]",1,34,119,Tinker,Dark Willow
+555,"[34, 43]",1,34,43,Tinker,Death Prophet
+2452,"[34, 87]",3,34,87,Tinker,Disruptor
+1961,"[34, 69]",2,34,69,Tinker,Doom
+2953,"[34, 103]",4,34,103,Tinker,Elder Titan
+552,"[34, 106]",1,34,106,Tinker,Ember Spirit
+1962,"[34, 72]",2,34,72,Tinker,Gyrocopter
+1959,"[34, 64]",2,34,64,Tinker,Jakiro
+1982,"[34, 52]",2,34,52,Tinker,Leshrac
+2968,"[34, 54]",4,34,54,Tinker,Lifestealer
+510,"[34, 80]",1,34,80,Tinker,Lone Druid
+543,"[34, 48]",1,34,48,Tinker,Luna
+535,"[34, 77]",1,34,77,Tinker,Lycan
+479,"[34, 97]",1,34,97,Tinker,Magnus
+550,"[34, 114]",1,34,114,Tinker,Monkey King
+1967,"[34, 89]",2,34,89,Tinker,Naga Siren
+548,"[34, 36]",1,34,36,Tinker,Necrophos
+2486,"[34, 60]",3,34,60,Tinker,Night Stalker
+509,"[34, 84]",1,34,84,Tinker,Ogre Magi
+1988,"[34, 57]",2,34,57,Tinker,Omniknight
+2524,"[34, 120]",3,34,120,Tinker,Pangolier
+545,"[34, 45]",1,34,45,Tinker,Pugna
+2454,"[34, 86]",3,34,86,Tinker,Rubick
+2088,"[34, 101]",2,34,101,Tinker,Skywrath Mage
+480,"[34, 93]",1,34,93,Tinker,Slark
+1973,"[34, 95]",2,34,95,Tinker,Troll Warlord
+2091,"[34, 100]",2,34,100,Tinker,Tusk
+2092,"[34, 108]",2,34,108,Tinker,Underlord
+3281,"[34, 85]",5,34,85,Tinker,Undying
+2979,"[34, 92]",4,34,92,Tinker,Visage
+2952,"[34, 37]",4,34,37,Tinker,Warlock
+2098,"[34, 42]",2,34,42,Tinker,Wraith King
+2142,"[19, 102]",3,19,102,Tiny,Abaddon
+1870,"[19, 73]",2,19,73,Tiny,Alchemist
+4070,"[19, 68]",13,19,68,Tiny,Ancient Apparition
+1120,"[19, 113]",1,19,113,Tiny,Arc Warden
+744,"[19, 65]",1,19,65,Tiny,Batrider
+1888,"[19, 38]",2,19,38,Tiny,Beastmaster
+2814,"[19, 62]",4,19,62,Tiny,Bounty Hunter
+1875,"[19, 78]",2,19,78,Tiny,Brewmaster
+2775,"[19, 61]",4,19,61,Tiny,Broodmother
+1933,"[19, 96]",2,19,96,Tiny,Centaur Warrunner
+246,"[19, 81]",1,19,81,Tiny,Chaos Knight
+3109,"[19, 66]",5,19,66,Tiny,Chen
+3811,"[19, 56]",9,19,56,Tiny,Clinkz
+1893,"[19, 51]",2,19,51,Tiny,Clockwerk
+1899,"[19, 55]",2,19,55,Tiny,Dark Seer
+4150,"[19, 119]",17,19,119,Tiny,Dark Willow
+2295,"[19, 50]",3,19,50,Tiny,Dazzle
+1241,"[19, 43]",1,19,43,Tiny,Death Prophet
+3667,"[19, 87]",7,19,87,Tiny,Disruptor
+3486,"[19, 69]",6,19,69,Tiny,Doom
+2781,"[19, 49]",4,19,49,Tiny,Dragon Knight
+3499,"[19, 107]",6,19,107,Tiny,Earth Spirit
+3453,"[19, 103]",6,19,103,Tiny,Elder Titan
+2156,"[19, 106]",3,19,106,Tiny,Ember Spirit
+3812,"[19, 58]",9,19,58,Tiny,Enchantress
+3592,"[19, 33]",7,19,33,Tiny,Enigma
+3063,"[19, 41]",5,19,41,Tiny,Faceless Void
+4132,"[19, 72]",16,19,72,Tiny,Gyrocopter
+1902,"[19, 59]",2,19,59,Tiny,Huskar
+250,"[19, 74]",1,19,74,Tiny,Invoker
+3653,"[19, 91]",7,19,91,Tiny,Io
+1903,"[19, 64]",2,19,64,Tiny,Jakiro
+2124,"[19, 23]",3,19,23,Tiny,Kunkka
+1919,"[19, 104]",2,19,104,Tiny,Legion Commander
+2791,"[19, 52]",4,19,52,Tiny,Leshrac
+3483,"[19, 31]",6,19,31,Tiny,Lich
+1898,"[19, 54]",2,19,54,Tiny,Lifestealer
+4099,"[19, 25]",14,19,25,Tiny,Lina
+1153,"[19, 26]",1,19,26,Tiny,Lion
+2294,"[19, 48]",3,19,48,Tiny,Luna
+1873,"[19, 77]",2,19,77,Tiny,Lycan
+2270,"[19, 97]",3,19,97,Tiny,Magnus
+2287,"[19, 94]",3,19,94,Tiny,Medusa
+2182,"[19, 114]",3,19,114,Tiny,Monkey King
+3448,"[19, 89]",6,19,89,Tiny,Naga Siren
+3681,"[19, 53]",8,19,53,Tiny,Nature's Prophet
+3968,"[19, 36]",11,19,36,Tiny,Necrophos
+1250,"[19, 60]",1,19,60,Tiny,Night Stalker
+3449,"[19, 88]",6,19,88,Tiny,Nyx Assassin
+3087,"[19, 84]",5,19,84,Tiny,Ogre Magi
+1264,"[19, 57]",1,19,57,Tiny,Omniknight
+3495,"[19, 111]",6,19,111,Tiny,Oracle
+248,"[19, 76]",1,19,76,Tiny,Outworld Devourer
+1876,"[19, 120]",2,19,120,Tiny,Pangolier
+2292,"[19, 44]",3,19,44,Tiny,Phantom Assassin
+3496,"[19, 110]",6,19,110,Tiny,Phoenix
+3826,"[19, 45]",9,19,45,Tiny,Pugna
+2107,"[19, 39]",3,19,39,Tiny,Queen of Pain
+4031,"[19, 86]",12,19,86,Tiny,Rubick
+2768,"[19, 79]",4,19,79,Tiny,Shadow Demon
+2753,"[19, 27]",4,19,27,Tiny,Shadow Shaman
+3851,"[19, 75]",9,19,75,Tiny,Silencer
+1204,"[19, 101]",1,19,101,Tiny,Skywrath Mage
+1904,"[19, 28]",2,19,28,Tiny,Slardar
+238,"[19, 93]",1,19,93,Tiny,Slark
+3555,"[19, 67]",7,19,67,Tiny,Spectre
+251,"[19, 71]",1,19,71,Tiny,Spirit Breaker
+2759,"[19, 46]",4,19,46,Tiny,Templar Assassin
+3946,"[19, 109]",10,19,109,Tiny,Terrorblade
+236,"[19, 98]",1,19,98,Tiny,Timbersaw
+1900,"[19, 34]",2,19,34,Tiny,Tinker
+245,"[19, 83]",1,19,83,Tiny,Treant Protector
+1908,"[19, 95]",2,19,95,Tiny,Troll Warlord
+3960,"[19, 100]",11,19,100,Tiny,Tusk
+1946,"[19, 108]",2,19,108,Tiny,Underlord
+3088,"[19, 85]",5,19,85,Tiny,Undying
+3115,"[19, 70]",5,19,70,Tiny,Ursa
+4096,"[19, 20]",14,19,20,Tiny,Vengeful Spirit
+2341,"[19, 40]",3,19,40,Tiny,Venomancer
+3073,"[19, 47]",5,19,47,Tiny,Viper
+1884,"[19, 92]",2,19,92,Tiny,Visage
+2105,"[19, 37]",3,19,37,Tiny,Warlock
+4028,"[19, 63]",12,19,63,Tiny,Weaver
+2796,"[19, 21]",4,19,21,Tiny,Windranger
+4010,"[19, 112]",12,19,112,Tiny,Winter Wyvern
+3588,"[19, 30]",7,19,30,Tiny,Witch Doctor
+3828,"[19, 42]",9,19,42,Tiny,Wraith King
+1864,"[19, 22]",2,19,22,Tiny,Zeus
+792,"[83, 102]",1,83,102,Treant Protector,Abaddon
+800,"[83, 99]",1,83,99,Treant Protector,Bristleback
+1738,"[83, 119]",2,83,119,Treant Protector,Dark Willow
+793,"[83, 106]",1,83,106,Treant Protector,Ember Spirit
+799,"[83, 97]",1,83,97,Treant Protector,Magnus
+797,"[83, 94]",1,83,94,Treant Protector,Medusa
+2747,"[83, 114]",4,83,114,Treant Protector,Monkey King
+795,"[83, 120]",1,83,120,Treant Protector,Pangolier
+1739,"[83, 110]",2,83,110,Treant Protector,Phoenix
+796,"[83, 86]",1,83,86,Treant Protector,Rubick
+798,"[83, 95]",1,83,95,Treant Protector,Troll Warlord
+794,"[83, 108]",1,83,108,Treant Protector,Underlord
+2749,"[83, 112]",4,83,112,Treant Protector,Winter Wyvern
+952,"[95, 102]",1,95,102,Troll Warlord,Abaddon
+1374,"[95, 96]",2,95,96,Troll Warlord,Centaur Warrunner
+2445,"[95, 119]",3,95,119,Troll Warlord,Dark Willow
+1385,"[95, 107]",2,95,107,Troll Warlord,Earth Spirit
+2721,"[95, 103]",4,95,103,Troll Warlord,Elder Titan
+2447,"[95, 106]",3,95,106,Troll Warlord,Ember Spirit
+976,"[95, 104]",1,95,104,Troll Warlord,Legion Commander
+2466,"[95, 97]",3,95,97,Troll Warlord,Magnus
+1002,"[95, 111]",1,95,111,Troll Warlord,Oracle
+1391,"[95, 120]",2,95,120,Troll Warlord,Pangolier
+1382,"[95, 110]",2,95,110,Troll Warlord,Phoenix
+2722,"[95, 101]",4,95,101,Troll Warlord,Skywrath Mage
+1007,"[95, 98]",1,95,98,Troll Warlord,Timbersaw
+3255,"[95, 100]",5,95,100,Troll Warlord,Tusk
+1383,"[95, 108]",2,95,108,Troll Warlord,Underlord
+1003,"[95, 112]",1,95,112,Troll Warlord,Winter Wyvern
+3328,"[100, 102]",6,100,102,Tusk,Abaddon
+965,"[100, 113]",1,100,113,Tusk,Arc Warden
+3346,"[100, 119]",6,100,119,Tusk,Dark Willow
+3284,"[100, 106]",5,100,106,Tusk,Ember Spirit
+2681,"[100, 104]",4,100,104,Tusk,Legion Commander
+1987,"[100, 114]",2,100,114,Tusk,Monkey King
+3336,"[100, 111]",6,100,111,Tusk,Oracle
+2513,"[100, 120]",3,100,120,Tusk,Pangolier
+2696,"[100, 101]",4,100,101,Tusk,Skywrath Mage
+3973,"[100, 109]",11,100,109,Tusk,Terrorblade
+3348,"[100, 108]",6,100,108,Tusk,Underlord
+2531,"[100, 112]",3,100,112,Tusk,Winter Wyvern
+2382,"[108, 119]",3,108,119,Underlord,Dark Willow
+2801,"[108, 114]",4,108,114,Underlord,Monkey King
+1105,"[108, 111]",1,108,111,Underlord,Oracle
+1115,"[108, 110]",1,108,110,Underlord,Phoenix
+1829,"[108, 112]",2,108,112,Underlord,Winter Wyvern
+1069,"[85, 113]",1,85,113,Undying,Arc Warden
+1059,"[85, 99]",1,85,99,Undying,Bristleback
+1690,"[85, 96]",2,85,96,Undying,Centaur Warrunner
+3362,"[85, 119]",6,85,119,Undying,Dark Willow
+2372,"[85, 87]",3,85,87,Undying,Disruptor
+3318,"[85, 106]",5,85,106,Undying,Ember Spirit
+3298,"[85, 91]",5,85,91,Undying,Io
+1631,"[85, 90]",2,85,90,Undying,Keeper of the Light
+930,"[85, 104]",1,85,104,Undying,Legion Commander
+1697,"[85, 97]",2,85,97,Undying,Magnus
+1058,"[85, 94]",1,85,94,Undying,Medusa
+931,"[85, 114]",1,85,114,Undying,Monkey King
+3357,"[85, 89]",6,85,89,Undying,Naga Siren
+1634,"[85, 88]",2,85,88,Undying,Nyx Assassin
+1636,"[85, 120]",2,85,120,Undying,Pangolier
+3355,"[85, 86]",6,85,86,Undying,Rubick
+3642,"[85, 101]",7,85,101,Undying,Skywrath Mage
+1654,"[85, 93]",2,85,93,Undying,Slark
+1688,"[85, 95]",2,85,95,Undying,Troll Warlord
+1642,"[85, 100]",2,85,100,Undying,Tusk
+2441,"[85, 108]",3,85,108,Undying,Underlord
+3372,"[85, 92]",6,85,92,Undying,Visage
+1639,"[85, 112]",2,85,112,Undying,Winter Wyvern
+3773,"[70, 73]",8,70,73,Ursa,Alchemist
+1189,"[70, 113]",1,70,113,Ursa,Arc Warden
+3630,"[70, 119]",7,70,119,Ursa,Dark Willow
+1704,"[70, 87]",2,70,87,Ursa,Disruptor
+2638,"[70, 107]",3,70,107,Ursa,Earth Spirit
+1188,"[70, 106]",1,70,106,Ursa,Ember Spirit
+1755,"[70, 72]",2,70,72,Ursa,Gyrocopter
+2561,"[70, 74]",3,70,74,Ursa,Invoker
+1171,"[70, 91]",1,70,91,Ursa,Io
+1182,"[70, 90]",1,70,90,Ursa,Keeper of the Light
+1702,"[70, 77]",2,70,77,Ursa,Lycan
+1715,"[70, 97]",2,70,97,Ursa,Magnus
+1195,"[70, 94]",1,70,94,Ursa,Medusa
+2690,"[70, 88]",4,70,88,Ursa,Nyx Assassin
+1191,"[70, 120]",1,70,120,Ursa,Pangolier
+3838,"[70, 110]",9,70,110,Ursa,Phoenix
+1183,"[70, 86]",1,70,86,Ursa,Rubick
+3634,"[70, 75]",7,70,75,Ursa,Silencer
+1762,"[70, 109]",2,70,109,Ursa,Terrorblade
+1765,"[70, 100]",2,70,100,Ursa,Tusk
+3330,"[70, 85]",6,70,85,Ursa,Undying
+1181,"[70, 92]",1,70,92,Ursa,Visage
+3772,"[70, 112]",8,70,112,Ursa,Winter Wyvern
+1840,"[20, 102]",2,20,102,Vengeful Spirit,Abaddon
+3982,"[20, 73]",11,20,73,Vengeful Spirit,Alchemist
+345,"[20, 68]",1,20,68,Vengeful Spirit,Ancient Apparition
+218,"[20, 113]",1,20,113,Vengeful Spirit,Arc Warden
+3263,"[20, 65]",5,20,65,Vengeful Spirit,Batrider
+3276,"[20, 38]",5,20,38,Vengeful Spirit,Beastmaster
+3888,"[20, 78]",10,20,78,Vengeful Spirit,Brewmaster
+2058,"[20, 99]",2,20,99,Vengeful Spirit,Bristleback
+3616,"[20, 61]",7,20,61,Vengeful Spirit,Broodmother
+2076,"[20, 96]",2,20,96,Vengeful Spirit,Centaur Warrunner
+3474,"[20, 66]",6,20,66,Vengeful Spirit,Chen
+4095,"[20, 56]",14,20,56,Vengeful Spirit,Clinkz
+2806,"[20, 51]",4,20,51,Vengeful Spirit,Clockwerk
+332,"[20, 55]",1,20,55,Vengeful Spirit,Dark Seer
+3907,"[20, 119]",10,20,119,Vengeful Spirit,Dark Willow
+335,"[20, 50]",1,20,50,Vengeful Spirit,Dazzle
+3498,"[20, 43]",6,20,43,Vengeful Spirit,Death Prophet
+2069,"[20, 87]",2,20,87,Vengeful Spirit,Disruptor
+2215,"[20, 69]",3,20,69,Vengeful Spirit,Doom
+3450,"[20, 49]",6,20,49,Vengeful Spirit,Dragon Knight
+3594,"[20, 107]",7,20,107,Vengeful Spirit,Earth Spirit
+2331,"[20, 103]",3,20,103,Vengeful Spirit,Elder Titan
+2330,"[20, 106]",3,20,106,Vengeful Spirit,Ember Spirit
+2798,"[20, 58]",4,20,58,Vengeful Spirit,Enchantress
+2319,"[20, 33]",3,20,33,Vengeful Spirit,Enigma
+340,"[20, 41]",1,20,41,Vengeful Spirit,Faceless Void
+3829,"[20, 72]",9,20,72,Vengeful Spirit,Gyrocopter
+2867,"[20, 59]",4,20,59,Vengeful Spirit,Huskar
+3732,"[20, 74]",8,20,74,Vengeful Spirit,Invoker
+3114,"[20, 91]",5,20,91,Vengeful Spirit,Io
+1861,"[20, 64]",2,20,64,Vengeful Spirit,Jakiro
+369,"[20, 90]",1,20,90,Vengeful Spirit,Keeper of the Light
+214,"[20, 23]",1,20,23,Vengeful Spirit,Kunkka
+1838,"[20, 52]",2,20,52,Vengeful Spirit,Leshrac
+265,"[20, 31]",1,20,31,Vengeful Spirit,Lich
+333,"[20, 54]",1,20,54,Vengeful Spirit,Lifestealer
+3956,"[20, 25]",11,20,25,Vengeful Spirit,Lina
+2052,"[20, 80]",2,20,80,Vengeful Spirit,Lone Druid
+2726,"[20, 77]",4,20,77,Vengeful Spirit,Lycan
+354,"[20, 97]",1,20,97,Vengeful Spirit,Magnus
+363,"[20, 82]",1,20,82,Vengeful Spirit,Meepo
+3219,"[20, 114]",5,20,114,Vengeful Spirit,Monkey King
+2659,"[20, 89]",4,20,89,Vengeful Spirit,Naga Siren
+3914,"[20, 53]",10,20,53,Vengeful Spirit,Nature's Prophet
+3886,"[20, 36]",10,20,36,Vengeful Spirit,Necrophos
+2267,"[20, 60]",3,20,60,Vengeful Spirit,Night Stalker
+2658,"[20, 88]",4,20,88,Vengeful Spirit,Nyx Assassin
+2269,"[20, 57]",3,20,57,Vengeful Spirit,Omniknight
+1844,"[20, 111]",2,20,111,Vengeful Spirit,Oracle
+2080,"[20, 76]",2,20,76,Vengeful Spirit,Outworld Devourer
+2315,"[20, 120]",3,20,120,Vengeful Spirit,Pangolier
+338,"[20, 44]",1,20,44,Vengeful Spirit,Phantom Assassin
+3899,"[20, 110]",10,20,110,Vengeful Spirit,Phoenix
+3290,"[20, 45]",5,20,45,Vengeful Spirit,Pugna
+342,"[20, 39]",1,20,39,Vengeful Spirit,Queen of Pain
+1855,"[20, 32]",2,20,32,Vengeful Spirit,Riki
+2654,"[20, 86]",4,20,86,Vengeful Spirit,Rubick
+212,"[20, 27]",1,20,27,Vengeful Spirit,Shadow Shaman
+3488,"[20, 75]",6,20,75,Vengeful Spirit,Silencer
+2840,"[20, 101]",4,20,101,Vengeful Spirit,Skywrath Mage
+1851,"[20, 28]",2,20,28,Vengeful Spirit,Slardar
+356,"[20, 93]",1,20,93,Vengeful Spirit,Slark
+2832,"[20, 35]",4,20,35,Vengeful Spirit,Sniper
+2819,"[20, 67]",4,20,67,Vengeful Spirit,Spectre
+2809,"[20, 46]",4,20,46,Vengeful Spirit,Templar Assassin
+3598,"[20, 109]",7,20,109,Vengeful Spirit,Terrorblade
+1852,"[20, 29]",2,20,29,Vengeful Spirit,Tidehunter
+2187,"[20, 98]",3,20,98,Vengeful Spirit,Timbersaw
+279,"[20, 34]",1,20,34,Vengeful Spirit,Tinker
+2055,"[20, 83]",2,20,83,Vengeful Spirit,Treant Protector
+3481,"[20, 95]",6,20,95,Vengeful Spirit,Troll Warlord
+2835,"[20, 100]",4,20,100,Vengeful Spirit,Tusk
+2863,"[20, 108]",4,20,108,Vengeful Spirit,Underlord
+3686,"[20, 85]",8,20,85,Vengeful Spirit,Undying
+3891,"[20, 70]",10,20,70,Vengeful Spirit,Ursa
+2811,"[20, 40]",4,20,40,Vengeful Spirit,Venomancer
+2323,"[20, 47]",3,20,47,Vengeful Spirit,Viper
+2206,"[20, 92]",3,20,92,Vengeful Spirit,Visage
+344,"[20, 37]",1,20,37,Vengeful Spirit,Warlock
+4172,"[20, 63]",21,20,63,Vengeful Spirit,Weaver
+3230,"[20, 21]",5,20,21,Vengeful Spirit,Windranger
+3217,"[20, 112]",5,20,112,Vengeful Spirit,Winter Wyvern
+1853,"[20, 30]",2,20,30,Vengeful Spirit,Witch Doctor
+3745,"[20, 42]",8,20,42,Vengeful Spirit,Wraith King
+1860,"[20, 22]",2,20,22,Vengeful Spirit,Zeus
+1320,"[40, 102]",2,40,102,Venomancer,Abaddon
+1292,"[40, 73]",2,40,73,Venomancer,Alchemist
+1289,"[40, 68]",2,40,68,Venomancer,Ancient Apparition
+428,"[40, 65]",1,40,65,Venomancer,Batrider
+1296,"[40, 62]",2,40,62,Venomancer,Bounty Hunter
+437,"[40, 78]",1,40,78,Venomancer,Brewmaster
+558,"[40, 99]",1,40,99,Venomancer,Bristleback
+463,"[40, 81]",1,40,81,Venomancer,Chaos Knight
+3093,"[40, 66]",5,40,66,Venomancer,Chen
+426,"[40, 56]",1,40,56,Venomancer,Clinkz
+1319,"[40, 51]",2,40,51,Venomancer,Clockwerk
+1356,"[40, 43]",2,40,43,Venomancer,Death Prophet
+557,"[40, 87]",1,40,87,Venomancer,Disruptor
+430,"[40, 69]",1,40,69,Venomancer,Doom
+2990,"[40, 49]",4,40,49,Venomancer,Dragon Knight
+3356,"[40, 103]",6,40,103,Venomancer,Elder Titan
+3325,"[40, 106]",5,40,106,Venomancer,Ember Spirit
+2533,"[40, 58]",3,40,58,Venomancer,Enchantress
+1357,"[40, 41]",2,40,41,Venomancer,Faceless Void
+1310,"[40, 72]",2,40,72,Venomancer,Gyrocopter
+427,"[40, 59]",1,40,59,Venomancer,Huskar
+435,"[40, 74]",1,40,74,Venomancer,Invoker
+2420,"[40, 91]",3,40,91,Venomancer,Io
+2431,"[40, 64]",3,40,64,Venomancer,Jakiro
+1318,"[40, 90]",2,40,90,Venomancer,Keeper of the Light
+439,"[40, 104]",1,40,104,Venomancer,Legion Commander
+3352,"[40, 52]",6,40,52,Venomancer,Leshrac
+2425,"[40, 54]",3,40,54,Venomancer,Lifestealer
+425,"[40, 48]",1,40,48,Venomancer,Luna
+1359,"[40, 77]",2,40,77,Venomancer,Lycan
+2419,"[40, 97]",3,40,97,Venomancer,Magnus
+1334,"[40, 94]",2,40,94,Venomancer,Medusa
+422,"[40, 114]",1,40,114,Venomancer,Monkey King
+3344,"[40, 89]",6,40,89,Venomancer,Naga Siren
+3353,"[40, 53]",6,40,53,Venomancer,Nature's Prophet
+2992,"[40, 60]",4,40,60,Venomancer,Night Stalker
+1329,"[40, 88]",2,40,88,Venomancer,Nyx Assassin
+2440,"[40, 84]",3,40,84,Venomancer,Ogre Magi
+2427,"[40, 57]",3,40,57,Venomancer,Omniknight
+419,"[40, 111]",1,40,111,Venomancer,Oracle
+2996,"[40, 76]",4,40,76,Venomancer,Outworld Devourer
+423,"[40, 44]",1,40,44,Venomancer,Phantom Assassin
+1332,"[40, 110]",2,40,110,Venomancer,Phoenix
+424,"[40, 45]",1,40,45,Venomancer,Pugna
+1769,"[40, 86]",2,40,86,Venomancer,Rubick
+436,"[40, 75]",1,40,75,Venomancer,Silencer
+1340,"[40, 101]",2,40,101,Venomancer,Skywrath Mage
+1317,"[40, 67]",2,40,67,Venomancer,Spectre
+3099,"[40, 46]",5,40,46,Venomancer,Templar Assassin
+1330,"[40, 109]",2,40,109,Venomancer,Terrorblade
+3000,"[40, 95]",4,40,95,Venomancer,Troll Warlord
+2370,"[40, 100]",3,40,100,Venomancer,Tusk
+438,"[40, 108]",1,40,108,Venomancer,Underlord
+3006,"[40, 85]",4,40,85,Venomancer,Undying
+431,"[40, 70]",1,40,70,Venomancer,Ursa
+649,"[40, 92]",1,40,92,Venomancer,Visage
+1293,"[40, 63]",2,40,63,Venomancer,Weaver
+420,"[40, 112]",1,40,112,Venomancer,Winter Wyvern
+2157,"[47, 102]",3,47,102,Viper,Abaddon
+2121,"[47, 68]",3,47,68,Viper,Ancient Apparition
+635,"[47, 113]",1,47,113,Viper,Arc Warden
+643,"[47, 65]",1,47,65,Viper,Batrider
+641,"[47, 62]",1,47,62,Viper,Bounty Hunter
+1718,"[47, 78]",2,47,78,Viper,Brewmaster
+1629,"[47, 81]",2,47,81,Viper,Chaos Knight
+2909,"[47, 51]",4,47,51,Viper,Clockwerk
+640,"[47, 55]",1,47,55,Viper,Dark Seer
+1726,"[47, 119]",2,47,119,Viper,Dark Willow
+639,"[47, 50]",1,47,50,Viper,Dazzle
+2120,"[47, 87]",3,47,87,Viper,Disruptor
+2115,"[47, 69]",3,47,69,Viper,Doom
+648,"[47, 49]",1,47,49,Viper,Dragon Knight
+2908,"[47, 107]",4,47,107,Viper,Earth Spirit
+1713,"[47, 103]",2,47,103,Viper,Elder Titan
+2933,"[47, 72]",4,47,72,Viper,Gyrocopter
+3132,"[47, 64]",5,47,64,Viper,Jakiro
+628,"[47, 104]",1,47,104,Viper,Legion Commander
+2930,"[47, 52]",4,47,52,Viper,Leshrac
+1725,"[47, 54]",2,47,54,Viper,Lifestealer
+626,"[47, 80]",1,47,80,Viper,Lone Druid
+2927,"[47, 48]",4,47,48,Viper,Luna
+612,"[47, 97]",1,47,97,Viper,Magnus
+1727,"[47, 114]",2,47,114,Viper,Monkey King
+2169,"[47, 89]",3,47,89,Viper,Naga Siren
+2931,"[47, 53]",4,47,53,Viper,Nature's Prophet
+2932,"[47, 60]",4,47,60,Viper,Night Stalker
+605,"[47, 88]",1,47,88,Viper,Nyx Assassin
+1628,"[47, 84]",2,47,84,Viper,Ogre Magi
+2104,"[47, 86]",3,47,86,Viper,Rubick
+2887,"[47, 101]",4,47,101,Viper,Skywrath Mage
+609,"[47, 93]",1,47,93,Viper,Slark
+2125,"[47, 67]",3,47,67,Viper,Spectre
+644,"[47, 71]",1,47,71,Viper,Spirit Breaker
+1717,"[47, 109]",2,47,109,Viper,Terrorblade
+610,"[47, 95]",1,47,95,Viper,Troll Warlord
+3512,"[47, 100]",6,47,100,Viper,Tusk
+1716,"[47, 108]",2,47,108,Viper,Underlord
+633,"[47, 112]",1,47,112,Viper,Winter Wyvern
+969,"[92, 102]",1,92,102,Visage,Abaddon
+1480,"[92, 119]",2,92,119,Visage,Dark Willow
+1485,"[92, 107]",2,92,107,Visage,Earth Spirit
+971,"[92, 103]",1,92,103,Visage,Elder Titan
+2459,"[92, 104]",3,92,104,Visage,Legion Commander
+951,"[92, 97]",1,92,97,Visage,Magnus
+954,"[92, 110]",1,92,110,Visage,Phoenix
+2685,"[92, 101]",4,92,101,Visage,Skywrath Mage
+1479,"[92, 93]",2,92,93,Visage,Slark
+1484,"[92, 109]",2,92,109,Visage,Terrorblade
+933,"[92, 98]",1,92,98,Visage,Timbersaw
+1476,"[92, 95]",2,92,95,Visage,Troll Warlord
+3739,"[92, 100]",8,92,100,Visage,Tusk
+972,"[92, 108]",1,92,108,Visage,Underlord
+2457,"[92, 112]",3,92,112,Visage,Winter Wyvern
+484,"[37, 73]",1,37,73,Warlock,Alchemist
+481,"[37, 65]",1,37,65,Warlock,Batrider
+4192,"[37, 38]",29,37,38,Warlock,Beastmaster
+474,"[37, 62]",1,37,62,Warlock,Bounty Hunter
+3677,"[37, 78]",7,37,78,Warlock,Brewmaster
+1418,"[37, 61]",2,37,61,Warlock,Broodmother
+2460,"[37, 96]",3,37,96,Warlock,Centaur Warrunner
+1373,"[37, 81]",2,37,81,Warlock,Chaos Knight
+2980,"[37, 66]",4,37,66,Warlock,Chen
+2978,"[37, 56]",4,37,56,Warlock,Clinkz
+4106,"[37, 51]",15,37,51,Warlock,Clockwerk
+2449,"[37, 55]",3,37,55,Warlock,Dark Seer
+505,"[37, 119]",1,37,119,Warlock,Dark Willow
+4046,"[37, 43]",12,37,43,Warlock,Death Prophet
+4121,"[37, 69]",16,37,69,Warlock,Doom
+4107,"[37, 49]",15,37,49,Warlock,Dragon Knight
+1409,"[37, 107]",2,37,107,Warlock,Earth Spirit
+3912,"[37, 103]",10,37,103,Warlock,Elder Titan
+4154,"[37, 106]",18,37,106,Warlock,Ember Spirit
+3778,"[37, 41]",8,37,41,Warlock,Faceless Void
+3895,"[37, 72]",10,37,72,Warlock,Gyrocopter
+1416,"[37, 59]",2,37,59,Warlock,Huskar
+2463,"[37, 74]",3,37,74,Warlock,Invoker
+539,"[37, 91]",1,37,91,Warlock,Io
+2986,"[37, 64]",4,37,64,Warlock,Jakiro
+3638,"[37, 104]",7,37,104,Warlock,Legion Commander
+4180,"[37, 52]",24,37,52,Warlock,Leshrac
+2976,"[37, 54]",4,37,54,Warlock,Lifestealer
+536,"[37, 80]",1,37,80,Warlock,Lone Druid
+3902,"[37, 48]",10,37,48,Warlock,Luna
+3871,"[37, 77]",9,37,77,Warlock,Lycan
+3666,"[37, 97]",7,37,97,Warlock,Magnus
+2984,"[37, 94]",4,37,94,Warlock,Medusa
+2484,"[37, 114]",3,37,114,Warlock,Monkey King
+3656,"[37, 89]",7,37,89,Warlock,Naga Siren
+3354,"[37, 53]",6,37,53,Warlock,Nature's Prophet
+4104,"[37, 60]",15,37,60,Warlock,Night Stalker
+2981,"[37, 88]",4,37,88,Warlock,Nyx Assassin
+1377,"[37, 84]",2,37,84,Warlock,Ogre Magi
+467,"[37, 57]",1,37,57,Warlock,Omniknight
+503,"[37, 111]",1,37,111,Warlock,Oracle
+486,"[37, 76]",1,37,76,Warlock,Outworld Devourer
+2974,"[37, 120]",4,37,120,Warlock,Pangolier
+507,"[37, 44]",1,37,44,Warlock,Phantom Assassin
+3326,"[37, 45]",6,37,45,Warlock,Pugna
+3368,"[37, 86]",6,37,86,Warlock,Rubick
+511,"[37, 79]",1,37,79,Warlock,Shadow Demon
+4054,"[37, 101]",13,37,101,Warlock,Skywrath Mage
+4156,"[37, 93]",18,37,93,Warlock,Slark
+4088,"[37, 67]",14,37,67,Warlock,Spectre
+483,"[37, 71]",1,37,71,Warlock,Spirit Breaker
+3609,"[37, 46]",7,37,46,Warlock,Templar Assassin
+2483,"[37, 109]",3,37,109,Warlock,Terrorblade
+537,"[37, 83]",1,37,83,Warlock,Treant Protector
+2985,"[37, 95]",4,37,95,Warlock,Troll Warlord
+4052,"[37, 100]",13,37,100,Warlock,Tusk
+3270,"[37, 108]",5,37,108,Warlock,Underlord
+482,"[37, 70]",1,37,70,Warlock,Ursa
+2975,"[37, 40]",4,37,40,Warlock,Venomancer
+3611,"[37, 47]",7,37,47,Warlock,Viper
+2983,"[37, 92]",4,37,92,Warlock,Visage
+1376,"[37, 63]",2,37,63,Warlock,Weaver
+2465,"[37, 42]",3,37,42,Warlock,Wraith King
+266,"[63, 102]",1,63,102,Weaver,Abaddon
+3690,"[63, 73]",8,63,73,Weaver,Alchemist
+274,"[63, 78]",1,63,78,Weaver,Brewmaster
+2274,"[63, 99]",3,63,99,Weaver,Bristleback
+1379,"[63, 81]",2,63,81,Weaver,Chaos Knight
+272,"[63, 66]",1,63,66,Weaver,Chen
+3951,"[63, 119]",10,63,119,Weaver,Dark Willow
+2276,"[63, 87]",3,63,87,Weaver,Disruptor
+3304,"[63, 69]",5,63,69,Weaver,Doom
+2739,"[63, 107]",4,63,107,Weaver,Earth Spirit
+267,"[63, 103]",1,63,103,Weaver,Elder Titan
+268,"[63, 106]",1,63,106,Weaver,Ember Spirit
+1381,"[63, 72]",2,63,72,Weaver,Gyrocopter
+3296,"[63, 74]",5,63,74,Weaver,Invoker
+253,"[63, 91]",1,63,91,Weaver,Io
+1389,"[63, 64]",2,63,64,Weaver,Jakiro
+254,"[63, 90]",1,63,90,Weaver,Keeper of the Light
+2734,"[63, 77]",4,63,77,Weaver,Lycan
+1365,"[63, 94]",2,63,94,Weaver,Medusa
+275,"[63, 82]",1,63,82,Weaver,Meepo
+270,"[63, 114]",1,63,114,Weaver,Monkey King
+1371,"[63, 88]",2,63,88,Weaver,Nyx Assassin
+1375,"[63, 84]",2,63,84,Weaver,Ogre Magi
+2284,"[63, 111]",3,63,111,Weaver,Oracle
+3311,"[63, 120]",5,63,120,Weaver,Pangolier
+3504,"[63, 110]",6,63,110,Weaver,Phoenix
+3718,"[63, 75]",8,63,75,Weaver,Silencer
+1461,"[63, 101]",2,63,101,Weaver,Skywrath Mage
+1386,"[63, 67]",2,63,67,Weaver,Spectre
+269,"[63, 109]",1,63,109,Weaver,Terrorblade
+234,"[63, 98]",1,63,98,Weaver,Timbersaw
+2727,"[63, 83]",4,63,83,Weaver,Treant Protector
+3306,"[63, 100]",5,63,100,Weaver,Tusk
+3317,"[63, 108]",5,63,108,Weaver,Underlord
+3689,"[63, 85]",8,63,85,Weaver,Undying
+3658,"[63, 70]",7,63,70,Weaver,Ursa
+252,"[63, 92]",1,63,92,Weaver,Visage
+4029,"[63, 112]",12,63,112,Weaver,Winter Wyvern
+350,"[21, 102]",1,21,102,Windranger,Abaddon
+1965,"[21, 73]",2,21,73,Windranger,Alchemist
+317,"[21, 68]",1,21,68,Windranger,Ancient Apparition
+2082,"[21, 113]",2,21,113,Windranger,Arc Warden
+1993,"[21, 65]",2,21,65,Windranger,Batrider
+4130,"[21, 38]",16,21,38,Windranger,Beastmaster
+1989,"[21, 62]",2,21,62,Windranger,Bounty Hunter
+2706,"[21, 78]",4,21,78,Windranger,Brewmaster
+2030,"[21, 99]",2,21,99,Windranger,Bristleback
+1986,"[21, 61]",2,21,61,Windranger,Broodmother
+62,"[21, 96]",1,21,96,Windranger,Centaur Warrunner
+1966,"[21, 81]",2,21,81,Windranger,Chaos Knight
+3322,"[21, 66]",5,21,66,Windranger,Chen
+2227,"[21, 56]",3,21,56,Windranger,Clinkz
+3834,"[21, 51]",9,21,51,Windranger,Clockwerk
+3094,"[21, 55]",5,21,55,Windranger,Dark Seer
+3759,"[21, 119]",8,21,119,Windranger,Dark Willow
+1980,"[21, 50]",2,21,50,Windranger,Dazzle
+3971,"[21, 43]",11,21,43,Windranger,Death Prophet
+2693,"[21, 87]",4,21,87,Windranger,Disruptor
+3897,"[21, 69]",10,21,69,Windranger,Doom
+2716,"[21, 49]",4,21,49,Windranger,Dragon Knight
+2083,"[21, 107]",2,21,107,Windranger,Earth Spirit
+2053,"[21, 103]",2,21,103,Windranger,Elder Titan
+4158,"[21, 106]",18,21,106,Windranger,Ember Spirit
+321,"[21, 58]",1,21,58,Windranger,Enchantress
+2702,"[21, 33]",4,21,33,Windranger,Enigma
+3741,"[21, 41]",8,21,41,Windranger,Faceless Void
+3291,"[21, 72]",5,21,72,Windranger,Gyrocopter
+2698,"[21, 59]",4,21,59,Windranger,Huskar
+2261,"[21, 74]",3,21,74,Windranger,Invoker
+185,"[21, 91]",1,21,91,Windranger,Io
+3921,"[21, 64]",10,21,64,Windranger,Jakiro
+277,"[21, 90]",1,21,90,Windranger,Keeper of the Light
+2648,"[21, 23]",4,21,23,Windranger,Kunkka
+349,"[21, 104]",1,21,104,Windranger,Legion Commander
+3597,"[21, 52]",7,21,52,Windranger,Leshrac
+3882,"[21, 54]",9,21,54,Windranger,Lifestealer
+3843,"[21, 25]",9,21,25,Windranger,Lina
+2644,"[21, 26]",4,21,26,Windranger,Lion
+308,"[21, 80]",1,21,80,Windranger,Lone Druid
+3575,"[21, 48]",7,21,48,Windranger,Luna
+3704,"[21, 77]",8,21,77,Windranger,Lycan
+3915,"[21, 97]",10,21,97,Windranger,Magnus
+1971,"[21, 94]",2,21,94,Windranger,Medusa
+3586,"[21, 114]",7,21,114,Windranger,Monkey King
+3884,"[21, 89]",10,21,89,Windranger,Naga Siren
+2719,"[21, 53]",4,21,53,Windranger,Nature's Prophet
+2703,"[21, 36]",4,21,36,Windranger,Necrophos
+4033,"[21, 60]",12,21,60,Windranger,Night Stalker
+3413,"[21, 88]",6,21,88,Windranger,Nyx Assassin
+306,"[21, 84]",1,21,84,Windranger,Ogre Magi
+2089,"[21, 111]",2,21,111,Windranger,Oracle
+1963,"[21, 76]",2,21,76,Windranger,Outworld Devourer
+3029,"[21, 120]",4,21,120,Windranger,Pangolier
+2200,"[21, 44]",3,21,44,Windranger,Phantom Assassin
+2100,"[21, 110]",2,21,110,Windranger,Phoenix
+2714,"[21, 45]",4,21,45,Windranger,Pugna
+2704,"[21, 39]",4,21,39,Windranger,Queen of Pain
+290,"[21, 32]",1,21,32,Windranger,Riki
+2263,"[21, 79]",3,21,79,Windranger,Shadow Demon
+3399,"[21, 75]",6,21,75,Windranger,Silencer
+3456,"[21, 101]",6,21,101,Windranger,Skywrath Mage
+3625,"[21, 28]",7,21,28,Windranger,Slardar
+3966,"[21, 93]",11,21,93,Windranger,Slark
+2682,"[21, 67]",4,21,67,Windranger,Spectre
+314,"[21, 71]",1,21,71,Windranger,Spirit Breaker
+3953,"[21, 46]",10,21,46,Windranger,Templar Assassin
+323,"[21, 109]",1,21,109,Windranger,Terrorblade
+2673,"[21, 29]",4,21,29,Windranger,Tidehunter
+2028,"[21, 98]",2,21,98,Windranger,Timbersaw
+3169,"[21, 34]",5,21,34,Windranger,Tinker
+3213,"[21, 83]",5,21,83,Windranger,Treant Protector
+2247,"[21, 95]",3,21,95,Windranger,Troll Warlord
+2056,"[21, 100]",2,21,100,Windranger,Tusk
+3649,"[21, 108]",7,21,108,Windranger,Underlord
+3719,"[21, 85]",8,21,85,Windranger,Undying
+2692,"[21, 70]",4,21,70,Windranger,Ursa
+2705,"[21, 40]",4,21,40,Windranger,Venomancer
+281,"[21, 47]",1,21,47,Windranger,Viper
+2679,"[21, 92]",4,21,92,Windranger,Visage
+4159,"[21, 37]",19,21,37,Windranger,Warlock
+2251,"[21, 63]",3,21,63,Windranger,Weaver
+3164,"[21, 112]",5,21,112,Windranger,Winter Wyvern
+4143,"[21, 30]",17,21,30,Windranger,Witch Doctor
+2707,"[21, 42]",4,21,42,Windranger,Wraith King
+3167,"[21, 22]",5,21,22,Windranger,Zeus
+1048,"[112, 113]",1,112,113,Winter Wyvern,Arc Warden
+3841,"[112, 119]",9,112,119,Winter Wyvern,Dark Willow
+2398,"[112, 114]",3,112,114,Winter Wyvern,Monkey King
+3374,"[112, 120]",6,112,120,Winter Wyvern,Pangolier
+3533,"[30, 102]",7,30,102,Witch Doctor,Abaddon
+3724,"[30, 65]",8,30,65,Witch Doctor,Batrider
+4061,"[30, 38]",13,30,38,Witch Doctor,Beastmaster
+3321,"[30, 62]",5,30,62,Witch Doctor,Bounty Hunter
+3679,"[30, 78]",8,30,78,Witch Doctor,Brewmaster
+3018,"[30, 99]",4,30,99,Witch Doctor,Bristleback
+2399,"[30, 61]",3,30,61,Witch Doctor,Broodmother
+446,"[30, 96]",1,30,96,Witch Doctor,Centaur Warrunner
+1784,"[30, 81]",2,30,81,Witch Doctor,Chaos Knight
+440,"[30, 66]",1,30,66,Witch Doctor,Chen
+3693,"[30, 51]",8,30,51,Witch Doctor,Clockwerk
+2997,"[30, 55]",4,30,55,Witch Doctor,Dark Seer
+1911,"[30, 119]",2,30,119,Witch Doctor,Dark Willow
+3714,"[30, 43]",8,30,43,Witch Doctor,Death Prophet
+3948,"[30, 69]",10,30,69,Witch Doctor,Doom
+3917,"[30, 49]",10,30,49,Witch Doctor,Dragon Knight
+1949,"[30, 107]",2,30,107,Witch Doctor,Earth Spirit
+3937,"[30, 103]",10,30,103,Witch Doctor,Elder Titan
+4165,"[30, 106]",20,30,106,Witch Doctor,Ember Spirit
+421,"[30, 58]",1,30,58,Witch Doctor,Enchantress
+2995,"[30, 33]",4,30,33,Witch Doctor,Enigma
+4048,"[30, 41]",12,30,41,Witch Doctor,Faceless Void
+4123,"[30, 72]",16,30,72,Witch Doctor,Gyrocopter
+3345,"[30, 59]",6,30,59,Witch Doctor,Huskar
+3661,"[30, 74]",7,30,74,Witch Doctor,Invoker
+3618,"[30, 91]",7,30,91,Witch Doctor,Io
+3007,"[30, 64]",4,30,64,Witch Doctor,Jakiro
+448,"[30, 90]",1,30,90,Witch Doctor,Keeper of the Light
+2999,"[30, 104]",4,30,104,Witch Doctor,Legion Commander
+4116,"[30, 52]",15,30,52,Witch Doctor,Leshrac
+4075,"[30, 54]",13,30,54,Witch Doctor,Lifestealer
+2362,"[30, 80]",3,30,80,Witch Doctor,Lone Druid
+3857,"[30, 48]",9,30,48,Witch Doctor,Luna
+3528,"[30, 77]",7,30,77,Witch Doctor,Lycan
+3844,"[30, 97]",9,30,97,Witch Doctor,Magnus
+2394,"[30, 94]",3,30,94,Witch Doctor,Medusa
+453,"[30, 82]",1,30,82,Witch Doctor,Meepo
+2998,"[30, 114]",4,30,114,Witch Doctor,Monkey King
+3831,"[30, 89]",9,30,89,Witch Doctor,Naga Siren
+3100,"[30, 53]",5,30,53,Witch Doctor,Nature's Prophet
+432,"[30, 36]",1,30,36,Witch Doctor,Necrophos
+3446,"[30, 60]",6,30,60,Witch Doctor,Night Stalker
+3299,"[30, 88]",5,30,88,Witch Doctor,Nyx Assassin
+1787,"[30, 84]",2,30,84,Witch Doctor,Ogre Magi
+3606,"[30, 57]",7,30,57,Witch Doctor,Omniknight
+1931,"[30, 111]",2,30,111,Witch Doctor,Oracle
+3728,"[30, 76]",8,30,76,Witch Doctor,Outworld Devourer
+3535,"[30, 120]",7,30,120,Witch Doctor,Pangolier
+2432,"[30, 44]",3,30,44,Witch Doctor,Phantom Assassin
+2993,"[30, 45]",4,30,45,Witch Doctor,Pugna
+3212,"[30, 39]",5,30,39,Witch Doctor,Queen of Pain
+1815,"[30, 86]",2,30,86,Witch Doctor,Rubick
+3720,"[30, 101]",8,30,101,Witch Doctor,Skywrath Mage
+2395,"[30, 93]",3,30,93,Witch Doctor,Slark
+433,"[30, 35]",1,30,35,Witch Doctor,Sniper
+2371,"[30, 67]",3,30,67,Witch Doctor,Spectre
+460,"[30, 71]",1,30,71,Witch Doctor,Spirit Breaker
+2430,"[30, 46]",3,30,46,Witch Doctor,Templar Assassin
+3541,"[30, 109]",7,30,109,Witch Doctor,Terrorblade
+445,"[30, 98]",1,30,98,Witch Doctor,Timbersaw
+434,"[30, 34]",1,30,34,Witch Doctor,Tinker
+1785,"[30, 83]",2,30,83,Witch Doctor,Treant Protector
+3020,"[30, 95]",4,30,95,Witch Doctor,Troll Warlord
+4177,"[30, 100]",23,30,100,Witch Doctor,Tusk
+3553,"[30, 108]",7,30,108,Witch Doctor,Underlord
+3434,"[30, 85]",6,30,85,Witch Doctor,Undying
+461,"[30, 70]",1,30,70,Witch Doctor,Ursa
+2994,"[30, 40]",4,30,40,Witch Doctor,Venomancer
+2991,"[30, 47]",4,30,47,Witch Doctor,Viper
+3022,"[30, 92]",4,30,92,Witch Doctor,Visage
+1802,"[30, 63]",2,30,63,Witch Doctor,Weaver
+2439,"[30, 112]",3,30,112,Witch Doctor,Winter Wyvern
+429,"[30, 42]",1,30,42,Witch Doctor,Wraith King
+2895,"[42, 73]",4,42,73,Wraith King,Alchemist
+1668,"[42, 113]",2,42,113,Wraith King,Arc Warden
+1678,"[42, 78]",2,42,78,Wraith King,Brewmaster
+3061,"[42, 61]",5,42,61,Wraith King,Broodmother
+3795,"[42, 66]",8,42,66,Wraith King,Chen
+3567,"[42, 56]",7,42,56,Wraith King,Clinkz
+4187,"[42, 119]",26,42,119,Wraith King,Dark Willow
+655,"[42, 43]",1,42,43,Wraith King,Death Prophet
+1696,"[42, 87]",2,42,87,Wraith King,Disruptor
+658,"[42, 69]",1,42,69,Wraith King,Doom
+3410,"[42, 49]",6,42,49,Wraith King,Dragon Knight
+2628,"[42, 107]",3,42,107,Wraith King,Earth Spirit
+652,"[42, 106]",1,42,106,Wraith King,Ember Spirit
+1675,"[42, 58]",2,42,58,Wraith King,Enchantress
+3168,"[42, 72]",5,42,72,Wraith King,Gyrocopter
+2893,"[42, 59]",4,42,59,Wraith King,Huskar
+2560,"[42, 74]",3,42,74,Wraith King,Invoker
+2896,"[42, 91]",4,42,91,Wraith King,Io
+2546,"[42, 90]",3,42,90,Wraith King,Keeper of the Light
+671,"[42, 104]",1,42,104,Wraith King,Legion Commander
+2892,"[42, 52]",4,42,52,Wraith King,Leshrac
+656,"[42, 54]",1,42,54,Wraith King,Lifestealer
+1679,"[42, 80]",2,42,80,Wraith King,Lone Druid
+1671,"[42, 48]",2,42,48,Wraith King,Luna
+660,"[42, 82]",1,42,82,Wraith King,Meepo
+654,"[42, 114]",1,42,114,Wraith King,Monkey King
+665,"[42, 89]",1,42,89,Wraith King,Naga Siren
+1672,"[42, 53]",2,42,53,Wraith King,Nature's Prophet
+1676,"[42, 60]",2,42,60,Wraith King,Night Stalker
+663,"[42, 88]",1,42,88,Wraith King,Nyx Assassin
+3186,"[42, 84]",5,42,84,Wraith King,Ogre Magi
+657,"[42, 57]",1,42,57,Wraith King,Omniknight
+1667,"[42, 111]",2,42,111,Wraith King,Oracle
+659,"[42, 76]",1,42,76,Wraith King,Outworld Devourer
+2890,"[42, 120]",4,42,120,Wraith King,Pangolier
+2907,"[42, 110]",4,42,110,Wraith King,Phoenix
+3081,"[42, 45]",5,42,45,Wraith King,Pugna
+1682,"[42, 86]",2,42,86,Wraith King,Rubick
+3566,"[42, 75]",7,42,75,Wraith King,Silencer
+673,"[42, 101]",1,42,101,Wraith King,Skywrath Mage
+2894,"[42, 67]",4,42,67,Wraith King,Spectre
+3396,"[42, 46]",6,42,46,Wraith King,Templar Assassin
+667,"[42, 98]",1,42,98,Wraith King,Timbersaw
+661,"[42, 83]",1,42,83,Wraith King,Treant Protector
+666,"[42, 95]",1,42,95,Wraith King,Troll Warlord
+1432,"[42, 100]",2,42,100,Wraith King,Tusk
+653,"[42, 108]",1,42,108,Wraith King,Underlord
+3185,"[42, 85]",5,42,85,Wraith King,Undying
+3390,"[42, 70]",6,42,70,Wraith King,Ursa
+3560,"[42, 63]",7,42,63,Wraith King,Weaver
+4041,"[42, 112]",12,42,112,Wraith King,Winter Wyvern
+59,"[22, 102]",1,22,102,Zeus,Abaddon
+77,"[22, 68]",1,22,68,Zeus,Ancient Apparition
+80,"[22, 65]",1,22,65,Zeus,Batrider
+2005,"[22, 38]",2,22,38,Zeus,Beastmaster
+81,"[22, 62]",1,22,62,Zeus,Bounty Hunter
+71,"[22, 78]",1,22,78,Zeus,Brewmaster
+2025,"[22, 96]",2,22,96,Zeus,Centaur Warrunner
+3052,"[22, 66]",4,22,66,Zeus,Chen
+2014,"[22, 56]",2,22,56,Zeus,Clinkz
+2235,"[22, 119]",3,22,119,Zeus,Dark Willow
+86,"[22, 50]",1,22,50,Zeus,Dazzle
+88,"[22, 43]",1,22,43,Zeus,Death Prophet
+3277,"[22, 87]",5,22,87,Zeus,Disruptor
+2239,"[22, 69]",3,22,69,Zeus,Doom
+2244,"[22, 49]",3,22,49,Zeus,Dragon Knight
+58,"[22, 103]",1,22,103,Zeus,Elder Titan
+2639,"[22, 106]",4,22,106,Zeus,Ember Spirit
+66,"[22, 33]",1,22,33,Zeus,Enigma
+2666,"[22, 41]",4,22,41,Zeus,Faceless Void
+74,"[22, 72]",1,22,72,Zeus,Gyrocopter
+2026,"[22, 91]",2,22,91,Zeus,Io
+50,"[22, 23]",1,22,23,Zeus,Kunkka
+2041,"[22, 104]",2,22,104,Zeus,Legion Commander
+85,"[22, 52]",1,22,52,Zeus,Leshrac
+47,"[22, 31]",1,22,31,Zeus,Lich
+2015,"[22, 54]",2,22,54,Zeus,Lifestealer
+2021,"[22, 25]",2,22,25,Zeus,Lina
+46,"[22, 80]",1,22,80,Zeus,Lone Druid
+2013,"[22, 48]",2,22,48,Zeus,Luna
+3262,"[22, 77]",5,22,77,Zeus,Lycan
+2024,"[22, 97]",2,22,97,Zeus,Magnus
+2042,"[22, 114]",2,22,114,Zeus,Monkey King
+2232,"[22, 89]",3,22,89,Zeus,Naga Siren
+84,"[22, 53]",1,22,53,Zeus,Nature's Prophet
+2003,"[22, 36]",2,22,36,Zeus,Necrophos
+3055,"[22, 60]",4,22,60,Zeus,Night Stalker
+54,"[22, 111]",1,22,111,Zeus,Oracle
+51,"[22, 120]",1,22,120,Zeus,Pangolier
+2243,"[22, 45]",3,22,45,Zeus,Pugna
+3286,"[22, 86]",5,22,86,Zeus,Rubick
+70,"[22, 79]",1,22,79,Zeus,Shadow Demon
+2238,"[22, 75]",3,22,75,Zeus,Silencer
+2036,"[22, 101]",2,22,101,Zeus,Skywrath Mage
+2245,"[22, 93]",3,22,93,Zeus,Slark
+2240,"[22, 67]",3,22,67,Zeus,Spectre
+75,"[22, 71]",1,22,71,Zeus,Spirit Breaker
+55,"[22, 109]",1,22,109,Zeus,Terrorblade
+3032,"[22, 83]",4,22,83,Zeus,Treant Protector
+16,"[22, 95]",1,22,95,Zeus,Troll Warlord
+2031,"[22, 100]",2,22,100,Zeus,Tusk
+56,"[22, 108]",1,22,108,Zeus,Underlord
+3272,"[22, 85]",5,22,85,Zeus,Undying
+76,"[22, 70]",1,22,70,Zeus,Ursa
+18,"[22, 92]",1,22,92,Zeus,Visage
+3258,"[22, 37]",5,22,37,Zeus,Warlock
+3267,"[22, 63]",5,22,63,Zeus,Weaver
+53,"[22, 112]",1,22,112,Zeus,Winter Wyvern
+3361,"[22, 30]",6,22,30,Zeus,Witch Doctor
+2241,"[22, 42]",3,22,42,Zeus,Wraith King

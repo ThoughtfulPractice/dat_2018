@@ -1,116 +1,116 @@
-hero_id,num_bans,num_picks,hero_name,sum_pickban
-91,549,77.0,Io,626.0
-12,316,134.0,Phantom Lancer,450.0
-77,281,96.0,Lycan,377.0
-66,276,70.0,Chen,346.0
-60,276,105.0,Night Stalker,381.0
-89,258,141.0,Naga Siren,399.0
-43,196,146.0,Death Prophet,342.0
-53,179,86.0,Nature's Prophet,265.0
-4,177,88.0,Bloodseeker,265.0
-38,170,155.0,Beastmaster,325.0
-57,167,68.0,Omniknight,235.0
-61,166,33.0,Broodmother,199.0
-51,166,133.0,Clockwerk,299.0
-19,160,128.0,Tiny,288.0
-58,155,40.0,Enchantress,195.0
-49,146,161.0,Dragon Knight,307.0
-3,145,173.0,Bane,318.0
-10,142,82.0,Morphling,224.0
-92,141,53.0,Visage,194.0
-16,139,190.0,Sand King,329.0
-54,139,88.0,Lifestealer,227.0
-72,131,169.0,Gyrocopter,300.0
-52,129,179.0,Leshrac,308.0
-9,126,154.0,Mirana,280.0
-106,123,112.0,Ember Spirit,235.0
-23,122,96.0,Kunkka,218.0
-63,122,71.0,Weaver,193.0
-93,121,63.0,Slark,184.0
-62,121,39.0,Bounty Hunter,160.0
-25,119,148.0,Lina,267.0
-15,115,61.0,Razor,176.0
-75,115,73.0,Silencer,188.0
-36,114,60.0,Necrophos,174.0
-37,112,141.0,Warlock,253.0
-41,110,75.0,Faceless Void,185.0
-109,109,57.0,Terrorblade,166.0
-100,109,142.0,Tusk,251.0
-45,109,65.0,Pugna,174.0
-88,108,70.0,Nyx Assassin,178.0
-69,106,114.0,Doom,220.0
-80,99,38.0,Lone Druid,137.0
-76,96,58.0,Outworld Devourer,154.0
-48,95,88.0,Luna,183.0
-46,95,75.0,Templar Assassin,170.0
-6,94,51.0,Drow Ranger,145.0
-59,90,30.0,Huskar,120.0
-119,88,100.0,Dark Willow,188.0
-2,83,71.0,Axe,154.0
-108,81,74.0,Underlord,155.0
-85,79,89.0,Undying,168.0
-120,76,69.0,Pangolier,145.0
-17,76,84.0,Storm Spirit,160.0
-65,75,59.0,Batrider,134.0
-21,69,136.0,Windranger,205.0
-67,67,66.0,Spectre,133.0
-42,67,74.0,Wraith King,141.0
-56,61,59.0,Clinkz,120.0
-78,61,78.0,Brewmaster,139.0
-47,59,39.0,Viper,98.0
-87,59,148.0,Disruptor,207.0
-101,57,119.0,Skywrath Mage,176.0
-103,55,95.0,Elder Titan,150.0
-33,51,33.0,Enigma,84.0
-70,50,52.0,Ursa,102.0
-112,50,78.0,Winter Wyvern,128.0
-40,50,53.0,Venomancer,103.0
-20,47,118.0,Vengeful Spirit,165.0
-64,45,114.0,Jakiro,159.0
-11,43,37.0,Shadow Fiend,80.0
-95,42,54.0,Troll Warlord,96.0
-74,41,41.0,Invoker,82.0
-30,41,141.0,Witch Doctor,182.0
-68,40,55.0,Ancient Apparition,95.0
-5,40,60.0,Crystal Maiden,100.0
-34,40,28.0,Tinker,68.0
-94,39,38.0,Medusa,77.0
-13,38,43.0,Puck,81.0
-97,38,48.0,Magnus,86.0
-73,34,28.0,Alchemist,62.0
-102,34,34.0,Abaddon,68.0
-114,33,43.0,Monkey King,76.0
-55,32,43.0,Dark Seer,75.0
-86,32,112.0,Rubick,144.0
-29,32,39.0,Tidehunter,71.0
-110,28,53.0,Phoenix,81.0
-22,25,43.0,Zeus,68.0
-82,25,8.0,Meepo,33.0
-7,24,72.0,Earthshaker,96.0
-113,24,18.0,Arc Warden,42.0
-98,23,23.0,Timbersaw,46.0
-39,22,44.0,Queen of Pain,66.0
-104,19,30.0,Legion Commander,49.0
-8,19,32.0,Juggernaut,51.0
-99,17,14.0,Bristleback,31.0
-111,15,40.0,Oracle,55.0
-81,14,21.0,Chaos Knight,35.0
-90,14,20.0,Keeper of the Light,34.0
-27,13,29.0,Shadow Shaman,42.0
-14,12,9.0,Pudge,21.0
-83,11,25.0,Treant Protector,36.0
-28,11,35.0,Slardar,46.0
-107,11,49.0,Earth Spirit,60.0
-26,10,58.0,Lion,68.0
-84,10,33.0,Ogre Magi,43.0
-79,10,46.0,Shadow Demon,56.0
-1,8,13.0,Anti-Mage,21.0
-105,8,0.0,Techies,8.0
-31,8,23.0,Lich,31.0
-44,7,18.0,Phantom Assassin,25.0
-71,7,14.0,Spirit Breaker,21.0
-96,7,22.0,Centaur Warrunner,29.0
-18,5,10.0,Sven,15.0
-35,2,9.0,Sniper,11.0
-50,2,15.0,Dazzle,17.0
-32,2,6.0,Riki,8.0
+hero_id,hero_name,num_bans,num_picks,sum_pickban
+91,Io,549,77,626
+12,Phantom Lancer,316,134,450
+89,Naga Siren,258,141,399
+60,Night Stalker,276,105,381
+77,Lycan,281,96,377
+66,Chen,276,70,346
+43,Death Prophet,196,146,342
+16,Sand King,139,190,329
+38,Beastmaster,170,155,325
+3,Bane,145,173,318
+52,Leshrac,129,179,308
+49,Dragon Knight,146,161,307
+72,Gyrocopter,131,169,300
+51,Clockwerk,166,133,299
+19,Tiny,160,128,288
+9,Mirana,126,154,280
+25,Lina,119,148,267
+53,Nature's Prophet,179,86,265
+4,Bloodseeker,177,88,265
+37,Warlock,112,141,253
+100,Tusk,109,142,251
+57,Omniknight,167,68,235
+106,Ember Spirit,123,112,235
+54,Lifestealer,139,88,227
+10,Morphling,142,82,224
+69,Doom,106,114,220
+23,Kunkka,122,96,218
+87,Disruptor,59,148,207
+21,Windranger,69,136,205
+61,Broodmother,166,33,199
+58,Enchantress,155,40,195
+92,Visage,141,53,194
+63,Weaver,122,71,193
+75,Silencer,115,73,188
+119,Dark Willow,88,100,188
+41,Faceless Void,110,75,185
+93,Slark,121,63,184
+48,Luna,95,88,183
+30,Witch Doctor,41,141,182
+88,Nyx Assassin,108,70,178
+15,Razor,115,61,176
+101,Skywrath Mage,57,119,176
+36,Necrophos,114,60,174
+45,Pugna,109,65,174
+46,Templar Assassin,95,75,170
+85,Undying,79,89,168
+109,Terrorblade,109,57,166
+20,Vengeful Spirit,47,118,165
+62,Bounty Hunter,121,39,160
+17,Storm Spirit,76,84,160
+64,Jakiro,45,114,159
+108,Underlord,81,74,155
+76,Outworld Devourer,96,58,154
+2,Axe,83,71,154
+103,Elder Titan,55,95,150
+6,Drow Ranger,94,51,145
+120,Pangolier,76,69,145
+86,Rubick,32,112,144
+42,Wraith King,67,74,141
+78,Brewmaster,61,78,139
+80,Lone Druid,99,38,137
+65,Batrider,75,59,134
+67,Spectre,67,66,133
+112,Winter Wyvern,50,78,128
+59,Huskar,90,30,120
+56,Clinkz,61,59,120
+40,Venomancer,50,53,103
+70,Ursa,50,52,102
+5,Crystal Maiden,40,60,100
+47,Viper,59,39,98
+95,Troll Warlord,42,54,96
+7,Earthshaker,24,72,96
+68,Ancient Apparition,40,55,95
+97,Magnus,38,48,86
+33,Enigma,51,33,84
+74,Invoker,41,41,82
+13,Puck,38,43,81
+110,Phoenix,28,53,81
+11,Shadow Fiend,43,37,80
+94,Medusa,39,38,77
+114,Monkey King,33,43,76
+55,Dark Seer,32,43,75
+29,Tidehunter,32,39,71
+34,Tinker,40,28,68
+102,Abaddon,34,34,68
+22,Zeus,25,43,68
+26,Lion,10,58,68
+39,Queen of Pain,22,44,66
+73,Alchemist,34,28,62
+107,Earth Spirit,11,49,60
+79,Shadow Demon,10,46,56
+111,Oracle,15,40,55
+8,Juggernaut,19,32,51
+104,Legion Commander,19,30,49
+98,Timbersaw,23,23,46
+28,Slardar,11,35,46
+84,Ogre Magi,10,33,43
+113,Arc Warden,24,18,42
+27,Shadow Shaman,13,29,42
+83,Treant Protector,11,25,36
+81,Chaos Knight,14,21,35
+90,Keeper of the Light,14,20,34
+82,Meepo,25,8,33
+99,Bristleback,17,14,31
+31,Lich,8,23,31
+96,Centaur Warrunner,7,22,29
+44,Phantom Assassin,7,18,25
+14,Pudge,12,9,21
+1,Anti-Mage,8,13,21
+71,Spirit Breaker,7,14,21
+50,Dazzle,2,15,17
+18,Sven,5,10,15
+35,Sniper,2,9,11
+105,Techies,8,0,8
+32,Riki,2,6,8
